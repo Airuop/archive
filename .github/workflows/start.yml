@@ -1,15 +1,23 @@
-name: test
+name: Dependant
 
 on: push
 
-jobs: 
-    main: 
-        runs-os: ubuntu-latest
-        steps:
-            -run: date
-    depend:
-        needs: [main]
-        runs-os: ubuntu-latest
-        steps: 
-            -run: date
-           
+jobs:
+  ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - run: date
+  windows:
+    needs: [ macos ]
+    runs-on: windows-latest
+    steps:
+      - run: date
+  macos:
+    runs-on: macos-latest
+    steps:
+      - run: date
+  depends:
+    needs: [ ubuntu, windows, macos ]
+    runs-on: macos-latest
+    steps:
+      - run: date
