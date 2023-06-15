@@ -1,0 +1,16 @@
+name: test
+
+on: push
+
+jobs: 
+    main: 
+        runs:
+            runs-os: ubuntu-latest
+            steps:
+                -run: date
+    depend:
+        needs: [main]
+        runs-os: ubuntu-latest
+        steps: 
+            -run: date
+           
