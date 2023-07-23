@@ -52,9 +52,10 @@ jobs:
         path: ./
 
     - name: Commit file
-      run: |
-        git config --global user.name 'Your Name'
-        git config --global user.email 'your-email@example.com'
+      run: |        
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git pull origin master
         git add output.txt
-        git commit -m "Add output file"
+        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
         git push
