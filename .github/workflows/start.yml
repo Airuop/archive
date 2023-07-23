@@ -1,38 +1,42 @@
-name: Collect
+name: Example Workflow
 
-on:
+on: 
+  push:
   workflow_dispatch:
   schedule:
-    # - cron: '*/5 * * * *'
-    # 表达式生成  https://crontab.guru/
-    - cron: "0 0,12 * * *"
+   - cron: "0 0,12 * * *"
 
 jobs:
 
   run-script:
 
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
 
     steps:
 
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Set up Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: '14'
 
-    - name: Install dependencies
+    - name: Install dependencies  
       run: npm install
 
     - name: Run script
       run: |
-        node index.js > output.txt
+       node index.js > output.txt
 
-    - name: Commit file
-      run: |        
+    - name: Output file
+      run: |
+        cat output.txt
+
+    - name: Commit changes
+
+      run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add output.txt
-        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
+        git commit -m "Add output file"
         git push
