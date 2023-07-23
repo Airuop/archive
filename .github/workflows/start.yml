@@ -1,10 +1,10 @@
 name: Example Workflow
 
-on: 
+on:
   push:
   workflow_dispatch:
   schedule:
-   - cron: "0 0,12 * * *"
+   - cron: "0 0,12 * * *"  
 
 jobs:
 
@@ -13,24 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v1
       with:
         node-version: '14'
 
-    - name: Install dependencies  
+    - name: Install dependencies
       run: npm install
 
     - name: Run script
       run: |
-       node cat output.txt 
-       node index.js > output.txt
+        node index.js > output.txt
 
     - name: Commit changes
       run: |
-        git add output.txt
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
+        git add output.txt
         git commit -m "Add output file"
         git push
