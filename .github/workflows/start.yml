@@ -29,18 +29,6 @@ jobs:
       run: |
         node index.js > output.txt
 
-    - name: Upload output file
-      uses: actions/upload-artifact@v2
-      with:
-        name: output-file
-        path: output.txt
-
-    - name: Download output file
-      uses: actions/checkout@v2
-      with: 
-        name: output-file
-        path: ./
-
     - name: Commit file
       run: |        
         git config --local user.email "actions@github.com"
