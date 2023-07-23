@@ -1,46 +1,33 @@
-name: Run Node.js script
+name: Example 
 
-on: [push] 
+on: push
 
 jobs:
 
-  run-node:
+  run-script:
 
     runs-on: ubuntu-latest
 
     steps:
-    
+
     - uses: actions/checkout@v2
 
-    - name: Set up Node.js
-
+    - name: Set up Node.js  
       uses: actions/setup-node@v2
-
-      with: 
-
+      with:
         node-version: '14'
 
-    - name: Install dependencies
-
+    - name: Install dependencies  
       run: npm install
 
     - name: Run script
-
       id: runscript
-
       run: |
-
         node index.js > output.txt
 
-        echo "::set-output name=output::$(cat output.txt)"
-        
+        SUM=$(cat output.txt | grep "is:" | cut -d' ' -f5)
 
-    - name: Upload output artifact 
+        echo "::set-output name=sum::$SUM"
 
-      uses: actions/upload-artifact@v2
-
-      with:
-
-        name: output-log
-
-        path: output.txt
+    - name: Echo sum
+      run: echo "The sum is ${{ steps.runscript.outputs.sum }}"
