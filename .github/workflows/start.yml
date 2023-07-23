@@ -28,10 +28,6 @@ jobs:
       run: |
        node index.js > output.txt
 
-    - name: Output file
-      run: |
-        cat output.txt
-
     - name: Commit changes
 
       run: |
