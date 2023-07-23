@@ -24,6 +24,7 @@ jobs:
 
     - name: Run script
       run: |
+       node cat output.txt 
        node index.js > output.txt
 
     - name: Commit changes
