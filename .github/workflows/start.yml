@@ -1,23 +1,46 @@
-name: Dependant
+name: Run Node.js script
 
-on: push
+on: [push] 
 
 jobs:
-  ubuntu:
+
+  run-node:
+
     runs-on: ubuntu-latest
+
     steps:
-      - run: date
-  windows:
-    needs: [ macos ]
-    runs-on: windows-latest
-    steps:
-      - run: date
-  macos:
-    runs-on: macos-latest
-    steps:
-      - run: date
-  depends:
-    needs: [ ubuntu, windows, macos ]
-    runs-on: macos-latest
-    steps:
-      - run: date
+    
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+
+      uses: actions/setup-node@v2
+
+      with: 
+
+        node-version: '14'
+
+    - name: Install dependencies
+
+      run: npm install
+
+    - name: Run script
+
+      id: runscript
+
+      run: |
+
+        node index.js > output.txt
+
+        echo "::set-output name=output::$(cat output.txt)"
+        
+
+    - name: Upload output artifact 
+
+      uses: actions/upload-artifact@v2
+
+      with:
+
+        name: output-log
+
+        path: output.txt
