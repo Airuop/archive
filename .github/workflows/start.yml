@@ -1,4 +1,4 @@
-name: Example 
+name: Example
 
 on: push
 
@@ -12,22 +12,17 @@ jobs:
 
     - uses: actions/checkout@v2
 
-    - name: Set up Node.js  
+    - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '14'
 
-    - name: Install dependencies  
+    - name: Install dependencies
       run: npm install
 
     - name: Run script
-      id: runscript
       run: |
-        node index.js > output.txt
+       node index.js > output.txt
 
-        SUM=$(cat output.txt | grep "is:" | cut -d' ' -f5)
-
-        echo "::set-output name=sum::$SUM"
-
-    - name: Echo sum
-      run: echo "The sum is ${{ steps.runscript.outputs.sum }}"
+    - name: Print output
+      run: cat output.txt
