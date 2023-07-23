@@ -6,7 +6,7 @@ jobs:
 
   run-script:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
 
     steps:
 
@@ -22,7 +22,34 @@ jobs:
 
     - name: Run script
       run: |
-       node index.js > output.txt
+        node index.js > output.txt
 
-    - name: Print output
-      run: cat output.txt
+    - name: Upload output file
+      uses: actions/upload-artifact@v2
+      with:
+        name: output-file
+        path: output.txt
+
+  download-output:
+
+    needs: run-script
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Download output file
+      uses: actions/download-artifact@v2
+      with: 
+        name: output-file
+        path: ./
+
+    - name: Commit file
+      run: |
+        git config --global user.name 'Your Name'
+        git config --global user.email 'your-email@example.com'
+        git add output.txt
+        git commit -m "Add output file"
+        git push
