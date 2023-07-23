@@ -1,4 +1,4 @@
-name: Example Workflow
+name: Final
 
 on:
   push:
@@ -10,12 +10,14 @@ jobs:
 
   run-script:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
 
     steps:
+
     - uses: actions/checkout@v2
+
     - name: Set up Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v2
       with:
         node-version: '14'
 
@@ -25,11 +27,33 @@ jobs:
     - name: Run script
       run: |
         node index.js > output.txt
+    - name: Upload output file
+      uses: actions/upload-artifact@v2
+      with:
+        name: output-file
+        path: output.txt
 
-    - name: Commit changes
-      run: |
+  download-output:
+
+    needs: run-script
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Download output file
+      uses: actions/download-artifact@v2
+      with: 
+        name: output-file
+        path: ./
+
+    - name: Commit file
+      run: |        
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
+        git pull origin main
         git add output.txt
-        git commit -m "Add output file"
+        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
         git push
