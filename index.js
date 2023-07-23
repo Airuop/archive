@@ -1,4 +1,7 @@
-const Worker = require('./output.txt');
+const fs = require('fs');
+const Worker = fs.readFileSync('./output.txt',
+    { encoding: 'utf8', flag: 'r' });
+
 const num1 = 10;
 const num2 = 2230;
 
