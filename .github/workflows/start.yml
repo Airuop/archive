@@ -35,18 +35,8 @@ jobs:
         name: output-file
         path: output.txt
 
-  download-output:
-
-    needs: run-script
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-    - uses: actions/checkout@v2
-
     - name: Download output file
-      uses: actions/download-artifact@v2
+      uses: actions/checkout@v2
       with: 
         name: output-file
         path: ./
