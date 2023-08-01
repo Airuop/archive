@@ -19,11 +19,12 @@ jobs:
     - name: Run crul
       run: |
         wget https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality
+        mv reality $(date '+%Y-%m-%d').txt
     - name: Upload output file
       uses: actions/upload-artifact@v2
       with:
         name: output-file
-        path: reality
+        path: $(date '+%Y-%m-%d').txt
 
   download-output:
 
@@ -39,13 +40,13 @@ jobs:
       uses: actions/download-artifact@v2
       with: 
         name: output-file
-        path: ./Js/
+        path: ./
 
     - name: Commit file
       run: |        
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git pull origin main
-        git add $(date '+%Y-%m-%d %H:%M:%S').txt
+        git add ./Js/$(date '+%Y-%m-%d').txt
         git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
         git push
