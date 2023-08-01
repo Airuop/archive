@@ -2,8 +2,8 @@ import re
 import time
 import os
 
-update_path = './Js/'
-input_file = './out.txt'
+update_path = './update/'
+input_file = './reality'
 
 def backup(file):
     try:
