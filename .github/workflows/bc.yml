@@ -1,9 +1,7 @@
-name: Final
+name: Crul
 
 on:
-  push:
-    paths:
-      - "./output.txt"
+
   workflow_dispatch:
   schedule:
    - cron: "0 0,12 * * *"  
@@ -41,7 +39,7 @@ jobs:
       uses: actions/download-artifact@v2
       with: 
         name: output-file
-        path: ./
+        path: ./Js/
 
     - name: Commit file
       run: |        
