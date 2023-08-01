@@ -16,6 +16,19 @@ jobs:
         with:
           python-version: "3.x"
           cache: "pip"
+      # setup actions has built-in caching function
+      # - uses: actions/cache@v3
+      #   with:
+      #     path: ~/.cache/pip
+      #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-pip-
+      # - uses: actions/cache@v3
+      #   with:
+      #     path: ~/.cache/yarn
+      #     key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-node-
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Tehran'
       - name: Install Requirements
