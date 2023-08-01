@@ -18,12 +18,12 @@ jobs:
 
     - name: Run crul
       run: |
-        wget https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality >> 1.text
+        wget https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality
     - name: Upload output file
       uses: actions/upload-artifact@v2
       with:
         name: output-file
-        path: 1.txt
+        path: reality
 
   download-output:
 
