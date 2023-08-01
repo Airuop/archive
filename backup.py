@@ -3,7 +3,7 @@ import time
 import os
 
 update_path = './update/'
-input_file = 'reality'
+input_file = './reality.txt'
 
 def backup(file):
     try:
