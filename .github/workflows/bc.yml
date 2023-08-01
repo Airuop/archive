@@ -1,0 +1,53 @@
+name: Final
+
+on:
+  push:
+    paths:
+      - "./output.txt"
+  workflow_dispatch:
+  schedule:
+   - cron: "0 0,12 * * *"  
+
+jobs:
+
+  run-script:
+
+    runs-on: ubuntu-latest 
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Run crul
+      run: |
+        wget -O $(date '+%Y-%m-%d %H:%M:%S').text https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality
+    - name: Upload output file
+      uses: actions/upload-artifact@v2
+      with:
+        name: output-file
+        path: $(date '+%Y-%m-%d %H:%M:%S').txt
+
+  download-output:
+
+    needs: run-script
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Download output file
+      uses: actions/download-artifact@v2
+      with: 
+        name: output-file
+        path: ./
+
+    - name: Commit file
+      run: |        
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git pull origin main
+        git add $(date '+%Y-%m-%d %H:%M:%S').txt
+        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
+        git push
