@@ -25,6 +25,9 @@ jobs:
           sleep 5
           wget wget https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality
           mv reality ./reality.txt
+          echo ./reality.txt
+      - name: run py
+        run: |
           python ./backup.py
       - name: Commit changes
         run: |
