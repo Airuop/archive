@@ -1,9 +1,12 @@
 import re
 import time
 import os
+import requests
 
 update_path = './update/'
-input_file = './reality.txt'
+
+url = 'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality'
+data = requests.get(url).text
 
 def backup(file):
     try:
@@ -26,5 +29,4 @@ def backup(file):
     except Exception as e:
         print("Error While backup")
 
-
-backup(input_file)
+backup(data)
