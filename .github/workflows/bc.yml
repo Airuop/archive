@@ -18,12 +18,12 @@ jobs:
 
     - name: Run crul
       run: |
-        wget -O $(date '+%Y-%m-%d %H:%M:%S').text https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality
+        wget https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality >> 1.text
     - name: Upload output file
       uses: actions/upload-artifact@v2
       with:
         name: output-file
-        path: $(date '+%Y-%m-%d %H:%M:%S').txt
+        path: 1.txt
 
   download-output:
 
