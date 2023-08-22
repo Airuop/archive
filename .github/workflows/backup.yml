@@ -1,7 +1,7 @@
 name: Backup
 on:
-  workflow_dispatch:
-  push:
+  #workflow_dispatch:
+  #push:
   schedule:
     # - cron: '*/5 * * * *'
     # 表达式生成  https://crontab.guru/
