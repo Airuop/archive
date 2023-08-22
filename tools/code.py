@@ -5,6 +5,7 @@ import natsort
 
 folder = './update/2308/'
 output_file_final = f'{folder}/final.txt'
+output_file = f'{folder}/integrated.txt'
 
 txt_files = [f for f in os.listdir(folder) if f.endswith('.txt')]
 
@@ -42,6 +43,11 @@ for line in sorted_lines:
     if line not in deduped_lines:
         deduped_lines.append(line)
 
+with open(output_file, 'w') as outfile:
+    for line in sorted_lines:
+        outfile.write(line)
+    print("\n"+"Server merge completed...!"+"\n")
+    
 final_lines = []
 
 for line in deduped_lines:
