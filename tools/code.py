@@ -3,7 +3,7 @@ import os
 import re
 import natsort
 
-folder = 'Source'
+folder = './update/2308/'
 output_file_final = 'Final.txt'
 
 txt_files = [f for f in os.listdir(folder) if f.endswith('.txt')]
