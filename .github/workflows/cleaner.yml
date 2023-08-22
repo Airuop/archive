@@ -23,7 +23,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull origin master
-          git Final.txt
+          git add -A
           git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
       - name: Push Change
         uses: ad-m/github-push-action@master
