@@ -4,7 +4,7 @@ import re
 import natsort
 
 folder = './update/2308/'
-output_file_final = 'Final.txt'
+output_file_final = f'{folder}/final.txt'
 
 txt_files = [f for f in os.listdir(folder) if f.endswith('.txt')]
 
