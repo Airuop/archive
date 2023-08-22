@@ -1,6 +1,6 @@
 name: Backup
 on:
-  #workflow_dispatch:
+  workflow_dispatch:
   #push:
   schedule:
     # - cron: '*/5 * * * *'
