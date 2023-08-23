@@ -8,7 +8,7 @@ url = 'https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.
 response = requests.get(url)
 
 
-def backup(data):
+def backup(response):
   date_dir = datetime.now().strftime("%y%m") + "S"
   date_file = datetime.now().strftime("%y%m%d_%H%M")
 
@@ -29,4 +29,4 @@ def backup(data):
   except OSError:
     print("Error writing backup file")
 
-backup(data)
+backup(response)
