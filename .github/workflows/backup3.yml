@@ -1,0 +1,36 @@
+name: Backup3
+on:
+  workflow_dispatch:
+  #push:
+  schedule:
+    # - cron: '*/5 * * * *'
+    # 表达式生成  https://crontab.guru/
+    - cron: "0 * * * *"
+jobs:
+  main:
+    name: Backup3
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4.7.0
+        with:
+          python-version: "3.11"
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Tehran'
+      - name: Install Requirements
+        run: |
+          pip install requests
+      - name: run py
+        run: |
+          python ./tools/backup3.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull origin master
+          git add ./update/*
+          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
+      - name: Push Change
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
