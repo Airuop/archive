@@ -1,5 +1,4 @@
 vmess://eyJhZGQiOiAiODAuMjQ5LjExMy4yMDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiaWQiOiAiY2ZjYjZjNTAtYzc3Zi00YjMyLTgwZWQtNjFhM2Y4ZGFjZjQzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTUxMDAiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRmMGYgSVItODAuMjQ5LjExMy4yMDc6MTUxMDAgXHVkODNkXHVkY2UxIFBJTkctMjI3LjU5LU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
-
 vless://e6c07d63-7e6f-4c47-e4f5-1b50fbeb4a00@31.47.49.2:80?security=none&sni=bia-to3.unlimiteddev.xyz&type=ws&host=bia-to3.unlimiteddev.xyz&path=/# VL-WS-NONE  IR-31.47.49.2:80  PING-219.72-MS
 vless://98e3535b-cbc1-4534-abc0-a4611d07bf74@31.214.250.159:17974?security=none&type=ws&path=%2F# VL-WS-NONE  IR-31.214.250.159:17974  PING-227.42-MS
 vless://bae0c50a-7d80-4301-982c-6c22a2082e62@37.152.177.246:10010?security=none&type=ws&host=alph.adigi-land.shop&path=Telegram:# VL-WS-NONE  IR-37.152.177.246:10010  PING-227.87-MS
@@ -11,9 +10,7 @@ vless://e9af5fff-d70c-4e50-85cf-94ab482e5fb2@85.133.237.195:1073?security=none&t
 vless://ca4aa5f9-d682-49d7-9dae-2306fd4a5ced@85.198.12.167:29131?security=none&type=tcp&host=discord.com&headerType=http# VL-TCP-NONE  IR-85.198.12.167:29131  PING-327.27-MS
 vless://b5cd0b05-45cc-4879-95d8-d3fe5b5e8f25@88.135.40.67:1001?security=none&type=tcp&host=hidata.org&headerType=http# VL-TCP-NONE  IR-88.135.40.67:1001  PING-237.55-MS
 trojan://acbbaca-baca-cbaa-bdca-ccacaabbcbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  13:28
-
 trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-231.24-MS
-
 vless://7ad04f99-c6e4-40b8-83db-905da54cd79e@185.135.47.183:53684?security=tls&sni=server.configforvpn.online&type=tcp&alpn=h2%2Chttp%2F1.1# VL-TCP-TLS  IR-185.135.47.183:53684  PING-281.40-MS
 vless://67229061-7125-4490-93af-95112f4bd486@185.143.232.200:443?security=tls&sni=god.sv3x1.lol&type=ws&host=god.sv3x1.lol&path=%2FnVpFyArfMaHkoV31HPzgB61Dl8aA&fp=chrome&alpn=http/1.1# VL-WS-TLS  IR-185.143.232.200:443  PING-158.13-MS
 vless://329e95d8-ed1e-4451-8b0d-3bcdd92488b9@185.143.233.0:443?security=tls&sni=snapp.ir&type=ws&host=cdn.bigluck.sbs&path=%2Fxa41g9E8joYoQNpjaEh6Hc&fp=chrome&alpn=h2# VL-WS-TLS  IR-185.143.233.0:443  PING-159.36-MS
@@ -29,4 +26,4 @@ vless://865eb25d-e41a-46ae-8957-244dbd6a8343@193.151.135.23:32281?security=none&
 vless://e1c2e08a-d2b6-421a-982e-8fa37299937a@193.151.145.26:43485?type=tcp&host=uptvs.com&path=%2F&headerType=http# VL-TCP-NA  IR-193.151.145.26:43485  PING-320.45-MS
 vless://a223ab93-33c9-46b9-9a89-f68a892e1957@193.151.146.223:57635?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-193.151.146.223:57635  PING-343.88-MS
 trojan://HtUMqW60mN@193.176.243.14:23191?security=tls&sni=filmnet.ir# TR-TCP-TLS  IR-193.176.243.14:23191  PING-338.96-MS
-
+vless://8c64af37-db89-4693-b102-9ac90c9ac89d@194.59.171.157:666?security=tls&sni=s1.trustvpn.top&type=tcp&host=vip.trustvpn.top&path=%2F&headerType=http&alpn=h2%2Chttp%2F1.1# VL-TCP-TLS  IR-194.59.171.157:666  PING-269.03-MS
