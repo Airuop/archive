@@ -9,8 +9,8 @@ response = requests.get(url)
 
 
 def backup(response):
-  date_dir = datetime.now().strftime("%y%m") + "S"
-  date_file = datetime.now().strftime("%y%m%d_%H%M")
+  date_dir = datetime.now().strftime("%y%m")
+  date_file = datetime.now().strftime("%y%m%d_%H%M") + "S"
 
   try:
     os.makedirs(f"{update_path}/{date_dir}", exist_ok=True)
