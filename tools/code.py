@@ -3,7 +3,8 @@ import os
 import re
 import natsort
 
-folder = './update/2308/'
+folder = './countries/ir/2308/'
+
 output_file_final = f'{folder}/final.txt'
 output_file = f'{folder}/integrated.txt'
 
