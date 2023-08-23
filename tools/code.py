@@ -1,19 +1,35 @@
-
 import os
 import re
 import natsort
 
-folder = './countries/ir/2308/'
+path = './countries/ir/2308/'
 
-output_file_final = f'{folder}/final.txt'
-output_file = f'{folder}/integrated.txt'
+output_file = f'{path}/integrated.txt'
+output_file_final = f'{path}/final.txt'
 
-txt_files = [f for f in os.listdir(folder) if f.endswith('.txt')]
+def get_all_paths(path):
+    all_files = []
+    all_dirs = []
 
-lines = []
-for txt_file in txt_files:
-    with open(os.path.join(folder, txt_file)) as f:
-        lines.extend(f.readlines())
+    for dir_name, dir_names, file_names in os.walk(path, topdown=False):
+        for file_name in file_names:
+            all_files.append(os.path.join(dir_name, file_name))
+        all_dirs.append(dir_name)
+
+    return all_files, all_dirs
+
+def merge_files(all_files, output_file):
+    with open(output_file, 'a') as fout:
+        for file in all_files:
+            if file.endswith(".txt"):
+                with open(file) as fin:
+                    fout.write(fin.read())
+
+all_files, all_dirs = get_all_paths(path)
+merge_files(all_files, output_file)
+
+with open(output_file) as f:
+    lines = f.readlines()
 
 keys = []
 for line in lines:
@@ -44,21 +60,17 @@ for line in sorted_lines:
     if line not in deduped_lines:
         deduped_lines.append(line)
 
-with open(output_file, 'w') as outfile:
-    for line in sorted_lines:
-        outfile.write(line)
-    print("\n"+"Server merge completed...!"+"\n")
-    
-final_lines = []
 
+final_lines = []
 for line in deduped_lines:
-    if 'vless://' in line:
-        links = line.split('vless://')
-        for link in links:
-            if link:
-                final_lines.append('vless://' + link.strip())
-    else:
-        final_lines.append(line)
+    protocols = ['vless://', 'trojan://', 'vmess://', 'ss://', 'ssr://']
+    for protocol in protocols:
+        regex = re.compile(f"^{protocol}(.*)")
+        match = regex.match(line)
+        if match:
+            link = match.group(1)
+            final_lines.append(protocol + link)
+
 
 with open(output_file_final, 'w') as outfile:
     for line in final_lines:
