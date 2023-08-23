@@ -1,6 +1,7 @@
 name: Cleaner
 on:
   workflow_dispatch:
+  push:
 jobs:
   main:
     name: Cleaner
