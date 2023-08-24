@@ -1,15 +1,15 @@
 import requests
-import json 
+import json
 import time
 
 path = './update/2308'
-API_URL = 'https://check-host.net/check-ping'
+API_URL = 'https://check-host.net/check-ping'  
 RESULTS_URL = 'https://check-host.net/check-result/'
 
 with open(f'{path}/final.txt') as f:
   servers = f.read().splitlines()
 
-servers_added = [] 
+servers_added = []
 
 for server in servers:
 
@@ -18,8 +18,8 @@ for server in servers:
   else:
     continue
 
-  nodes = ['ir4.node.check-host.net',
-           'ir3.node.check-host.net', 
+  nodes = ['ir4.node.check-host.net', 
+           'ir3.node.check-host.net',
            'ir1.node.check-host.net']
 
   params = {'host': host, 'node': nodes}
@@ -28,6 +28,11 @@ for server in servers:
   response = requests.get(API_URL, params=params, headers=headers)
 
   data = response.json()
+
+  if 'request_id' not in data:
+    print(f"No request_id for {server}, skipping") 
+    continue
+
   request_id = data['request_id']
 
   results_url = RESULTS_URL + request_id
@@ -37,7 +42,7 @@ for server in servers:
 
   while None in result.values():
     print("Waiting for results...")
-    time.sleep(2)
+    time.sleep(0.100)
     result_response = requests.get(results_url)
     result = json.loads(result_response.content)
 
@@ -47,12 +52,15 @@ for server in servers:
   min_ok_nodes = 2
 
   for node, node_result in result.items():
+
     status = node_result[0][0]
+
     if status is None:
+      print(f"No status for node {node}, skipping")
       continue
 
-    for status in status:
-      if status == "OK":
+    for s in status:
+      if s == "OK":
          total_ok += 1
 
   if total_ok >= min_ok_nodes:
