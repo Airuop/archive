@@ -6,7 +6,7 @@ path = './update/2308/'
 API_URL = 'https://check-host.net/check-ping'
 RESULTS_URL = 'https://check-host.net/check-result/'
 
-with open(f'{path}/integrated.txt') as f:
+with open(f'{path}/final.txt') as f:
     servers = f.read().splitlines()
 
 servers_added = set()
