@@ -4,62 +4,58 @@ import time
 
 path = './update/2308'
 API_URL = 'https://check-host.net/check-ping'
-RESULTS_URL = 'https://check-host.net/check-result/'
+RESULTS_URL = 'https://check-host.net/check-result/'  
 
 with open(f'{path}/final.txt') as f:
-    servers = f.read().splitlines()
+  servers = f.read().splitlines()
 
-servers_added = set()
+servers_added = [] # Use list instead of set
 
 for server in servers:
 
-    if '@' in server:
-        host = server.split('@')[1].split(':')[0]
-    else:
-        # No '@' found, skip this server
-        continue
+  if '@' in server:
+    host = server.split('@')[1].split(':')[0]
+  else:
+    continue
 
-    nodes = ['ir4.node.check-host.net',
-             'ir3.node.check-host.net', 'ir1.node.check-host.net']
+  nodes = ['ir4.node.check-host.net',
+           'ir3.node.check-host.net',  
+           'ir1.node.check-host.net']
 
-    params = {'host': host, 'node': nodes}
-    headers = {'Accept': 'application/json'}
+  params = {'host': host, 'node': nodes}
+  headers = {'Accept': 'application/json'}
 
-    response = requests.get(API_URL, params=params, headers=headers)
+  response = requests.get(API_URL, params=params, headers=headers)
 
-    data = response.json()
-    request_id = data['request_id']
+  data = response.json()
+  request_id = data['request_id']
 
-    results_url = RESULTS_URL + request_id
+  results_url = RESULTS_URL + request_id
 
+  result_response = requests.get(results_url)
+  result = json.loads(result_response.content)
+
+  while None in result.values():
+    print("Waiting for results...")
+    time.sleep(2)
     result_response = requests.get(results_url)
     result = json.loads(result_response.content)
 
-    while None in result.values():
-        print("Waiting for results...")
-        time.sleep(2)
-        result_response = requests.get(results_url)
-        result = json.loads(result_response.content)
+  print(result)
 
-    print(result)
+  total_ok = 0
+  min_ok_nodes = 2
 
-    all_ok = True
+  for node, node_result in result.items():
+    for status in node_result[0][0]:
+      if status == "OK":
+         total_ok += 1
 
-    for node, node_result in result.items():
-
-        for inner_list in node_result:
-
-            status = inner_list[0][0]
-
-            if status != "OK":
-                all_ok = False
-                break
-
-    if all_ok:
-        servers_added.add(server)
+  if total_ok >= min_ok_nodes: # Check threshold
+    servers_added.append(server) # Add to list
 
 with open(f'{path}/serversChecked.txt', 'w') as f:
-    for server in servers_added:
-        f.write(server + '\n')
+  for server in servers_added:
+    f.write(server + '\n') 
 
 print(f"{len(servers_added)} servers saved")
