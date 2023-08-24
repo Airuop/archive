@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-path = './update/2308/'
+path = './update/2308'
 API_URL = 'https://check-host.net/check-ping'
 RESULTS_URL = 'https://check-host.net/check-result/'
 
