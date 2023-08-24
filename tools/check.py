@@ -1,15 +1,15 @@
 import requests
-import json
+import json 
 import time
 
 path = './update/2308'
 API_URL = 'https://check-host.net/check-ping'
-RESULTS_URL = 'https://check-host.net/check-result/'  
+RESULTS_URL = 'https://check-host.net/check-result/'
 
 with open(f'{path}/final.txt') as f:
   servers = f.read().splitlines()
 
-servers_added = [] # Use list instead of set
+servers_added = [] 
 
 for server in servers:
 
@@ -19,7 +19,7 @@ for server in servers:
     continue
 
   nodes = ['ir4.node.check-host.net',
-           'ir3.node.check-host.net',  
+           'ir3.node.check-host.net', 
            'ir1.node.check-host.net']
 
   params = {'host': host, 'node': nodes}
@@ -47,15 +47,19 @@ for server in servers:
   min_ok_nodes = 2
 
   for node, node_result in result.items():
-    for status in node_result[0][0]:
+    status = node_result[0][0]
+    if status is None:
+      continue
+
+    for status in status:
       if status == "OK":
          total_ok += 1
 
-  if total_ok >= min_ok_nodes: # Check threshold
-    servers_added.append(server) # Add to list
+  if total_ok >= min_ok_nodes:
+    servers_added.append(server)
 
 with open(f'{path}/serversChecked.txt', 'w') as f:
   for server in servers_added:
-    f.write(server + '\n') 
+    f.write(server + '\n')
 
 print(f"{len(servers_added)} servers saved")
