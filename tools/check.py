@@ -41,8 +41,6 @@ for server in servers:
   result = json.loads(result_response.content)
 
   while None in result.values():
-    print("Waiting for results...")
-    time.sleep(0.100)
     result_response = requests.get(results_url)
     result = json.loads(result_response.content)
 
