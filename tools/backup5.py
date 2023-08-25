@@ -4,7 +4,7 @@ import base64
 import re
 from datetime import datetime
 
-update_path = './Donated/'
+update_path = './donated/'
 
 url = "https://yebekhe.link/api/telegramDonated/"
 res = requests.get(url)
