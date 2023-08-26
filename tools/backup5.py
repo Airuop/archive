@@ -1,6 +1,7 @@
 import os
 import requests
 import base64
+import time
 import re
 from datetime import datetime
 
@@ -8,8 +9,13 @@ update_path = './donated/'
 
 url = "https://yebekhe.link/api/telegramDonated/"
 res = requests.get(url)
-encoded_str = res.content
+while True:
+      time.sleep(10)
+      res = requests.get(url)  
+      if res.ok:
+          break
 
+encoded_str = res.content
 decoded_bytes = base64.b64decode(encoded_str)
 decoded_str = decoded_bytes.decode('utf-8') 
 
