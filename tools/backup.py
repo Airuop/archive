@@ -1,12 +1,17 @@
 import os
 import requests
+import time
 from datetime import datetime
 
 update_path = './update/'
 
 url = 'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality'
 data = requests.get(url).text
-
+while True:
+      time.sleep(10)
+      data = requests.get(url).text
+      if res.ok:
+          break
 
 def backup(data):
   date_dir = datetime.now().strftime("%y%m")
