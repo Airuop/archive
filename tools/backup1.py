@@ -10,7 +10,7 @@ response = requests.get(url)
 while True:
       time.sleep(10)
       response = requests.get(url)
-      if res.ok:
+      if response.ok:
           break
 
 def backup(response):
