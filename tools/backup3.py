@@ -1,6 +1,7 @@
 import os
 import requests
 import base64
+import time
 import re
 from datetime import datetime
 
@@ -8,6 +9,12 @@ update_path = './update/'
 
 url = "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality"
 res = requests.get(url)
+while True:
+      time.sleep(10)
+      res = requests.get(url)
+      if res.ok:
+          break
+
 encoded_str = res.content
 
 decoded_bytes = base64.b64decode(encoded_str)
