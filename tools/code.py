@@ -2,7 +2,7 @@ import os
 import re
 import natsort
 
-#path = './countries/ir/2308'
+#path = './countries/ir/2308' 
 #path = './update/2308'
 path = './donated/2308'
 
