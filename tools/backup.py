@@ -10,7 +10,7 @@ data = requests.get(url).text
 while True:
       time.sleep(10)
       data = requests.get(url).text
-      if res.ok:
+      if data.ok:
           break
 
 def backup(data):
