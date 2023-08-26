@@ -1,12 +1,17 @@
 import os
 import requests
+import time
 from datetime import datetime
 
 update_path = './update/'
 
 url = 'https://raw.githubusercontent.com/tony-sung/clash-meta-configurations/main/subscription/others/node.txt'
 response = requests.get(url)
-
+while True:
+      time.sleep(10)
+      response = requests.get(url)
+      if res.ok:
+          break
 
 def backup(response):
   date_dir = datetime.now().strftime("%y%m")
