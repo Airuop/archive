@@ -5,7 +5,7 @@ on:
     branches:
       - "master"
     paths: 
-      - './tools/code.py'
+      - 'tools/code.py'
 jobs:
   main:
     name: Cleaner
