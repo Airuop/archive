@@ -1,6 +1,11 @@
 name: Cleaner
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - "**"
+    paths: 
+      - './tools/code.py'
 jobs:
   main:
     name: Cleaner
