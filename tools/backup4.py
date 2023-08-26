@@ -2,14 +2,20 @@ import os
 import requests
 import base64
 import re
+import time
 from datetime import datetime
 
 update_path = './countries/ir/'
 
 url = "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed"
 res = requests.get(url)
+while True:
+      time.sleep(10)
+      res = requests.get(url)  
+      if res.ok:
+          break
+        
 encoded_str = res.content
-
 decoded_bytes = base64.b64decode(encoded_str)
 decoded_str = decoded_bytes.decode('utf-8') 
 
