@@ -1,6 +1,7 @@
 name: Backup4
 
 on: 
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
