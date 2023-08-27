@@ -1,19 +1,20 @@
 name: Backup4
 
-on: 
+on:
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
 jobs:
 
-  get_latest_commit:  
+  get_latest_commit:
+
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
 
-    - name: Setup Node
+    - name: Setup Node  
       uses: actions/setup-node@v3
       with:
         node-version: 16
@@ -25,19 +26,25 @@ jobs:
       uses: actions/github-script@v6
       with:
         script: |
+          const fetch = require('node-fetch')
+
           const { Octokit } = require("@octokit/rest")
 
           const octokit = new Octokit({
             auth: process.env.GITHUB_TOKEN,
-            owner: context.repo.owner,
-            repo: context.repo.repo
+            owner: context.repo.owner, 
+            repo: context.repo.repo,
+            request: {
+              fetch 
+            }
           })
 
           const { data: ref } = await octokit.git.getRef({
-            ref: 'heads/master'  
+            ref: 'heads/master'
           })
 
           github.context.payload.before = ref.object.sha
+
 
   commit:
     needs: get_latest_commit  
