@@ -1,9 +1,7 @@
 name: Final
 
 on:
-  push:
-    paths:
-      - "./output.txt"
+
   workflow_dispatch:
   schedule:
    - cron: "0 0,12 * * *"  
@@ -51,11 +49,11 @@ jobs:
         name: output-file
         path: ./
 
-    - name: Commit file
-      run: |        
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git pull origin main
-        git add output.txt
-        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
-        git push
+    - name: Commit & push changes
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git config credential.helper store
+          git add -A
+          git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Done"
+          git push
