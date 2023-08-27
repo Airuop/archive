@@ -1,62 +1,71 @@
-name: Backup4
+name: Backup
 
-on:
-  workflow_dispatch:
+on: 
   schedule:
     - cron: "0 * * * *"
 
 jobs:
 
-  get_latest_commit:
+  get_latest_commit:  
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
       with:
         node-version: 16
-    - run: npm install @octokit/rest
-    - uses: actions/github-script@v6
-      name: Get latest commit SHA
+
+    - name: Install Octokit
+      run: npm install @octokit/rest
+
+    - name: Get latest commit
+      uses: actions/github-script@v6
       with:
         script: |
           const { Octokit } = require("@octokit/rest")
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
-          
-          const { data: ref } = await octokit.git.getRef({
-            ...github.context.repo,
-            ref: 'heads/master'
+
+          const octokit = new Octokit({
+            auth: process.env.GITHUB_TOKEN,
+            owner: context.repo.owner,
+            repo: context.repo.repo
           })
-          
+
+          const { data: ref } = await octokit.git.getRef({
+            ref: 'heads/master'  
+          })
+
           github.context.payload.before = ref.object.sha
-          
-  main:
-    needs: get_latest_commit
+
+  commit:
+    needs: get_latest_commit  
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4.7.0
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
       with:
-        python-version: "3.11"
-        
-    - name: Set Timezone
-      run: sudo timedatectl set-timezone 'Asia/Tehran'
-      
-    - name: Install Requirements
-      run: pip install requests
-      
-    - name: run py  
-      run: python ./tools/backup4.py
-      
+        python-version: '3.10' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run backup script
+      run: python ./tools/backup.py
+
     - name: Commit changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git pull origin master
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
-        
-    - name: Push Change
+        git commit -m "Backup at $(date)"
+
+    - name: Push changes  
       uses: ad-m/github-push-action@master
       with:
         branch: master
