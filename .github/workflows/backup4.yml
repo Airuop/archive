@@ -1,4 +1,4 @@
-name: Backup4 - IR64 - 1h
+name: Backup4 - Iran64 - 1h
 on:
   workflow_dispatch:
   #push:
