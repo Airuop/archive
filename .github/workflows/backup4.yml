@@ -1,4 +1,4 @@
-name: Backup
+name: Backup4
 
 on: 
   schedule:
@@ -56,7 +56,7 @@ jobs:
         pip install requests
 
     - name: Run backup script
-      run: python ./tools/backup.py
+      run: python ./tools/backup4.py
 
     - name: Commit changes
       run: |
