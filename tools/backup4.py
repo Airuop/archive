@@ -30,7 +30,7 @@ for link in url:
       cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)
       servers.append(cleaned_str)
            
-    if response.status_code == 404:
+    if res.status_code == 404:
         print("WARNING: ERROR 404 _________________________")
         print("WARNING: Not Found_____")
         print("WARNING: Link:")
