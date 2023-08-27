@@ -29,6 +29,14 @@ for link in url:
       decoded_str = decoded_bytes.decode('utf-8')
       cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)
       servers.append(cleaned_str)
+           
+    if response.status_code == 404:
+        print("WARNING: ERROR 404 _________________________")
+        print("WARNING: Not Found_____")
+        print("WARNING: Link:")
+        print()
+        print(url)
+        print()
 
 def backup(servers):
   date_dir = datetime.now().strftime("%y%m")
