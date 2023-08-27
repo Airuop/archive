@@ -1,5 +1,6 @@
 name: Backup4
 
+
 on:
   workflow_dispatch:
   schedule:
@@ -14,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Setup Node  
+    - name: Setup Node
       uses: actions/setup-node@v3
       with:
         node-version: 16
@@ -22,25 +23,23 @@ jobs:
     - name: Install Octokit
       run: npm install @octokit/rest
 
-    - name: Get latest commit
+    - name: Get latest commit  
       uses: actions/github-script@v6
       with:
         script: |
-          const fetch = require('node-fetch')
-
           const { Octokit } = require("@octokit/rest")
 
           const octokit = new Octokit({
             auth: process.env.GITHUB_TOKEN,
-            owner: context.repo.owner, 
-            repo: context.repo.repo,
+            owner: context.repo.owner,
+            repo: context.repo.repo, 
             request: {
-              fetch 
+              fetch
             }
           })
 
           const { data: ref } = await octokit.git.getRef({
-            ref: 'heads/master'
+            ref: 'heads/master'  
           })
 
           github.context.payload.before = ref.object.sha
