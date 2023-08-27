@@ -25,6 +25,7 @@ jobs:
           python ./tools/backup2.py
       - name: Commit & push changes
         run: |
+          git remote add upstream https://github.com/Airuop/archive
           git fetch upstream 
           git merge upstream/master
           git push origin master
