@@ -28,7 +28,7 @@ for link in url:
       decoded_bytes = base64.b64decode(encoded_str)
       decoded_str = decoded_bytes.decode('utf-8')
       cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)
-      servers.append(cleaned_str)
+      servers.append(cleaned_str + '\n')
            
     if res.status_code == 404:
         print("WARNING: ERROR 404 _________________________")
