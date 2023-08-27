@@ -11,6 +11,18 @@ jobs:
     name: Backup4
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/github-script@v6
+        name: Get latest commit SHA
+        with:
+         script: |
+           const { Octokit } = require("@octokit/rest")
+           const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
+           const { data: ref } = await octokit.git.getRef({
+           ...github.context.repo,
+           ref: 'heads/master'  
+           })
+           github.context.payload.before = ref.object.sha
+
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4.7.0
         with:
