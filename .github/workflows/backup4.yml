@@ -1,48 +1,62 @@
 name: Backup4
+
 on:
   workflow_dispatch:
-  #push:
   schedule:
-    # - cron: '*/5 * * * *'
-    # 表达式生成  https://crontab.guru/
     - cron: "0 * * * *"
+
 jobs:
-  main:
-    name: Backup4
+
+  get_latest_commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v6
-        name: Get latest commit SHA
-        with:
-         script: |
-           const { Octokit } = require("@octokit/rest")
-           const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
-           const { data: ref } = await octokit.git.getRef({
-           ...github.context.repo,
-           ref: 'heads/master'  
-           })
-           github.context.payload.before = ref.object.sha
-
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4.7.0
-        with:
-          python-version: "3.11"
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone 'Asia/Tehran'
-      - name: Install Requirements
-        run: |
-          pip install requests
-      - name: run py
-        run: |
-          python ./tools/backup4.py
-      - name: Commit changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin master
-          git add -A
-          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
-      - name: Push Change
-        uses: ad-m/github-push-action@master
-        with:
-          branch: master
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - run: npm install @octokit/rest
+    - uses: actions/github-script@v6
+      name: Get latest commit SHA
+      with:
+        script: |
+          const { Octokit } = require("@octokit/rest")
+          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
+          
+          const { data: ref } = await octokit.git.getRef({
+            ...github.context.repo,
+            ref: 'heads/master'
+          })
+          
+          github.context.payload.before = ref.object.sha
+          
+  main:
+    needs: get_latest_commit
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4.7.0
+      with:
+        python-version: "3.11"
+        
+    - name: Set Timezone
+      run: sudo timedatectl set-timezone 'Asia/Tehran'
+      
+    - name: Install Requirements
+      run: pip install requests
+      
+    - name: run py  
+      run: python ./tools/backup4.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git pull origin master
+        git add -A
+        git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
+        
+    - name: Push Change
+      uses: ad-m/github-push-action@master
+      with:
+        branch: master
