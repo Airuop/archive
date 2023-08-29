@@ -25,12 +25,8 @@ jobs:
           python ./tools/code.py
       - name: Commit & push changes
         run: |
-          git remote add upstream https://github.com/Airuop/archive
-          git fetch upstream 
-          git checkout master 
-          git merge upstream/master
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
+          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
           git push
