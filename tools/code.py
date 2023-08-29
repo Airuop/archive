@@ -4,13 +4,15 @@ import natsort
 
 def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
 
-  counter = 1
+  counter = 0
 
   with open(file_path, 'rb') as f:
     chunk = f.read(chunk_size)
     while chunk:
-      chunk_name = f'{file_path}-chunk{counter}.txt'
-      
+      if counter > 0:
+      chunk_name = f'{file_path.removesuffix(".txt")}-chunk{counter}.txt'
+      else :
+        chunk_name = f'{file_path}'
       with open(chunk_name, 'wb') as chunk_file:
         chunk_file.write(chunk)
       
