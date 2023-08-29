@@ -4,7 +4,7 @@ import natsort
 
 paths = ['./countries/ir/2308', './update/2308', './donated/2308']
 chunk_size = 100 * 1024 * 1024 # 100MB
-
+counter = 0
 for path in paths:
 
   output_file = f'{path}/integrated.txt'
