@@ -4,7 +4,7 @@ import natsort
 
 def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
 
-  counter = 0
+  counter = 1
 
   with open(file_path, 'rb') as f:
     
@@ -12,11 +12,7 @@ def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
 
     while chunk:
       
-      if counter > 0:
-        chunk_name = f'{file_path.removesuffix(".txt")}-part{counter}.txt'
-      else :
-        chunk_name = f'{file_path.removesuffix(".txt")}-single.txt'
-
+      chunk_name = f'{file_path.removesuffix(".txt")}-part{counter}.txt'
       with open(chunk_name, 'wb') as chunk_file:
         chunk_file.write(chunk)
       
@@ -26,6 +22,7 @@ def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
   os.remove(file_path) # remove original file after chunking
 
 paths = ['./countries/ir/2308', './update/2308', './donated/2308']
+chunked_files = []
 
 for path in paths:
 
@@ -104,4 +101,14 @@ for path in paths:
           outfile.write(line + '\n')
         
   chunk_file(output_file_final)
+  for file in os.listdir(path):
+    if file.endswith('-part'):
+      chunked_files.append(file)
+
+  if len(chunked_files) == 1:
+    only_file = chunked_files[0]
+    new_name = only_file.replace('-part1', '')
+    os.rename(os.path.join(path, only_file), os.path.join(path, new_name))
+
+  chunked_files = [] # reset for next path
   print(f"Server cleanup completed for {path}... !")
