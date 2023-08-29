@@ -10,7 +10,7 @@ def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
     chunk = f.read(chunk_size)
     while chunk:
       if counter > 0:
-      chunk_name = f'{file_path.removesuffix(".txt")}-chunk{counter}.txt'
+        chunk_name = f'{file_path.removesuffix(".txt")}-part{counter}.txt'
       else :
         chunk_name = f'{file_path}'
       with open(chunk_name, 'wb') as chunk_file:
