@@ -15,7 +15,7 @@ def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
       if counter > 0:
         chunk_name = f'{file_path.removesuffix(".txt")}-part{counter}.txt'
       else :
-        chunk_name = f'{file_path.removesuffix(".txt")-single}.txt'
+        chunk_name = f'{file_path.removesuffix(".txt")}-single.txt'
 
       with open(chunk_name, 'wb') as chunk_file:
         chunk_file.write(chunk)
