@@ -2,9 +2,25 @@ import os
 import re
 import natsort
 
+def chunk_file(file_path, chunk_size= 90 * 1024 * 1024):
+
+  counter = 1
+
+  with open(file_path, 'rb') as f:
+    chunk = f.read(chunk_size)
+    while chunk:
+      chunk_name = f'{file_path}-chunk{counter}.txt'
+      
+      with open(chunk_name, 'wb') as chunk_file:
+        chunk_file.write(chunk)
+      
+      counter += 1
+      chunk = f.read(chunk_size)
+
+  os.remove(file_path) # remove original file after chunking
+
 paths = ['./countries/ir/2308', './update/2308', './donated/2308']
-chunk_size = 100 * 1024 * 1024 # 100MB
-counter = 0
+
 for path in paths:
 
   output_file = f'{path}/integrated.txt'
@@ -33,15 +49,8 @@ for path in paths:
 
   with open(output_file) as f:
       lines = f.readlines()
-  with open(output_file, 'rb') as f:
-    chunk = f.read(chunk_size)
-    while chunk:
-      chunk_name = f'{path}/integrated-chunk{counter}.txt'
-      with open(chunk_name, 'wb') as chunk_file: 
-        chunk_file.write(chunk)
+  chunk_file(output_file)
 
-      counter += 1
-      chunk = f.read(chunk_size)
 
   keys = []
   for line in lines:
@@ -87,4 +96,6 @@ for path in paths:
   with open(output_file_final, 'w') as outfile:
       for line in final_lines:
           outfile.write(line + '\n')
+  chunk_file(output_file_final)
+  
       print(f"Server cleanup completed for {path}... !")
