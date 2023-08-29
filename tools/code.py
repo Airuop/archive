@@ -96,6 +96,6 @@ for path in paths:
   with open(output_file_final, 'w') as outfile:
       for line in final_lines:
           outfile.write(line + '\n')
+        
   chunk_file(output_file_final)
-  
-      print(f"Server cleanup completed for {path}... !")
+  print(f"Server cleanup completed for {path}... !")
