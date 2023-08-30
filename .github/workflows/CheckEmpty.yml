@@ -1,9 +1,9 @@
 name: Check Text Files
 
-on:
+on: 
   push:
     branches:
-      - master
+      - '*'
 
 jobs:
 
@@ -13,10 +13,19 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v35
+
     - name: Check text files
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
       run: |
-        for file in **/*.txt; do
-          if [ ! -s "$file" ]; then 
-            curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -d '{"title":"Empty Text File Found","body":"The file '$file' in branch ${{ github.ref }} is empty"}' https://api.github.com/repos/${{ github.repository }}/notifications  
-          fi 
-        done
+       for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+         if [[ $file == *.txt ]]; then
+           if [ ! -s "$file" ]; then
+             curl -X POST -H "Authorization: token $GITHUB_TOKEN" -d '{"title":"Empty Text File Found","body":"The file '$file' in commit ${{ github.sha }} is empty"}' https://api.github.com/repos/${{ github.repository }}/issues
+           fi  
+         fi
+       done
