@@ -1,0 +1,32 @@
+name: Check Text File
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+
+  check_text_file:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Check text file
+      id: check
+      run: |
+        if [ -s path/to/textfile.txt ]; then
+          echo "File has content"
+        else 
+          echo "File is empty"
+          echo "::set-output name=empty::true"
+        fi
+    - name: Send notification
+      if: ${{ steps.check.outputs.empty == 'true' }}  
+      uses: 8398a7/action-slack@v3
+      with:
+        status: ${{ job.status }}
+        text: The text file is empty after recent push, please investigate.
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
