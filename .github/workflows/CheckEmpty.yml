@@ -1,33 +1,22 @@
-name: Check Text File
+name: Check Text Files
 
-on: 
-  workflow_dispatch:
+on:
   push:
     branches:
-      - master
+      - '*'
 
 jobs:
 
-  check_text_file:
+  check-text-files:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Check text file
-      id: check
+    - name: Check text files
       run: |
-        if [ -s path/to/textfile.txt ]; then
-          echo "File has content"
-        else 
-          echo "File is empty"
-          echo "::set-output name=empty::true"
-        fi
-    - name: Send notification
-      if: ${{ steps.check.outputs.empty == 'true' }}  
-      uses: 8398a7/action-slack@v3
-      with:
-        status: ${{ job.status }}
-        text: The text file is empty after recent push, please investigate.
-      env:
-        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
+        for file in **/*.txt; do
+          if [ ! -s "$file" ]; then 
+            curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -d '{"title":"Empty Text File Found","body":"The file '$file' in branch ${{ github.ref }} is empty"}' https://api.github.com/repos/${{ github.repository }}/notifications  
+          fi 
+        done
