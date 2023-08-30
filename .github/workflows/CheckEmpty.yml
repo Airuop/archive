@@ -17,15 +17,18 @@ jobs:
     - name: Get changed files
       id: changed-files
       uses: tj-actions/changed-files@v35
-
+    
     - name: Check text files
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-      run: |
-       for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-         if [[ $file == *.txt ]]; then
-           if [ ! -s "$file" ]; then
-             curl -X POST -H "Authorization: token $GITHUB_TOKEN" -d '{"title":"Empty Text File Found","body":"The file '$file' in commit ${{ github.sha }} is empty"}' https://api.github.com/repos/${{ github.repository }}/issues
-           fi  
-         fi
-       done
+      run: |  
+        for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+          if [[ $file == *.txt ]]; then 
+            if [ ! -s "$file" ]; then
+              echo "File $file is empty" 
+              curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+                -d '{"title":"Empty text file found", "body": "The file '$file' in commit ${{ github.sha }} is empty"}' \
+                https://api.github.com/repos/${{ github.repository }}/issues
+            fi
+          fi
+        done
