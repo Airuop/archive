@@ -3,7 +3,7 @@ name: Check Text Files
 on:
   push:
     branches:
-      - '*'
+      - master
 
 jobs:
 
