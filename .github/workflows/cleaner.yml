@@ -29,4 +29,4 @@ jobs:
           git config --local user.name "Cleaner"
           git add -A
           git commit -m "🚀 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
-          git push
+          git push -f origin master
