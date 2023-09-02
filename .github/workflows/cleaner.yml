@@ -25,13 +25,20 @@ jobs:
           python ./tools/code.py
       - name: Commit & push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "Cleaner"
-          git fetch
+          git config --global user.email "actions@github.com"
+          git config --global user.name "Cleaner"
+          REPO="https://github.com/Airuop/archive.git"
+          DIR="./archive"
+          cd $DIR 
+          if ! git remote -v | grep -q $REPO; then
+            git remote add origin $REPO
+          fi
+          git fetch origin
           git checkout master
           git reset --hard origin/master
           git add -A
-          git commit -m "🚀 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
-          git pull --rebase origin master
+          git commit --allow-empty -m "🚀 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
+          git pull origin master --allow-unrelated-histories
           git push origin master
+
           
