@@ -27,6 +27,11 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Cleaner"
+          git fetch
+          git checkout master
+          git reset --hard origin/master
           git add -A
           git commit -m "🚀 $(date '+%Y-%m-%d %H:%M:%S') Cleaned"
-          git push -f origin master
+          git pull --rebase origin master
+          git push origin master
+          
