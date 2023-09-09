@@ -1,0 +1,51 @@
+trojan://aabcbac-acab-acab-cabd-baacacbabcbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-18-SHAHRIVAR-1402  22:33
+trojan://niXeNzzhUL@185.143.234.83:2083?security=tls&sni=arvancloud.ir&type=ws&host=hillsboro.chert383pert.website&path=%2FMahsaAmini&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3# TR-WS-TLS  IR-185.143.234.83:2083  PING-125.90-MS
+trojan://b4bf9170-5454-44d8-8f38-c3b3f7afb236@185.143.234.83:8443?security=tls&sni=arvancloud.ir&type=ws&host=free-for-iran-frankfurt.chert383pert.website&path=%2FMahsaAmini&fp=chrome&allowInsecure=1# TR-WS-TLS  IR-185.143.234.83:8443  PING-125.97-MS
+vless://7991189d-514d-4f6a-863e-abb0adefbfb0@185.143.233.120:80?security=none&type=ws&host=ger6.appmeli1.top&path=%2F# VL-WS-NONE  IR-185.143.233.120:80  PING-126.02-MS
+trojan://41cd6c16-0cd4-4ba9-abd8-bc407344f3ae@185.143.233.3:443?security=tls&sni=www.isna.ir&type=ws&host=media2.hiflash.site&path=%2FOjudKYjhv9uh5fIcTNzpMshV&fp=chrome&alpn=http/1.1# TR-WS-TLS  IR-185.143.233.3:443  PING-126.03-MS
+vless://372509ab-a980-412f-bb87-eecda3129e82@185.143.233.120:8080?security=none&type=ws&host=prqcei3x-ep-01.myrocket.one&path=%2F# VL-WS-NONE  IR-185.143.233.120:8080  PING-126.11-MS
+vless://372509ab-a980-412f-bb87-eecda3129e82@185.143.234.120:8080?security=none&type=ws&host=prqcei3x-ep-01.myrocket.one&path=%2F# VL-WS-NONE  IR-185.143.234.120:8080  PING-126.16-MS
+vless://d993ca39-43c9-4767-ab9f-e126072f4747@185.143.234.120:2052?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.143.234.120:2052  PING-126.23-MS
+vless://d993ca39-43c9-4767-ab9f-e126072f4747@185.143.233.120:2052?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.143.233.120:2052  PING-126.24-MS
+vless://bd696af3-1abe-4fdc-a72d-f149148e2b40@185.143.234.83:443?security=tls&sni=arvancloud.ir&type=http&host=falkenstein.chert383pert.website&path=%2FMahsaAmini&fp=chrome# VL-HTTP-TLS  IR-185.143.234.83:443  PING-126.54-MS
+vless://4db3e7c9-5954-4de1-ad48-5ae23107b01a@185.143.234.200:80?type=ws&host=Kurdistan-Vpn-perfect-02.Artemis-27.sbs&path=@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt-@kurdistan_vpn_perfectt# VL-WS-NA  IR-185.143.234.200:80  PING-126.72-MS
+vless://9933f223-0c93-5e4b-b8ab-67f66bc821f6@185.143.233.120:443?security=tls&sni=main1.tur06-vl1.cfd&type=ws&path=/positive-vibes&allowInsecure=1# VL-WS-TLS  IR-185.143.233.120:443  PING-127.20-MS
+vless://bd696af3-1abe-4fdc-a72d-f149148e2b40@185.143.234.83:2087?security=tls&sni=arvancloud.ir&type=ws&host=falkenstein.chert383pert.website&path=%2FMahsaAmini&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3# VL-WS-TLS  IR-185.143.234.83:2087  PING-127.45-MS
+vless://7a079fbb-9531-42c0-aac6-fa3c648d3573@185.143.233.5:443?security=tls&sni=snappfood.ir&type=ws&host=bugtr8v.mlgolden.site&path=%2F&fp=safari# VL-WS-TLS  IR-185.143.233.5:443  PING-127.57-MS
+trojan://41cd6c16-0cd4-4ba9-abd8-bc407344f3ae@185.143.234.3:443?security=tls&sni=www.isna.ir&type=ws&host=media2.hiflash.site&path=%2FOjudKYjhv9uh5fIcTNzpMshV&fp=chrome&alpn=http/1.1# TR-WS-TLS  IR-185.143.234.3:443  PING-127.91-MS
+vless://5ddaafaf-e777-4d96-8831-58ef0eb5b556@185.143.233.225:80?security=none&type=ws&host=Free-01.artemis-26.sbs&path=%2F%40Artemis_Vpn# VL-WS-NONE  IR-185.143.233.225:80  PING-128.26-MS
+vless://9933f223-0c93-5e4b-b8ab-67f66bc821f6@185.143.234.120:443?security=tls&sni=main1.tur06-vl1.cfd&type=ws&path=/positive-vibes&allowInsecure=1# VL-WS-TLS  IR-185.143.234.120:443  PING-137.25-MS
+vless://35bc1c03-e0bf-4f82-8a4f-8b2ffa304a97@185.143.234.120:80?security=none&type=ws&path=%2Fcustom_config# VL-WS-NONE  IR-185.143.234.120:80  PING-138.21-MS
+vless://e0742e07-0c0b-4000-a0cd-b7ae9f9f9468@80.249.113.207:26334?security=none&type=tcp&host=www.speedtest.com&headerType=http# VL-TCP-NONE  IR-80.249.113.207:26334  PING-197.54-MS
+vless://2a1ccc97-afda-49d7-a4fa-de080ebf6835@80.249.113.207:35254?security=none&type=tcp&host=www.speedtest.com&headerType=http# VL-TCP-NONE  IR-80.249.113.207:35254  PING-199.61-MS
+vless://d886a2e3-bcf6-4553-8515-97d61958de53@94.101.184.76:50689?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-94.101.184.76:50689  PING-203.26-MS
+vless://30fda3c7-8e76-44b6-b867-8fd726d4aa24@2.189.242.45:887?security=none&type=ws&path=%2F# VL-WS-NONE  IR-2.189.242.45:887  PING-203.78-MS
+vless://53695af8-2ca3-4b09-9333-b05a246846e1@193.151.145.245:54321?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-193.151.145.245:54321  PING-204.32-MS
+vless://049c2055-cb82-4c98-a150-cd40f8613172@45.135.241.44:883?security=none&type=ws&path=%2F# VL-WS-NONE  IR-45.135.241.44:883  PING-204.84-MS
+vmess://eyJhZGQiOiAiMTc2LjEyNi4xMjAuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjc4NjAzNzU5LTgzYTQtNDcxZS1iZmQ5LWVkNDFmNzIyOWE3YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiOTUwIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRmMGYgSVItMTc2LjEyNi4xMjAuMzg6OTUwIFx1ZDgzZFx1ZGNlMSBQSU5HLTIwNS40Ny1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiODguMTM1LjQwLjY4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRpdmFyY2RuLmNvbSIsICJpZCI6ICIxZDMyY2JmZC04OTk0LTRlNGMtOGM4OS0xYzFjZTYyMDc4YTciLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMDYyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZjBmIElSLTg4LjEzNS40MC42ODoxMDYyIFx1ZDgzZFx1ZGNlMSBQSU5HLTIwNS45MS1NUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+vless://c6f20cf5-9cc2-404e-95d2-1a45b7df29bc@62.60.144.167:887?security=none&type=tcp&host=Tamasha.com&headerType=http# VL-TCP-NONE  IR-62.60.144.167:887  PING-206.67-MS
+vless://30fda3c7-8e76-44b6-b867-8fd726d4aa24@45.135.241.66:882?security=none&type=ws&path=%2F# VL-WS-NONE  IR-45.135.241.66:882  PING-210.79-MS
+vless://56738576-d5d0-447e-8f2e-2d5a3630af5b@37.152.185.7:31311?security=none&type=ws# VL-WS-NONE  IR-37.152.185.7:31311  PING-215.57-MS
+vless://538a213c-74ad-48d6-f755-d400067bc8ab@85.9.98.14:15051?security=none&type=tcp# VL-TCP-NONE  IR-85.9.98.14:15051  PING-231.66-MS
+vless://2786096c-fc18-42c7-8388-e53ee2df9bcd@193.176.241.214:8880?security=none&type=ws&host=speed.cloudflare.com&path=%2F# VL-WS-NONE  IR-193.176.241.214:8880  PING-235.33-MS
+vless://f75489ee-85c5-4f0f-d4f9-32223cd91edb@62.60.173.226:14175?type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.173.226:14175  PING-252.62-MS
+vless://d1589418-7d9b-4fa4-bc98-e06e135b7e73@85.9.97.23:37078?security=none&type=tcp&host=cloudflare.com&headerType=http# VL-TCP-NONE  IR-85.9.97.23:37078  PING-278.32-MS
+vless://85e27603-3d91-4621-9ce9-7fbd6c3908d1@62.60.173.47:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.173.47:443  PING-281.88-MS
+vless://5cf4679a-e684-41d1-b19a-2c8c3bfcf451@85.198.11.252:19825?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-85.198.11.252:19825  PING-289.11-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjRFWGp5bEJTSXB6MlpZUlhHVHpp@87.107.163.86:49383# SS-TCP-NA  IR-87.107.163.86:49383  PING-289.13-MS
+vless://e8bc0ff2-7fb1-4e88-bfa2-e0827ba926ab@212.33.199.248:8880?security=none&type=tcp# VL-TCP-NONE  IR-212.33.199.248:8880  PING-291.53-MS
+vless://01ea2a51-da3e-493e-adab-82c7bfbe4592@185.24.255.84:14193?security=none&type=tcp&host=exo.ir&headerType=http# VL-TCP-NONE  IR-185.24.255.84:14193  PING-291.88-MS
+vless://eb8b4742-7a96-4fef-990e-142a90bf9e4b@185.239.3.153:42948?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-185.239.3.153:42948  PING-292.79-MS
+vless://8cc8cd43-5d6d-4716-b151-847fb0418ea4@185.24.255.84:999?security=none&type=tcp&host=exo.ir&headerType=http# VL-TCP-NONE  IR-185.24.255.84:999  PING-293.40-MS
+vless://4f7b916a-6339-4ba4-bb41-36ab9716205e@85.198.10.8:38152?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-85.198.10.8:38152  PING-295.30-MS
+vless://41bdaf33-635b-48aa-9f18-03f6f70b8b2a@185.24.255.84:34321?security=none&type=tcp&host=exo.ir&headerType=http# VL-TCP-NONE  IR-185.24.255.84:34321  PING-297.37-MS
+vless://04fc21b4-194b-4556-9c73-6596cacd1686@185.120.221.89:2096?security=none&type=grpc# VL-GRPC-NONE  IR-185.120.221.89:2096  PING-309.27-MS
+vless://c79d9f2c-01e0-4cb6-bfe8-ac1f4604ae21@185.206.92.128:34956?security=reality&flow=xtls-rprx-vision&sni=www.azaronline.com&type=tcp&fp=chrome&pbk=ZNniD3rVN57IJXSNESoWSE2cnRtFTM1R2CYGqaYDzwE&sid=9ba079e3# VL-TCP-RLT  IR-185.206.92.128:34956  PING-316.33-MS
+vless://88ba0a87-bffe-4a49-98dd-6f537a0abe7e@45.82.136.135:2096?security=none&type=tcp&host=speed.cloudflare.com&headerType=http# VL-TCP-NONE  IR-45.82.136.135:2096  PING-317.54-MS
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGYwZiBJUi0xODUuMjI2LjExNi4yNDc6MjQ4NjUgXHVkODNkXHVkY2UxIFBJTkctMzI2LjAwLU1TIiwgImFkZCI6ICIxODUuMjI2LjExNi4yNDciLCAicG9ydCI6IDI0ODY1LCAiaWQiOiAiNWI2ZjlhZWYtNmRlNi00ODFkLTg0ZmMtNjg4NTc4NGZhODE5IiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAibm9uZSIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJzcGVlZHRlc3QubmV0In0=
+vless://241b1e2f-2a4b-4fe3-a9cc-9338dda75f0f@185.226.118.233:443?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-185.226.118.233:443  PING-776.91-MS
+vmess://eyJhZGQiOiAiNjIuNjAuMTc1LjUzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRpdmFyY2RuLmNvbSIsICJpZCI6ICIxZjUwOWIyNC02MjVjLTQ1NTMtOWNkNS04MWI2NWZjNGNjZWEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI1NDQyMCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGYwZiBJUi02Mi42MC4xNzUuNTM6NTQ0MjAgXHVkODNkXHVkY2UxIFBJTkctMDAwLjAwLU1TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+trojan://acbbaac-baac-baca-bdca-cababccbcbaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+vless://7991189d-514d-4f6a-863e-abb0adefbfb0@185.143.233.120:80?encryption=none&host=ger6.appmeli1.top&path=%2F&security=none&type=ws# | VLESS | @frev2ray | IR | 02
+vless://7991189d-514d-4f6a-863e-abb0adefbfb0@185.143.233.120:80?encryption=none&host=ger6.appmeli1.top&path=%2F&type=ws# | VLESS | @iP_CF | IR | 01
