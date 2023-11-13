@@ -3,9 +3,9 @@ import requests
 import time
 from datetime import datetime
 
-update_path = './update/'
+update_path = './selected/'
 
-url = 'https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt'
+url = 'https://api.yebekhe.link/shervin/'
 response = requests.get(url)
 while True:
       time.sleep(10)
