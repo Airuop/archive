@@ -31,8 +31,8 @@ def backup(response):
     with open(file_path, "w", encoding="utf-8") as f:
       for line in response.text.splitlines():
           line = line.replace('&amp;', '&')
-          if 'security=reality' in line:
-            f.write(line + '\n')
+          #if 'security=reality' in line:
+          f.write(line + '\n')
   except OSError:
     print("Error writing backup file")
 
