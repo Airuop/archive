@@ -7,7 +7,7 @@ from datetime import datetime
 
 update_path = './donated/'
 
-url = "https://yebekhe.link/api/telegramDonated/"
+url = "https://api.yebekhe.link/telegramDonated/"
 res = requests.get(url)
 while True:
       time.sleep(10)
