@@ -8,7 +8,7 @@ from datetime import datetime
 update_path = './countries/ir/'
 
 url = ["https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed",
-       "https://raw.githubusercontent.com/Airuop/TelegramV2rayCollector/main/country/IR/base64"]
+       "https://raw.githubusercontent.com/Airuop/TelegramV2rayCollector/dev/country/IR/base64"]
 
 servers = []
 
