@@ -5,7 +5,7 @@ from datetime import datetime
 
 update_path = './update/'
 
-url = 'https://raw.githubusercontent.com/Airuop/TelegramV2rayCollector/dev/sub/normal/reality'
+url = 'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/dev/sub/normal/reality'
 data = requests.get(url).text
 while True:
       time.sleep(10)
