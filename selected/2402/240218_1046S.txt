@@ -1,0 +1,324 @@
+vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@104.21.0.219:2096/?type=grpc&encryption=none&security=tls&sni=ss.ali767.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.0.219:2096 📡 PING-008.47-MS
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443/?type=ws&encryption=none&host=unmanliest.appreviewcenter.com&path=/nimws&security=tls&sni=unmanliest.appreviewcenter.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443 📡 PING-008.46-MS
+vless://6fd4a391-bc0e-4bbc-b460-880d89d4df7b@65.109.193.181:52195/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=Kir&fp=chrome&security=reality&pbk=h1K6skmAs71qhm34HX1KwetsU4jPe6VqZaSueOfZ-R0&sid=b5b8b87f#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.193.181:52195 📡 PING-169.11-MS
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@37.27.24.220:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.24.220:25365 📡 PING-169.38-MS
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#TVC 🎩 Miner Gangsters
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#TVC 🎩 Miner Gangsters
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#TVC 🎩 Miner Gangsters 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#TVC 🎩 Miner Gangsters
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#TVC 🎩 Miner Gangsters
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#TVC 🎩 Miner Gangsters 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#TVC 🎩 Miner Gangsters
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#TVC 🎩 Miner Gangsters
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#TVC 🎩 Miner Gangsters 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#TVC 🎩 Miner Gangsters
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#TVC 🎩 Miner Gangsters
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#TVC 🎩 Miner Gangsters 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#TVC 🎩 Miner Gangsters
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#TVC 🎩 Miner Gangsters
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383/?type=grpc&encryption=none#🇺🇸 Shervin
+vless://59900344-9850-5676-5538-520141532025@65.108.76.40:40316/?type=grpc&encryption=none&security=tls&sni=a.korton.co.in#🇫🇮 TVCminers
+vless://d8e57aa3-d98c-4d55-8ded-6c6c8180c72b@104.18.202.232:2053/?type=grpc&encryption=none&security=tls&sni=fv2ray.dolat-iran.cfd&fp=safari#🇺🇸 TVCminers 
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@104.24.148.142:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&fp=chrome#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#🇺🇸 TVCminers
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://cba8411e-0e06-4ce9-839c-5833703c9025@159.69.117.204:443/?type=grpc&encryption=none&serviceName=@Hatunnel_vpn&sni=*.cloudflare.com&fp=firefox&security=reality&pbk=5Y5PJFDDrv6DCsHtP3F-b_pTWDExJMRNTYfB-4ocKwU&sid=96fdd23e#🇩🇪 (1)
+vless://312da74b-60e9-4d3f-a736-1003b3bbf70e@23.227.60.7:2096/?type=grpc&encryption=none&security=tls&sni=jercon9.ialbion.com&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@146.19.233.85:443/?type=grpc&encryption=none&security=tls&sni=de1.alphav2ray.link#SHΞЯVIN™ (4)
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@216.9.227.152:2083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#🇹🇷 SHΞЯVIN™🎛️
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443/?type=tcp&encryption=none&sni=cloudreve.r-yu.me&fp=chrome&security=reality&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=#SHΞЯVIN™ (2)
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#shervin 
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN Hyper
+vless://81d4886c-624b-46db-b8de-cf523bd75ffe@108.61.188.35:44328/?encryption=none&host=dfgdfgg.pubgji.eu.org&type=tcp&headerType=http#SHERVIN 
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://68f03a1b-a9fe-44f4-9292-1380cd0d2eb9@dns.rasha.cfd:443/?type=grpc&encryption=none&serviceName=22394481&security=tls&sni=5888385863.vtnet.org&alpn=h2&fp=chrome#TVC 🎩 Miner Gangsters
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443/?type=grpc&encryption=none&security=tls&sni=m11.takaza.buzz&alpn=h2,http/1.1&fp=chrome#TVC 🎩 Miner Gangsters
+vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278/?type=tcp&encryption=none#TVC 🎩 Miner Gangsters
+vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443/?type=ws&encryption=none&host=m.zoom.us&path=/#TVC 🎩 Miner Gangsters
+vless://48a4a587-a909-4190-a52a-bf2dfce68e95@45.32.187.214:22231/?type=ws&encryption=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#TVC 🎩 Miner Gangsters
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052/?type=ws&encryption=none&host=workerr.d6dkppf4.workers.dev&path=/?ed=2048#TVC 🎩 Miner Gangsters
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™ALFA
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™BETA
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™HYPER
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™MAX
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™FORCE
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™PSY
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™OVER
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™CORE
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™ROUGH
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™BETA
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™DAMN
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™BADASS
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™BOSS
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™TERMINAL
+vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0:2:d0::b7c:e001]:15317/?encryption=none&host=ftp.debian.org&type=tcp&headerType=http#SHΞЯVIN™POKE
+vless://4566efc8-ac00-40a7-a300-729a58325a0d@[2a01:4f9:c010:6fb9::2d]:443/?type=grpc&encryption=none&serviceName=@Everyday_VPN&sni=gsmarena.com&fp=chrome&security=reality&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d#SHΞЯVIN™HERO
