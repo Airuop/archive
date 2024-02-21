@@ -1,0 +1,289 @@
+vless://92a1f114-c0e3-415a-b065-1aaa97e01867@185.58.241.132:55042/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.146.221:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://c783852b-b0a5-44b2-9cba-4f7a58ce4ab8@84.47.225.35:8478/?encryption=none&host=colorlib.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.143.59:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http# SHΞЯVIN™
+vless://e2743feb-5820-488b-9d77-80cd2cc2ddc2@190.93.247.155:2083/?type=ws&encryption=none&host=allnet.deragv2ray.net&path=/&security=tls&sni=all.deragv2ray.net#SHΞЯVIN™
+vless://13eefaf3-d838-4057-9ba0-5ca402f542fb@162.159.134.234:2095/?type=ws&encryption=none&host=hi-mommy.xn--fhqaa952bababa.tech.&path=/join--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON?ed=1048#SHΞЯVIN™
+vless://13eefaf3-d838-4057-9ba0-5ca402f542fb@162.159.130.234:2095/?type=ws&encryption=none&host=hi-mommy.xn--fhqaa952bababa.tech.&path=/join--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON?ed=1048#SHΞЯVIN™
+vless://e2743feb-5820-488b-9d77-80cd2cc2ddc2@190.93.247.155:2083/?type=ws&encryption=none&host=allnet.deragv2ray.net&path=/&security=tls&sni=all.deragv2ray.net#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://c0f87941-ea56-427a-9656-e3f2a9b2097f@87.107.188.17:19320/?encryption=none&host=www.speedtest.ner&type=tcp&headerType=http#SHΞЯVIN™
+vless://bda71f4d-8eff-4d83-905b-db47927ae36d@85.198.10.228:29936/?encryption=none&host=fast.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.153.215:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@62.60.210.187:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://92a1f114-c0e3-415a-b065-1aaa97e01867@185.58.241.132:55042/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.146.221:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://c783852b-b0a5-44b2-9cba-4f7a58ce4ab8@84.47.225.35:8478/?encryption=none&host=colorlib.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.143.59:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http# SHΞЯVIN™
+vless://e2743feb-5820-488b-9d77-80cd2cc2ddc2@190.93.247.155:2083/?type=ws&encryption=none&host=allnet.deragv2ray.net&path=/&security=tls&sni=all.deragv2ray.net#SHΞЯVIN™
+vless://13eefaf3-d838-4057-9ba0-5ca402f542fb@162.159.134.234:2095/?type=ws&encryption=none&host=hi-mommy.xn--fhqaa952bababa.tech.&path=/join--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON?ed=1048#SHΞЯVIN™
+vless://13eefaf3-d838-4057-9ba0-5ca402f542fb@162.159.130.234:2095/?type=ws&encryption=none&host=hi-mommy.xn--fhqaa952bababa.tech.&path=/join--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON--zedmodeon-ZEDMODEON?ed=1048#SHΞЯVIN™
+vless://e2743feb-5820-488b-9d77-80cd2cc2ddc2@190.93.247.155:2083/?type=ws&encryption=none&host=allnet.deragv2ray.net&path=/&security=tls&sni=all.deragv2ray.net#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://c0f87941-ea56-427a-9656-e3f2a9b2097f@87.107.188.17:19320/?encryption=none&host=www.speedtest.ner&type=tcp&headerType=http#SHΞЯVIN™
+vless://bda71f4d-8eff-4d83-905b-db47927ae36d@85.198.10.228:29936/?encryption=none&host=fast.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.153.215:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@62.60.210.187:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://92a1f114-c0e3-415a-b065-1aaa97e01867@185.58.241.132:55042/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.146.221:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://c783852b-b0a5-44b2-9cba-4f7a58ce4ab8@84.47.225.35:8478/?encryption=none&host=colorlib.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#SHΞЯVIN™
+vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.143.59:2082/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#SHΞЯVIN™
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@141.101.113.110:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work&fp=chrome#SHΞЯVIN™
+vless://24547b31-f7f7-4fb8-944d-daf2757079a6@172.67.170.236:8443/?type=grpc&encryption=none&security=tls&sni=fox.arisan-10.site&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.31.16.85:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.26.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.24.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://df6bdf7d-4332-4954-9524-0d61b0158bb0@141.11.202.33:2083/?type=grpc&encryption=none&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_&security=tls&sni=v2rayfree1.globalnetvpn.site&alpn=h2,http/1.1#SHΞЯVIN™
+vless://d9163907-40ec-47b2-abd2-20ac803d778b@190.93.246.137:443/?type=grpc&encryption=none&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&security=tls&sni=g2.ferdowsi.shop&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.31.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.25.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://5f22e4bf-e3e7-4af0-afd3-6239a556576a@190.93.247.247:443/?type=grpc&encryption=none&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@23.227.60.7:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work&fp=chrome#SHΞЯVIN™
+vless://594627e3-a602-42bd-bb76-01d21921541c@190.93.246.247:2053/?type=grpc&encryption=none&serviceName=@v2rray1_ng&security=tls&sni=y.1lagvpn13.cfd&fp=chrome#SHΞЯVIN™
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.30.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://24547b31-f7f7-4fb8-944d-daf2757079a6@104.21.28.160:8443/?type=grpc&encryption=none&security=tls&sni=fox.arisan-10.site&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.1.35:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.28.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://d9163907-40ec-47b2-abd2-20ac803d778b@188.114.96.0:443/?type=grpc&encryption=none&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&security=tls&sni=g2.ferdowsi.shop&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.27.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@141.101.113.110:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.29.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://d13ab056-c419-4c5d-b003-4810b3310295@172.67.71.160:2053/?type=grpc&encryption=none&serviceName=chaneltelgram:@v2rray1_ng&security=tls&sni=xx.1lagvpn13.cfd&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://24547b31-f7f7-4fb8-944d-daf2757079a6@172.67.170.236:8443/?type=grpc&encryption=none&security=tls&sni=fox.arisan-10.site&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.31.16.85:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.26.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.24.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://df6bdf7d-4332-4954-9524-0d61b0158bb0@141.11.202.33:2083/?type=grpc&encryption=none&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_&security=tls&sni=v2rayfree1.globalnetvpn.site&alpn=h2,http/1.1#SHΞЯVIN™
+vless://d9163907-40ec-47b2-abd2-20ac803d778b@190.93.246.137:443/?type=grpc&encryption=none&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&security=tls&sni=g2.ferdowsi.shop&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.25.34:2087/?type=grpc&encryption=none&serviceName=----telegram:vpn_xw----&security=tls&sni=eropa.gooldeneaglee.eu.org&alpn=h2,http/1.1&fp=firefox#SHΞЯVIN™
+vless://5f22e4bf-e3e7-4af0-afd3-6239a556576a@190.93.247.247:443/?type=grpc&encryption=none&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@23.227.60.7:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work#SHΞЯVIN™
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443/?type=grpc&encryption=none&security=tls&sni=id067.v2net.work&fp=chrome#SHΞЯVIN™
+vless://594627e3-a602-42bd-bb76-01d21921541c@190.93.246.247:2053/?type=grpc&encryption=none&serviceName=@v2rray1_ng&security=tls&sni=y.1lagvpn13.cfd&fp=chrome#SHΞЯVIN™
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=tls&sni=dash.zedmodeon.lat&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://24547b31-f7f7-4fb8-944d-daf2757079a6@104.21.28.160:8443/?type=grpc&encryption=none&security=tls&sni=fox.arisan-10.site&alpn=h2,http/1.1&fp=chrome#SHΞЯVIN™
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪ%
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪ%
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪ%
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.246:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://4f52c321-4530-4564-9bf6-4a82853462c8@62.60.132.108:14550/?encryption=none&host=bitcoin.org&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://a3d5c52f-9058-4fc1-a248-8f91cf4bd7b7@85.9.105.58:2059/?encryption=none&host=nobitex.ir&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://fee9f1d2-6028-4725-bf3e-53398b842c41@87.236.208.60:4141/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://08cf0e60-a98c-4542-fa81-49601fe94b82@86.104.32.93:80/?type=ws&encryption=none&host=wEbroVers1.TURKabr.ir&path=/webrovers#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://438bfa52-b752-4fb8-8cdc-cfac031b641f@38.180.57.71:13194/?type=ws&encryption=none&path=/#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://968fa15c-08bd-4b14-a056-72f57bab8993@85.9.99.242:49191/?type=grpc&encryption=none&serviceName=@v2raand#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://eca4b951-1b57-474c-bc55-9180e4e57f79@185.212.194.38:5050/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9c73d5c4-c555-4926-b2d0-96f1ba69b3cb@185.126.201.246:25677/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://7ed792bc-08d5-4c30-83c1-aa10ec138d6d@185.173.129.15:52098/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c46dbcfb-fcef-4304-a6a7-d8ae46934671@91.247.171.38:50892/?encryption=none&host=telewebion.com&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://c52afe6f-e38f-434b-99f3-075873e4a417@193.151.145.79:2082/?type=ws&encryption=none&path=/custom_config#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9a7352ea-f66c-42de-ff10-57f78e264174@79.175.129.184:32433/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://3cba89de-6a96-4c33-c86e-d561fe59a51d@79.175.129.184:43611/?encryption=none&host=speedtest.net&type=tcp&headerType=http#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://0cf9d713-b8ad-47db-98e8-edb761a59f35@speedtest.org:443/?type=grpc&encryption=none&serviceName=70915439&security=tls&sni=4713507602.larosamusic.com&alpn=h2&fp=chrome#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://ccc7355c-2f4e-4666-ac6b-e8007a828d76@185.229.227.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=gv4E8E_P0z1sKK7VC-lsTumlVtK6ZRmZa0x-okCnJEE&sid=c974ce05#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪ%
+vless://330e4e59-3a23-45b7-aec7-135b2bf24304@[2a12:5940:55ef::2]:2087/?type=tcp&encryption=none#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&sid=c8129c93#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365/?type=grpc&encryption=none&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&fp=chrome&security=reality&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&sid=fc790928#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443/?type=grpc&encryption=none&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2,http/1.1#SHΞЯVIN™🏷️ ᴛᴠᴄᴍɪɴᴇʀ
+trojan://sGuEWtJBhG@5.106.6.250:443/?type=tcp&security=tls&sni=mail.rubika.ir&alpn=http/1.1#SHΞЯVIN™
+trojan://sGuEWtJBhG@5.106.6.250:443/?type=tcp&security=tls&sni=mail.rubika.ir&alpn=http/1.1#SHΞЯVIN™
