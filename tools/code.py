@@ -3,7 +3,10 @@ import re
 import natsort
 
 
-paths = ['./countries/ir/2401', './update/2401', './donated/2401']
+paths = ['./countries/ir/2402', './update/2402', './donated/2402',
+        './countries/ir/2403', './update/2403', './donated/2403',
+        './countries/ir/2404', './update/2404', './donated/2404',
+        './countries/ir/2405', './update/2405', './donated/2405']
 
 def chunk_file(file_path, chunk_size=90*1024*1024):
   print(file_path)
