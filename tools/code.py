@@ -4,7 +4,7 @@ import os
 
 
 # paths = ['./countries/ir/', './update/', './donated/', './selected/']
-paths = ['./countries/ir/2308/']
+paths = ['./update/2308/']
 
 
 def chunk_file(file_path, chunk_size=90*1024*1024):
@@ -61,14 +61,14 @@ def merge_files(all_files, output_file):
 for path in paths:
 
   output_file = f'{path}/integrated.txt'
-  output_file_ss = f'{path}/ss.txt'
+  output_file_ss = f'{path}/shadowsocks.txt'
   output_file_vless = f'{path}/vless.txt'
   output_file_vmess = f'{path}/vmess.txt'
   output_file_others = f'{path}/others.txt'
   # Remove old final and integrated files
 
   for file in os.listdir(path):
-          if 'integrated' in file or 'ss' in file or 'vless' in file or 'others' in file or 'vmess' in file or 'final' in file:
+          if 'integrated' in file or 'ss' in file or 'shadowsocks' in file or 'others' in file  or 'final' in file:
               file_path = os.path.join(path, file)
               os.remove(file_path)
 
@@ -131,10 +131,13 @@ for path in paths:
       for line in othersLi:
           outfile.write(line)
 
+  chunk_file(output_file)
   chunk_file(output_file_ss)
   chunk_file(output_file_vless)
+  chunk_file(output_file_vmess)
   chunk_file(output_file_others)
-  changeName('ss', path)
+    
+  changeName('shadowsocks', path)
   changeName('vless', path)
   changeName('vmess', path)
   changeName('others', path)
