@@ -1,0 +1,535 @@
+trojan://bbaaacc-caab-cbaa-acdb-bcccabbacbaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  15:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-205.02-MS
+trojan://aacbcab-baac-caab-dbca-cabaabbcccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaacbbc-baac-aacb-cbad-acbabcabbacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  06:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-225.66-MS
+trojan://bcabaca-aabc-abca-bdac-baaabbbacccc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+
+trojan://cabaabc-abac-acba-adbc-ccacaabbcbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  22:43
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.12-MS
+trojan://cbaabac-aacb-abac-bdac-bcbcbaacbaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bacabca-baac-aacb-dcab-bcaaaabbbccc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  02:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-190.89-MS
+trojan://aacbbac-baca-caba-dacb-cbccabbaacba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbabc-abac-acab-dbac-cacbacbcbaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  18:11
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-223.55-MS
+trojan://abacbca-aabc-baca-bcad-aabccabbcbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaacba-acab-caba-dcba-baabaccabbcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  06:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-232.36-MS
+trojan://caaabbc-cbaa-bcaa-acbd-abcbacacbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcabcaa-aabc-baca-bcda-bccaaaacbbbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  05:22
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-198.02-MS
+trojan://cacbaba-acba-abac-bcad-cbaaabcbabcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baaccab-caab-cbaa-cbda-cbbcaaacbcba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  20:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-191.65-MS
+trojan://aaabcbc-abca-bcaa-abdc-bbaccbaabacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccbaaba-abac-abac-bdac-bbbcaaccaacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  23:35
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-191.29-MS
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-194.97-MS
+trojan://bbacaac-baac-baac-acbd-cbcbaaabaccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cababca-aabc-cbaa-cabd-aaabbcccbbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  03:27
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-173.78-MS
+trojan://accbaba-caba-acba-badc-acacbbbbaacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaabcb-caba-abac-dcab-caabacabcbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  05:23
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.09-MS
+trojan://abacbac-cbaa-caab-cadb-babccaabcbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccabbaa-aacb-baac-dabc-aaabcbccbabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  20:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.75-MS
+trojan://acbaabc-baac-caba-cabd-acbcbabbcaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abcaabc-bcaa-baca-dabc-cbaabcbcabac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  11:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-208.31-MS
+trojan://babcaac-acba-aabc-abdc-abacababcccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abacacb-aabc-abac-adbc-acabaaccbcbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  23:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-205.72-MS
+trojan://babcaca-baac-aacb-cabd-cacbabbabcac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbacab-acba-abca-dbac-aabcbccabbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  01:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.29-MS
+trojan://ccbaaab-baca-baca-abdc-bbacababccca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacabba-aabc-aabc-acbd-bbaacbcbaacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  17:41
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-242.36-MS
+trojan://abcabca-baca-acba-bdca-cccaacabbbba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbacaba-bcaa-cbaa-adcb-cbacbaacacbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  03:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-210.13-MS
+trojan://cabcaba-bcaa-acba-dbac-cbacabcbcbaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acabcab-aacb-bcaa-bcda-aabccacbbbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  17:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.75-MS
+trojan://bbcacaa-abca-aabc-abdc-acbbaacbacbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abccbaa-aacb-abac-cabd-bccbbaabcaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  21:40
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-211.27-MS
+trojan://babaacc-baac-aacb-dbca-aabbcbcaccba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabbcca-abac-caba-dbca-ccbabacabbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  17:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-168.02-MS
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-171.98-MS
+trojan://abaacbc-aabc-caba-cbda-ccabaacbcbba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abccaba-caab-baac-cbad-accabaacbbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  08:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-160.87-MS
+trojan://aacbbca-caab-cbaa-dbac-abbccacbaabc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbcaaab-aacb-abac-adbc-bbaaccaacbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  00:42
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-234.07-MS
+trojan://cabcbaa-aacb-baca-cabd-accabacbbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabaac-abca-baac-cbda-bbbacbaccaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  12:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-162.89-MS
+trojan://bcacbaa-abca-aabc-bdac-baababacccbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabbacc-baac-cbaa-bcad-cbabbacbacca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  21:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-211.31-MS
+trojan://bccaaba-baca-abac-cbda-cacbbcbacaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bccbaaa-baca-bcaa-cabd-cbbcaacaabbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  03:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-223.21-MS
+trojan://aacbcab-abca-abac-dcab-cbbbacacbaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bccaaab-abac-caba-acdb-bccbacacbbaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  20:39
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-232.25-MS
+trojan://bcacbaa-cbaa-caab-cbad-cbbabcacabca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacacbb-abca-abca-cabd-acbbabaaccbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  19:27
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-242.76-MS
+trojan://acabacb-aabc-aacb-dabc-bccccaaabbba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaabca-aacb-aabc-badc-accabbcbabac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  22:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.84-MS
+trojan://bbaccaa-baca-caba-abdc-babbcbcaaacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbacaa-abca-acab-cdba-aaccacbbbbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  10:24
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-173.20-MS
+trojan://ccabbaa-aacb-caab-cbad-bcccaabcbaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccbbaaa-bcaa-aacb-dcba-bbaacbcabcac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  11:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-202.88-MS
+trojan://acaabbc-caab-abca-bdca-abbccbabcaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bccaaba-bcaa-aacb-dbac-cacababcacbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  02:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-241.06-MS
+trojan://cbcbaaa-abac-abca-bcda-babccacbacba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacabcb-caba-abac-bcad-bccacbababac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  18:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-167.58-MS
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-171.28-MS
+trojan://acaacbb-caab-caab-acbd-caccbabaabbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbacaba-abca-aacb-dcba-cbbccbbaaaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  19:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-232.50-MS
+trojan://bcabcaa-caab-baca-dacb-aaacbbabccbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accbbaa-aacb-baca-abdc-aabcbabbcacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  12:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-196.81-MS
+trojan://baaacbc-baac-baac-adbc-acaabaccbbcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcabaac-cbaa-abca-dabc-bcabaccaabbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  15:14
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-162.14-MS
+trojan://bcacaba-aacb-abac-cbda-cbcabbacbaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baabcca-bcaa-abac-dabc-bbcbaabcacca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  21:27
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-218.07-MS
+trojan://abaaccb-caab-baca-acdb-abcbaabacccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcbac-baac-aabc-acdb-babccaacbcba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  17:37
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-200.84-MS
+trojan://cabcbaa-acba-aabc-dcab-baabccbcabac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abcbcaa-acab-abac-adbc-acaabcbabbcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  21:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.44-MS
+trojan://bcaaacb-abac-baca-dcab-acbcabbaccba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcabc-abac-aabc-cbda-ccbaacababcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  14:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-161.49-MS
+trojan://abacabc-baac-caba-acbd-bccbbccaaaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacabcb-aacb-caab-bcad-ccbbbaccabaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  13:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.07-MS
+trojan://caacbab-aabc-cbaa-bdca-ccacbabbbaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbacbaa-acba-abac-bcad-acbbaabcccba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  09:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-204.71-MS
+trojan://abcaacb-acab-aabc-dbca-babaabaccbcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbbcaa-abca-caba-bdac-baaccabccbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  07:22
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-165.79-MS
+trojan://caaacbb-abac-aacb-dabc-cabbbcbaacca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://babacca-caab-aabc-dacb-baaababccbcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  01:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-222.21-MS
+trojan://acbabca-aabc-baca-bcad-abbccbbcaaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaabcb-caba-acba-cadb-acbcbbcbcaaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  03:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-172.59-MS
+trojan://bbaccaa-bcaa-caba-cdba-babbcbcacaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bbacaac-caba-baac-dbca-ababbcacbcca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  00:41
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-229.22-MS
+trojan://cacbbaa-baac-baac-cabd-bccbcbacabaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbabca-caba-abac-bcad-cbbaabcbacac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  02:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.23-MS
+trojan://acbcaab-bcaa-bcaa-adcb-cabccabcbaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabaac-abca-aacb-abdc-accbcbaabbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  18:41
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-229.37-MS
+trojan://baccbaa-acba-aacb-adbc-bcbaaacccbba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bbcaaca-caab-aabc-abcd-ccbcabbaabca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  13:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-192.71-MS
+trojan://cacabab-abca-aacb-dabc-bbcababaccca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abccbaa-baca-baca-dcab-babcccbaabac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  07:23
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-171.97-MS
+trojan://abccbaa-bcaa-caba-bdca-ccabbbbacaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abaacbc-cbaa-baac-dcba-acbccbcabbaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  12:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-206.58-MS
+trojan://cabaacb-bcaa-abac-badc-caacacbbbacb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcbca-abac-caab-cabd-bcacaaabcbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  00:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-165.70-MS
+trojan://accbbaa-acba-abca-bcda-cabbbaabccac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbcaaab-aabc-acab-cbad-cbcaabbacbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  05:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.88-MS
+trojan://aabcbac-abac-aabc-adbc-ccaabcacbabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcacb-aabc-abca-acbd-ccbbcbcaaaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  09:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-192.85-MS
+trojan://acbcaba-acba-baac-dbac-cbabbaacccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acababc-aabc-cbaa-cadb-acbabcbccaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  15:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.38-MS
+trojan://caaabbc-abac-caba-cadb-aabcbbabccca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acabbac-baca-aacb-cbda-acacaccbbbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  10:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-219.17-MS
+trojan://abcacba-abac-caab-cdba-bccbabcacbaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabba-caab-abca-bdac-bcbababaccac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  22:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-232.79-MS
+trojan://bbacaca-cbaa-baca-dbca-bbbaccaaccba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ababacc-acba-caab-bacd-babaccccbaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  13:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-171.48-MS
+trojan://cabcaba-baac-bcaa-abdc-acbbaabccbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbbaca-caba-baca-bdac-caabbacccbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  15:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-220.08-MS
+trojan://accbbaa-acab-acba-dbca-abcaaccabbbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZvless://91d62435-e572-4a96-a1a8-da24b8183a4b@arvancloud.ir:443?alpn=http%2F1.1&encryption=none&fp=chrome&headerType=None&hiddify=1&host=s1.sadegh.lol&path=%2FMoE20KJfi3q8Nn&security=tls&sni=s1.sadegh.lol&type=ws#@iP_CF | IR | arvancloud.ir:443 | 443.32ms | 03
+trojan://abacbac-acba-abca-dabc-bcbaaccbbaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  03:46
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.38-MS
+trojan://acacbba-abca-acab-bcad-bcabbcbcaaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baacacb-baac-baac-dcba-baabbcbcacca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  22:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.85-MS
+trojan://accbaba-bcaa-acba-bcad-baccacbabbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacbaba-bcaa-caba-dbac-cbcaaccabbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  11:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-221.97-MS
+trojan://aacabcb-aabc-acab-bacd-bbaaabcccbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaacbb-bcaa-baca-cbad-bacbacaccbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  13:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-212.02-MS
+trojan://baacbca-acba-aacb-bdac-acbaabbcccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcaaabc-aabc-caab-adcb-aabcabbccbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  02:27
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-160.92-MS
+trojan://accabab-abac-cbaa-bdca-acccabaabbcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbabc-baac-caab-cabd-bacbcaacbbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  10:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-160.65-MS
+trojan://acbabca-acab-bcaa-acbd-caabcbbbaacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaccbba-caab-aabc-cabd-bcacbbbaacac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  14:27
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-232.46-MS
+trojan://HtUMqW60mN@193.176.243.14:23191?security=tls&sni=filmnet.ir# TR-TCP-TLS  IR-193.176.243.14:23191  PING-335.40-MS
+trojan://baabacc-baac-caab-bcda-bbaacaacccbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abacbca-aacb-caba-cabd-ababcccbaabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  18:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-228.74-MS
+trojan://bccbaaa-caba-cbaa-cdba-bcabcacbcaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbacaa-acab-aacb-bacd-abcaacbacbbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  13:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-166.95-MS
+trojan://aabacbc-acab-acba-acbd-cacababcbabc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accbbaa-acab-acba-dbca-abcaaccabbbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaccbba-abac-acab-cdab-acbccabaacbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  23:48
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-171.49-MS
+trojan://bcacaab-abac-aabc-dcba-abbaacabbccc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaaabb-cbaa-baca-cdab-bacbcaabccba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  21:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-202.09-MS
+trojan://bacacba-cbaa-abac-cdba-cacbababccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbaaac-caab-cbaa-dbac-caacacbbbcab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  23:40
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-168.93-MS
+trojan://abccbaa-cbaa-acba-cdab-baacbbcccaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbcaba-cbaa-acba-cdab-baacbacccbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  19:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-194.53-MS
+trojan://abcaabc-baca-baac-bdca-abaacbccbbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bbaccaa-caab-aabc-abcd-aacabbbcbacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  15:43
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-233.98-MS
+trojan://ccbaaab-aabc-acba-bdac-bcabaaccacbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aababcc-abac-caab-bacd-abccbacbacba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  00:32
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-194.40-MS
+trojan://aabbcca-abac-aacb-bcad-aababcabcccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbacab-baac-caba-adcb-cacbabcabbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  03:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-202.61-MS
+trojan://bcbaaac-aabc-caba-dbca-cabcabcabacb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcabc-abca-baca-dcab-aabbccccbaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  08:28
+trojan://cbaaacb-aabc-caba-bacd-ccacbaaabbcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bacaacb-acab-baac-acbd-accbcaabcabb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  01:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-169.71-MS
+trojan://cbacaba-acba-abac-dacb-bccbaaacbcab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaaccbb-aabc-caab-abdc-cbaccbbbaaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  21:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.19-MS
+trojan://cbacbaa-aacb-abac-adcb-bcbccaaabacb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baccaba-abca-acab-dbca-ccbbaabacbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  11:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-224.92-MS
+trojan://bacbaca-baac-abac-bcad-bacaabccbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabaca-caba-baac-bacd-bbacaabccabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  17:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-196.30-MS
+trojan://accbaba-cbaa-baac-bdca-aacbbaaccbbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acababc-abac-abac-cbda-abcabbaacccb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  06:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-222.53-MS
+trojan://babcaac-acba-abca-dbca-cbabcbacacba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabba-acab-cbaa-badc-bbbcbaaccaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  18:41
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-231.43-MS
+trojan://baacabc-aabc-acba-adbc-acabacbccabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baabcac-acab-baca-cbda-accbbccabbaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  12:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-215.09-MS
+trojan://bbaaacc-bcaa-abca-bdca-acbbcacacbab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcacaba-acba-aabc-bcad-ababccaccbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  00:48
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-235.03-MS
+trojan://aabaccb-baca-aacb-acdb-acbababcacbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcacbaa-cbaa-acba-bcad-cabbacaccbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  12:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-233.01-MS
+trojan://cabcaba-acba-baca-cabd-aaabbcbabccc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cabcbaa-abca-abca-abcd-bcacbcaabbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  06:27
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-225.94-MS
+trojan://abccaab-baca-cbaa-bdca-bbacacbaaccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbcab-caab-acab-cbda-babcbacaabcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  13:37
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-232.33-MS
+trojan://baacabc-cbaa-bcaa-dbca-ccbbabbaacac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabab-bcaa-aabc-badc-bcacbabcabca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  15:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-205.15-MS
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-207.34-MS
+trojan://caacbab-aacb-aacb-bdac-baacbcacbbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcabc-baac-aabc-acdb-ababbcbaccac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  19:40
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-239.75-MS
+trojan://baaaccb-caab-baac-bdac-aacbcbacacbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaabbc-abac-acab-cabd-bcccaaababcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  07:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.81-MS
+trojan://baccbaa-aabc-cbaa-badc-abacacabbbcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbcab-aacb-aacb-bdac-bccbacabaabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  19:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-218.82-MS
+trojan://cbabcaa-aabc-cbaa-abcd-bccabaabacbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accbbaa-baac-caab-acdb-baaabcbcbcca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  22:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-230.06-MS
+trojan://babcaac-caba-aabc-adbc-caababccabbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaccbab-aacb-acab-dacb-abcbaaabccbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  14:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-237.58-MS
+trojan://cacbbaa-acab-acba-cdba-abaaccbcbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caacbab-cbaa-abac-dabc-abbccaaccabb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  12:25
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-170.71-MS
+trojan://cbabaca-abac-baca-cbad-abbbcaccbaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abaabcc-abac-caab-acbd-acaacccbbbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  09:24
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-170.37-MS
+trojan://cbaacab-baac-abac-cbda-acccabbabbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacaabb-acab-acba-acdb-cabbbacccbaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  02:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-230.62-MS
+trojan://ccbabaa-cbaa-caab-bdca-abbbaacccbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abcaacb-baca-baca-bdca-cbbbcaabaacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  18:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-206.60-MS
+trojan://accbaab-aabc-aacb-adbc-aabababccccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcaacab-acba-caba-dacb-acccbbacaabb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  05:18
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-198.95-MS
+trojan://aacabbc-acba-acba-bdac-ccbbcbaaacba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaccbba-bcaa-acba-dabc-bbabaabcccca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  11:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-205.49-MS
+trojan://cbaabac-caba-baac-dacb-abcbabcaccba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abbcaca-bcaa-aacb-cabd-bbabbaacccac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  19:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-228.09-MS
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-240.82-MS
+trojan://bcbacaa-cbaa-abac-bacd-cacbabacbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaacbb-cbaa-acba-cadb-bacbacbcbaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  06:37
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-225.78-MS
+trojan://accbaab-abac-baac-bcad-bcaacabbccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbcabaa-abac-bcaa-dabc-bbbcaaacccab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  22:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-214.92-MS
+trojan://caabbac-abca-baac-dabc-bbacccbaacab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabba-caab-acab-bdca-cbbbacccaaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  14:29
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-211.12-MS
+trojan://baabcca-caba-abca-abdc-cabbcbbacaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacabab-aacb-baac-dbca-bcacbaacbbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  16:51
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-207.22-MS
+trojan://abacbca-caba-baca-bdac-abcabccabbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbacb-aacb-cbaa-dcab-bcbcacaaabcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  08:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.85-MS
+trojan://bcaaacb-aabc-aabc-dcab-cbbbacabacac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cababca-abca-baac-bcad-bababccbcaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  01:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-190.72-MS
+trojan://aabccba-abac-caab-bcda-aabaccbcabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacbaba-baac-baac-bcda-bbabccacbaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  18:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-218.52-MS
+trojan://acbcaba-baac-abca-dcba-ccbabbacabac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acaacbb-baac-baca-dbac-acccabacbabb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  07:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-207.13-MS
+trojan://cbabcaa-caab-abca-adbc-baabcabccabc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://babccaa-caab-aabc-dabc-aaccbabcabbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  05:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.25-MS
+trojan://aacacbb-baca-abca-bcda-cccbabbbcaaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabcaa-aabc-abca-cdba-bbabccccabaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  23:47
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-225.59-MS
+trojan://aaacbcb-baac-bcaa-cdab-bbaccbccbaaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bbcacaa-acba-aacb-bcad-aabccabbbacc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  16:46
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-169.74-MS
+trojan://cabcaab-abac-caab-bdca-cababcaabbcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caaabcb-abac-acba-bacd-acbccaabcbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  14:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.18-MS
+trojan://aabccab-abac-acba-dabc-abbacbcabacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbacaa-baca-caab-dbca-bccaaaacbbbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  03:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-224.41-MS
+trojan://accaabb-aacb-acba-acdb-bcccabaaabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbcab-caab-caab-dcba-cacbcaabcbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  13:33
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-228.34-MS
+trojan://ababcac-baca-acab-bacd-cbcbaabcacab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acabbac-caba-aacb-adbc-ccbacbabcaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  19:40
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.79-MS
+trojan://abcbcaa-abca-aacb-cbad-baacbacbcbac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caabbac-acab-baac-bcad-bbcabbcaacca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  09:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-236.34-MS
+trojan://cbabaca-abac-acab-abdc-abbccacaabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbacaa-acab-caab-dcab-cbccaabacbab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  16:46
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-205.73-MS
+trojan://abbcaca-aabc-abac-dcba-aabcbcccbaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacbaba-baac-bcaa-cabd-ababbcccabac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  08:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.18-MS
+trojan://baccbaa-acab-aacb-acbd-cabbacacbcba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cabcbaa-abac-baac-dacb-accbbbbacaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  09:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.16-MS
+trojan://acabbca-baac-baac-cbda-bcabbacacbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caababc-baca-baac-cdab-bcacbcbaacab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  01:30
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-209.81-MS
+trojan://cbacaba-cbaa-cbaa-cadb-baaacacbbccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbbaca-baca-cbaa-bdca-ccacaabbcbba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  13:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-231.24-MS
+trojan://HtUMqW60mN@193.176.243.14:23191?security=tls&sni=filmnet.ir# TR-TCP-TLS  IR-193.176.243.14:23191  PING-338.96-MS
+trojan://abaccba-acab-aacb-abcd-bbbccacabaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cabbcaa-aacb-baac-cbad-babbcabcacca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  20:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-205.66-MS
+trojan://abccaab-baac-caba-abdc-bcacbaaabccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accabab-cbaa-bcaa-cadb-acccbbbaabca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  19:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-198.99-MS
+trojan://babaacc-abca-abac-adbc-babcccbcbaaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbacb-abac-baac-acdb-aaaabbcccbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  05:24
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-231.91-MS
+trojan://aacbcab-acab-caba-dcab-ccaabbcabbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caacbab-aacb-caab-cdab-accbcabbbaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  01:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.95-MS
+trojan://abaabcc-baca-baac-bdac-bccbaaacacbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbcaab-acba-caba-cadb-bbcbbcacacaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  13:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-228.91-MS
+trojan://baaccba-caab-aabc-adcb-aabcbabcabcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baacacb-cbaa-baca-bacd-aabbccbacbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  15:27
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-195.67-MS
+trojan://cabacba-cbaa-aabc-dcba-aaabacbccbbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccabbaa-aabc-baca-cdab-bbabbcaccaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  02:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-168.14-MS
+trojan://babaacc-abac-caba-cdba-abcccbacaabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cabaacb-baca-bcaa-abcd-caacbacbbbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  03:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-209.76-MS
+trojan://aabbacc-baca-acab-abdc-caabbacbbcac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abcacab-acab-cbaa-adbc-baccabbaacbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  20:43
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-199.22-MS
+trojan://acabbca-baac-baac-adbc-acbabbccaacb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbacb-caba-acba-abcd-bccbcbabcaaa@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  11:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-238.22-MS
+trojan://cabaacb-baac-caab-cabd-accabacbcabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaabccb-cbaa-aacb-dabc-cbaaccbaacbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  20:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-225.64-MS
+trojan://aacbcab-caba-caab-dbac-acbcbbcacaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbacaab-bcaa-bcaa-cadb-acbcabbcbaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  00:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-229.56-MS
+trojan://cbacaba-baca-baac-dacb-aabbacccabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accabba-caba-baac-dcba-aacccbbbacba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  05:24
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-167.71-MS
+trojan://caabbac-abca-abac-cbad-cccbbaabacab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaacba-cbaa-baca-dcba-aacabcbbaccb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  08:39
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-231.07-MS
+trojan://ababacc-baac-cbaa-bdca-cacabcababcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaacbbc-abca-baca-dcab-cacabacbabbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  10:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-231.02-MS
+trojan://bacbaac-bcaa-cbaa-cbda-aaccbbcbcaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcabcaa-acab-abca-dacb-babcccbabaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  21:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-214.99-MS
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-222.76-MS
+trojan://acbcaba-baca-bcaa-dabc-acabcbbcbaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcbaaca-caba-abca-cbad-cccbaacbbaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  01:38
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-225.58-MS
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-227.79-MS
+trojan://ccaaabb-caba-aacb-abdc-cccabbbabaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaabca-abca-caab-bcda-baaccbacbacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  11:32
+trojan://abcbaca-abca-abca-cdab-accababacbbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacbcab-abca-baca-cabd-cbcacbababac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  08:28
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-197.58-MS
+trojan://bbccaaa-baac-acab-badc-bcabaacaccbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccbabaa-abca-caab-cabd-abccacabbbac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  18:25
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-204.43-MS
+trojan://ccbaaba-caba-acba-bcad-babbcabaccac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baacbca-caba-abac-cbda-cacabaacbbcb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  19:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-224.90-MS
+trojan://aababcc-aacb-cbaa-dabc-bbaacbcaaccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accabab-caab-abac-cbad-ccaabbbbacac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  07:26
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-162.11-MS
+trojan://bbaacac-caba-caab-abcd-cbbacbbaccaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcaacba-cbaa-aacb-cadb-aababbabcccc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  02:37
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-237.28-MS
+trojan://bcaaacb-acba-acba-cdba-accbbcababca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://accabab-cbaa-acab-adbc-abbbcaaccbca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  20:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-224.47-MS
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-232.20-MS
+trojan://cbcaaab-caab-baac-acdb-cabcaabcbabc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abacbca-caab-abac-cabd-cabbbacacacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  15:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.39-MS
+trojan://abccaab-caba-aabc-acbd-caccacbbaabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaabac-aacb-baac-bcad-cbbcacbacaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  16:40
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-230.65-MS
+trojan://acbbaac-caba-aabc-cadb-ccbcabaaabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabbcca-aacb-abca-dbac-bcacbabccaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  16:44
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-213.36-MS
+trojan://cbbacaa-bcaa-cbaa-dbca-cabcbcacbaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acabbac-aacb-baca-dacb-abcabbccaacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  07:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.56-MS
+trojan://bcaabca-acba-acab-bdca-cbccacbbabaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccbabaa-baca-caab-cdba-bbcaacabbcca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  23:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-227.26-MS
+trojan://aacbcba-abac-caab-cdab-aababcccbcab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://abbaacc-caab-abac-acdb-acbcbaacacbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  21:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-214.82-MS
+trojan://baaacbc-abca-caba-dacb-accabcbaabcb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabcacb-abca-abac-abcd-cccaaabcabbb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  20:32
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-231.04-MS
+trojan://bcbcaaa-baca-abca-dacb-bcabacaabbcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaaabb-caba-cbaa-cbad-abcabcabccba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  18:41
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-245.77-MS
+trojan://cbbcaaa-caba-acab-dcba-abcaabcbaccb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caacabb-baac-cbaa-dbca-bbaccbaccaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  09:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-233.49-MS
+trojan://babcaac-caab-caab-cbda-baacabcccbba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbbcaaa-caba-acba-dcba-ccbabcbacaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  14:37
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-194.98-MS
+trojan://baaccab-caab-abca-cbda-cbbcababcaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://acbbaac-abca-bcaa-adcb-acbccababcab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  08:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-204.63-MS
+trojan://bbaaacc-baca-caba-bdca-aaacbbabcbcc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabaca-aacb-acba-cdab-acbcbaabccba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  01:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-197.31-MS
+trojan://bacaacb-acba-acba-dcba-cabcbbcacaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://babccaa-baca-baca-adcb-babacbccaabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  14:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-194.65-MS
+trojan://baaccab-cbaa-bcaa-dabc-bacaabbcacbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaabcbc-caba-aacb-cadb-aabccaabcbbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  20:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-234.13-MS
+trojan://abacacb-bcaa-abca-dabc-cacbbbbcaaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://caaacbb-aacb-baac-bdca-cbacbcbacaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SUN-05-SHAHRIVAR-1402  16:48
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-238.45-MS
+trojan://bacaacb-aacb-cbaa-cabd-bcccbbaabcaa@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cacbbaa-acba-aacb-cdba-bcbbbcaacaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  07:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-211.73-MS
+trojan://abbcaac-baac-baca-cabd-bacaccacbabb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aaabccb-abca-acab-dcba-bcbaaabbccca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  16:53
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-235.38-MS
+trojan://abaacbc-baac-acba-abcd-bbabccaabacc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabab-baac-aabc-adcb-caabbcbaabcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  FRI-03-SHAHRIVAR-1402  17:28
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-169.73-MS
+trojan://cabcbaa-caab-cbaa-abcd-bbcabaacccab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabccba-abca-acba-bcad-bcbaaabacbcc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  09:32
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-177.50-MS
+trojan://cabaacb-caba-acba-abcd-cbbaccabbaac@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccabaab-bcaa-acab-dacb-cbcbbbacaaac@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  21:33
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-203.22-MS
+trojan://cbaacab-cbaa-caba-dacb-caacaccabbbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aacacbb-acab-abac-dacb-aabbabbacccc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  11:31
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-228.68-MS
+trojan://cbaaabc-abca-caba-bacd-ccaabbacbcab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://ccaabab-baca-acba-cbda-cabcbaacbacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-08-SHAHRIVAR-1402  10:30
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-172.31-MS
+trojan://caabbca-caba-bcaa-badc-cccabaabcbab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bbcacaa-caba-caba-bcda-babcaaccabbc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  WED-01-SHAHRIVAR-1402  17:24
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-198.15-MS
+trojan://baacbca-baca-caba-dbac-accbabcbcaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbaacab-acab-caab-cbda-bccacbabcaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-02-SHAHRIVAR-1402  06:26
+trojan://6e0e2ae472154b589e8e275e429e6110@185.113.9.81:443?security=tls&sni=ist1.shecan.direct&type=tcp&allowInsecure=1# TR-TCP-TLS  IR-185.113.9.81:443  PING-223.26-MS
+trojan://cacbaba-caba-cbaa-bcda-cacbabcbcaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bacacab-caba-caab-acdb-bbcaacbbcaca@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  10:35
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-196.96-MS
+trojan://caacbab-baac-abac-abcd-bccacbaabbca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://bcacbaa-caab-bcaa-dcab-ccabbcbacaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  SAT-04-SHAHRIVAR-1402  06:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-228.05-MS
+trojan://cbcbaaa-abca-abac-dcab-bccaccbbaaab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://aabccab-abca-cbaa-dabc-ccbcbacbaaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  10:29
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-209.10-MS
+trojan://bacbcaa-bcaa-abca-dcab-bbabcaccbaca@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://babacac-aacb-bcaa-dcba-bbcaaccabacb@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  THU-09-SHAHRIVAR-1402  14:36
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-169.37-MS
+trojan://bcacbaa-acab-baac-cabd-abccccbbaaba@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://cbabaac-acba-caab-cbda-bccbbccaaaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  14:31
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-198.56-MS
+trojan://bacbcaa-caab-abca-cadb-accbccbaabab@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://baccaba-aabc-acab-cdba-cbccabbacaba@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-07-SHAHRIVAR-1402  09:38
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-228.95-MS
+trojan://cbaacab-caab-cbaa-dbac-bbaaaabcccbc@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
+trojan://babacac-bcaa-abca-bcad-ccbabacbcaab@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  MON-06-SHAHRIVAR-1402  15:34
+trojan://2vWwWzDyjT@194.33.127.180:18981?security=tls&sni=s1.adsmahsa.xyz&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1# TR-TCP-TLS  IR-194.33.127.180:18981  PING-229.48-MS
+trojan://bcabcaa-abac-acba-acbd-ccbcaaaacbbb@127.0.0.1:8080?security=tls&type=tcp# SOROUSH-MIRZAEI  FLLW-CNTCT-SYDSRSMRZ
