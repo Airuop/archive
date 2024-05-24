@@ -1,0 +1,496 @@
+vless://82d62728-dc1e-4f00-85d2-2db88cba187d@2.189.89.177:47527?security=none&type=tcp&host=iranserver.com&path=%2F&headerType=http# VL-TCP-NONE  IR-2.189.89.177:47527
+vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.110.9:443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-2.189.110.9:443
+vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.111.71:443?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-2.189.111.71:443  PING-237.99-MS
+vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@2.189.130.119:10082?security=none&type=ws&path=%2F# VL-WS-NONE  IR-2.189.130.119:10082  PING-224.05-MS
+vless://ff857f21-6fdf-4044-b192-96c3b02d3773@2.189.130.119:36148?security=none&type=ws&path=%2F# VL-WS-NONE  IR-2.189.130.119:36148  PING-180.51-MS
+vless://e8658eb1-42ab-434f-f9fb-24270842452f@2.189.130.122:49596?security=none&type=ws&path=%2F# VL-WS-NONE  IR-2.189.130.122:49596  PING-184.67-MS
+vless://403df1a2-66fc-4230-8ea9-bacb6abacc85@2.189.130.123:27830?security=none&type=ws&path=%2F# VL-WS-NONE  IR-2.189.130.123:27830
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.243.216:3001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-2.189.243.216:3001  PING-169.83-MS
+vless://95c9575c-24e8-4091-9eac-83d8e2fc46c1@2.189.243.216:4001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-2.189.243.216:4001  PING-166.95-MS
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.255.205:2001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-2.189.255.205:2001  PING-175.00-MS
+vless://712bdf01-b8e6-42f5-87ef-89042772fe60@5.34.195.170:52328?security=none&type=grpc# VL-GRPC-NONE  IR-5.34.195.170:52328
+vless://fb32de6e-c03b-47eb-96b8-bc048e145c75@5.57.33.37:54677?security=none&type=tcp&host=Speedtest.net&headerType=http# VL-TCP-NONE  IR-5.57.33.37:54677
+vless://fb32de6e-c03b-47eb-96b8-bc048e145c75@5.57.38.236:54677?security=none&type=tcp&host=Speedtest.net&headerType=http# VL-TCP-NONE  IR-5.57.38.236:54677
+vless://45e96756-c697-4ffb-b1ca-69f202cbc9f2@5.63.23.138:27489?security=none&sni=none&type=tcp&host=fast.com&path=/&headerType=http# VL-TCP-NONE  IR-5.63.23.138:27489  PING-255.47-MS
+vless://9621c7a9-40b3-482a-9a27-fafa58e6c6a0@5.63.23.210:48710?security=none&type=tcp&host=radiojavanhd.com&path=/&headerType=http# VL-TCP-NONE  IR-5.63.23.210:48710
+vless://45e96756-c697-4ffb-b1ca-69f202cbc9f2@5.63.23.233:27489?security=none&sni=none&type=tcp&host=fast.com&path=/&headerType=http# VL-TCP-NONE  IR-5.63.23.233:27489
+vless://45e96756-c697-4ffb-b1ca-69f202cbc9f2@5.63.23.234:27489?security=none&sni=none&type=tcp&host=fast.com&path=/&headerType=http# VL-TCP-NONE  IR-5.63.23.234:27489
+vless://973a18b0-b754-4662-a8bd-aca765234846@5.145.113.61:2040?security=none&type=tcp# VL-TCP-NONE  IR-5.145.113.61:2040
+vless://6d09ad52-d2f2-47c1-9d4c-17098229c0b6@5.145.115.126:80?security=none&type=ws&path=%2F%40custom_config# VL-WS-NONE  IR-5.145.115.126:80  PING-164.36-MS
+vless://6d09ad52-d2f2-47c1-9d4c-17098229c0b6@5.145.115.206:80?security=none&type=ws&path=%2F%40custom_config# VL-WS-NONE  IR-5.145.115.206:80  PING-240.02-MS
+vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?security=none&type=ws&host=ariogames.ir&path=%2Fdash# VL-WS-NONE  IR-5.145.115.206:2086
+vless://1f4223a6-8bdd-4c3c-a644-ca6f5e613f7b@5.145.119.29:2086?security=none&type=ws&host=mygiftfnc.electeronictamirkaran2024.net&path=%2Fapi# VL-WS-NONE  IR-5.145.119.29:2086  PING-000.00-MS
+vless://db7cd0fc-628c-42a8-b496-91821a5dfb3d@5.145.119.30:80?security=none&type=ws&path=/# VL-WS-NONE  IR-5.145.119.30:80  PING-163.42-MS
+vless://1f4223a6-8bdd-4c3c-a644-ca6f5e613f7b@5.145.119.30:2086?security=none&type=ws&host=mygiftfnc.electeronictamirkaran2024.net&path=%2Fapi# VL-WS-NONE  IR-5.145.119.30:2086  PING-173.47-MS
+vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?security=none&type=ws&host=www.iriknet.ir&path=/OceanNetworks# VL-WS-NONE  IR-5.145.119.39:2086
+vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.119.42:2086?security=none&type=ws&host=mahdi-prog.ir&path=%2Fdash# VL-WS-NONE  IR-5.145.119.42:2086  PING-157.70-MS
+vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&type=ws&host=mail.mahan-prog.ir&path=%2Fmahdiiprog# VL-WS-NONE  IR-5.145.119.42:8880  PING-157.73-MS
+vless://10b91a46-b14a-4366-b905-7991ed906789@5.145.119.58:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-5.145.119.58:8080
+vless://10b91a46-b14a-4366-b905-7991ed906789@5.145.119.59:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-5.145.119.59:8080
+vless://10b91a46-b14a-4366-b905-7991ed906789@5.145.119.68:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-5.145.119.68:8080
+vless://10b91a46-b14a-4366-b905-7991ed906789@5.145.119.69:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-5.145.119.69:8080
+vless://c3a2241f-4708-48f3-bedb-43f760747fc0@5.160.20.148:2053?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-5.160.20.148:2053  PING-000.00-MS
+vless://948c8418-391b-48f9-8015-47d17c6184b6@5.160.87.244:23563?security=none&type=tcp# VL-TCP-NONE  IR-5.160.87.244:23563  PING-264.80-MS
+vless://8f76b202-6d14-4bfd-958a-03eab2c7c2f7@5.160.219.218:24059?security=none&type=tcp# VL-TCP-NONE  IR-5.160.219.218:24059  PING-225.44-MS
+vless://c0518ec9-e0cb-43f5-890f-b2e503e9777a@5.160.219.218:34014?security=none&type=tcp# VL-TCP-NONE  IR-5.160.219.218:34014  PING-185.23-MS
+vless://be8bfd32-26d8-41ac-b6c4-369edd2e1bbf@5.160.219.218:44969?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-5.160.219.218:44969  PING-184.97-MS
+vless://97ca606f-b573-4fb0-9905-c7c9b2428c54@5.160.219.218:45364?security=none&type=tcp# VL-TCP-NONE  IR-5.160.219.218:45364  PING-180.01-MS
+vless://d824a373-f132-42af-9a2d-f73d13848d95@5.160.219.219:5633?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-5.160.219.219:5633  PING-231.69-MS
+vless://6f070a47-6281-423a-a62b-04137c7f7b12@5.202.74.9:8443?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-5.202.74.9:8443  PING-200.99-MS
+vless://bf2d4460-49d7-4107-a472-e91037fa9c7a@5.202.74.58:11268?security=none&type=tcp# VL-TCP-NONE  IR-5.202.74.58:11268  PING-203.15-MS
+vless://fa50aa0e-42b1-420e-a75a-733022b21cfb@5.202.74.78:33048?security=none&type=ws&path=%2F# VL-WS-NONE  IR-5.202.74.78:33048
+vless://728c0d02-d566-4179-b80f-dbd19b8292f8@5.202.75.207:34007?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-5.202.75.207:34007  PING-262.73-MS
+vless://e6b1b5e0-c586-4ced-a9c0-ec43cfd99adc@31.7.70.89:8477?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-31.7.70.89:8477  PING-210.55-MS
+vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@31.7.70.89:8478?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-31.7.70.89:8478  PING-167.36-MS
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@31.7.70.89:37753?security=none&sni=tun3.rizaylink.ir&type=tcp&host=www.sayad.top&path=/&headerType=http# VL-TCP-NONE  IR-31.7.70.89:37753  PING-179.93-MS
+vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.227:197?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-31.7.78.227:197  PING-266.24-MS
+vless://2dd09a30-ff5a-4b4a-8058-82216951671c@31.7.78.228:197?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-31.7.78.228:197  PING-345.58-MS
+vless://d3b9b8d0-47c4-46cc-af65-49f858c74488@31.7.78.228:19196?security=none&type=tcp&host=speedtest.net&path=/&headerType=http# VL-TCP-NONE  IR-31.7.78.228:19196  PING-346.36-MS
+vless://6b1d5ec7-71ed-4523-98b7-4562972937e3@31.14.122.73:18312?security=none&type=tcp&host=Zula.ir&headerType=http# VL-TCP-NONE  IR-31.14.122.73:18312  PING-161.28-MS
+vless://3e315375-292d-49c5-aac6-e4dc5cc7e0c3@31.47.42.34:28806?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http# VL-TCP-NONE  IR-31.47.42.34:28806  PING-210.44-MS
+vless://0b74c04a-2e3e-4359-bcd0-bb0ff02152a6@31.47.42.90:10647?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-31.47.42.90:10647  PING-351.81-MS
+vless://d463b239-4d22-426a-bb4b-030099923fc9@31.47.42.112:45662?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http# VL-TCP-NONE  IR-31.47.42.112:45662  PING-304.48-MS
+vless://df9f38a2-6d22-4e2f-85a9-c0aaf700dd5f@31.47.42.112:48146?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-31.47.42.112:48146
+vless://47272f26-d814-4a9c-973f-658a1c12712b@31.47.42.199:59709?security=none&type=tcp&host=fast.com&path=%2F&headerType=http# VL-TCP-NONE  IR-31.47.42.199:59709  PING-208.57-MS
+vless://6a921582-2391-4231-9bf6-d310577886f6@31.47.42.206:43338?security=none&type=tcp&host=Zola.com&headerType=http# VL-TCP-NONE  IR-31.47.42.206:43338
+vless://588715d0-4bfd-4da2-bc4a-57c035dd9c57@31.47.42.206:50960?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-31.47.42.206:50960  PING-157.24-MS
+vless://8701f977-ad11-45fc-9f76-208d86780a29@31.47.45.135:58160?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-31.47.45.135:58160  PING-385.39-MS
+vless://5ff336d5-9bea-41e9-a863-76722984da87@31.216.62.133:8080?security=tls&sni=rxopu1289.q.rxteam.ir&type=tcp&allowInsecure=1# VL-TCP-TLS  IR-31.216.62.133:8080
+vless://662ad6b6-b1df-4376-98bb-679aeb645352@31.216.62.133:57081?security=tls&sni=rxopu1289.q.rxteam.ir&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1# VL-TCP-TLS  IR-31.216.62.133:57081  PING-162.54-MS
+vless://7316e781-965d-4906-8719-d63a204d043e@37.32.5.171:1060?security=none&type=tcp&host=leader.ir&headerType=http# VL-TCP-NONE  IR-37.32.5.171:1060
+vless://67a22d1b-6c6c-4654-edb9-aacb36dc9b62@37.130.205.132:8888?security=none&type=grpc&serviceName=%40uciranir%40uciranir%40uciranir# VL-GRPC-NONE  IR-37.130.205.132:8888  PING-217.43-MS
+vless://2be59a14-da6b-4078-b80e-fae95f1a44b6@37.130.207.211:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/# VL-WS-TLS  IR-37.130.207.211:2087
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@37.152.176.31:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.176.31:8080
+vless://dd694993-8697-4923-8206-52640e474432@37.152.177.137:2086?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.177.137:2086
+vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@37.152.177.203:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.177.203:8080
+vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@37.152.178.255:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.178.255:8080
+vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@37.152.180.136:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.180.136:8080
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@37.152.182.97:8080?security=none&type=ws&path=%2F# VL-WS-NONE  IR-37.152.182.97:8080
+vless://6e662b78-dcba-4fc8-a77f-b246b70bddf2@37.152.183.121:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-37.152.183.121:8080
+vless://a0ca5df5-20c5-4c28-def8-11ee2f728585@37.152.183.250:443?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-37.152.183.250:443  PING-164.52-MS
+vless://c0b6d423-db2a-4065-8572-1b4c2eb4f6fd@45.82.137.145:443?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-45.82.137.145:443
+vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@45.140.31.8:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-45.140.31.8:8443  PING-177.75-MS
+vless://e53b1131-d033-4c8d-bb32-ce47b720827c@45.140.31.105:48480?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-45.140.31.105:48480
+vless://7468c53f-8161-44ba-99f3-e7ad464eaa0c@45.140.31.105:56371?security=none&type=ws&path=%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F# VL-WS-NONE  IR-45.140.31.105:56371  PING-187.65-MS
+vless://04dccf3e-7911-4fc8-beb1-f9ecbf22ab97@45.140.31.134:8080?security=none&type=tcp# VL-TCP-NONE  IR-45.140.31.134:8080  PING-190.23-MS
+vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@45.140.31.162:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-45.140.31.162:8443  PING-166.93-MS
+vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-45.140.31.171:46769  PING-168.98-MS
+vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@45.140.31.212:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-45.140.31.212:8443  PING-173.37-MS
+vless://ebf17637-f974-4141-81ee-e56e24dbff1a@45.147.76.117:2607?security=none&type=tcp# VL-TCP-NONE  IR-45.147.76.117:2607
+vless://439bf74f-9019-40e3-83ac-3b93c5b670a4@45.159.149.168:34004?security=none&type=tcp# VL-TCP-NONE  IR-45.159.149.168:34004  PING-231.28-MS
+vless://467d98bb-0adb-4be3-9e27-c254b7cdb41b@46.36.100.10:15520?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-46.36.100.10:15520  PING-159.91-MS
+vless://02973da6-8763-4292-9d28-87d0e6d41c70@46.36.100.188:21605?security=none&type=tcp&host=telewebion.com&path=/&headerType=http# VL-TCP-NONE  IR-46.36.100.188:21605
+vless://045fb733-830f-4d3e-81e4-bd494405dd5d@46.36.102.225:2099?security=none&sni=/start&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-46.36.102.225:2099  PING-171.76-MS
+vless://82d62728-dc1e-4f00-85d2-2db88cba187d@46.102.136.33:47527?security=none&type=tcp&host=iranserver.com&headerType=http# VL-TCP-NONE  IR-46.102.136.33:47527  PING-167.72-MS
+vless://d39ab667-829c-4db5-95d8-d8232dfb0b1b@46.102.137.45:4440?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-46.102.137.45:4440  PING-167.33-MS
+vless://2dd09a30-ff5a-4b4a-8058-82216951671c@46.245.65.28:197?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-46.245.65.28:197  PING-290.32-MS
+vless://e8c93760-b133-4fa6-a297-4bb67841e15d@46.245.65.28:19196?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-46.245.65.28:19196
+vless://42164a1f-6190-4840-b58e-5241121abde5@46.245.65.28:21308?security=none&type=tcp&host=zula.ir&path=/&headerType=http# VL-TCP-NONE  IR-46.245.65.28:21308  PING-325.69-MS
+vless://7b3db952-2430-497d-886b-77aefa741c51@46.245.66.141:222?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-46.245.66.141:222  PING-236.32-MS
+vless://fdd12957-c23a-48a1-ad74-7eadb70acb1f@46.245.87.169:8080?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-46.245.87.169:8080  PING-157.67-MS
+vless://abe56878-cdb9-4402-b109-afebaec2fd58@46.245.87.187:48037?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-46.245.87.187:48037
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.130.11:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.130.11:8919
+vless://d5e32acd-1df8-4a44-8e66-1b49b53afa45@62.60.130.55:2095?security=none&type=tcp&host=fararu.com&headerType=http# VL-TCP-NONE  IR-62.60.130.55:2095
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.130.55:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.130.55:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.130.74:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.130.74:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.130.84:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.130.84:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.131.48:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.131.48:8919
+vless://49333214-50c6-456a-9d3c-47261b982e16@62.60.131.216:2095?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.131.216:2095
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.131.216:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.131.216:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.132.57:8919?security=none&sni=vip-01.f-sub.com&type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.132.57:8919  PING-167.77-MS
+vless://c2008856-891c-42f6-8c4c-8508d786424d@62.60.132.59:1906?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-62.60.132.59:1906
+vless://3cd04cab-0b93-419c-99ff-2392da2b81b1@62.60.132.159:8073?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-62.60.132.159:8073  PING-206.08-MS
+vless://5ea5df5d-7712-4e24-9b64-bcacfb4e32a8@62.60.132.180:32876?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-62.60.132.180:32876
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.16:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.134.16:8919  PING-185.25-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.25:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.134.25:8919  PING-175.44-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.27:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.134.27:8919
+vless://c2008856-891c-42f6-8c4c-8508d786424d@62.60.134.167:1906?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-62.60.134.167:1906  PING-178.95-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.209:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.134.209:8919  PING-245.42-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.215:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.134.215:8919  PING-245.83-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.225:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.134.225:8919  PING-175.86-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.134.243:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.134.243:8919  PING-180.71-MS
+vless://6ac5e4dd-f23d-4791-8bd7-dc48777e96be@62.60.135.43:80?security=none&type=ws&host=sv1.matmonamii.site&path=%2F# VL-WS-NONE  IR-62.60.135.43:80  PING-178.10-MS
+vless://768711df-7fbf-473b-9c11-562e99378b2f@62.60.135.56:4001?type=tcp&host=upload.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.135.56:4001
+vless://ccbca80b-e70c-4040-8920-5b8ce76f1b0c@62.60.135.136:8073?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-62.60.135.136:8073  PING-229.68-MS
+vless://116ab091-c710-4016-a496-2f195038ec26@62.60.135.163:1906?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-62.60.135.163:1906  PING-176.40-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.135.193:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.135.193:8919  PING-242.25-MS
+vless://2be59a14-da6b-4078-b80e-fae95f1a44b6@62.60.138.195:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/# VL-WS-TLS  IR-62.60.138.195:2087
+vless://69f963d9-5e39-4366-84c7-ad318ae23c65@62.60.138.205:352?security=none&type=ws&path=%2F# VL-WS-NONE  IR-62.60.138.205:352  PING-263.91-MS
+vless://9ffbbd7d-c985-4ba0-adc7-f5dbf2baa364@62.60.160.52:23441?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp# | VLESS | @kingofilter | IR | 04
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.165.83:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.165.83:8919  PING-238.96-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.165.105:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.165.105:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.165.145:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.165.145:8919  PING-178.86-MS
+vless://c76e05ec-e9b7-a922-cd65-3bcf32c8ba0e@62.60.165.218:8919?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-62.60.165.218:8919  PING-170.76-MS
+vless://c76e05ec-e9b7-a922-cd65-3bcf32c8ba0e@62.60.165.223:8919?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-62.60.165.223:8919  PING-170.82-MS
+vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@62.60.172.54:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.172.54:443
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.202.192:8919?security=none&sni=vip-01.f-sub.com&type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.202.192:8919  PING-171.87-MS
+vless://49333214-50c6-456a-9d3c-47261b982e16@62.60.202.238:2095?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.202.238:2095
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.202.238:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.202.238:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.202.244:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.202.244:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.35:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.35:8919  PING-186.84-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.71:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.71:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.77:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.77:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.78:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.78:8919  PING-164.13-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.88:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.88:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.90:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.90:8919  PING-163.97-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.95:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.95:8919  PING-165.24-MS
+vless://0f786905-42cd-4469-8146-46d7b8b13993@62.60.210.96:57592?security=none&type=tcp&host=bitcoin.org&headerType=http# VL-TCP-NONE  IR-62.60.210.96:57592  PING-158.37-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.107:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.107:8919  PING-186.36-MS
+vless://52a4f8f9-4a6c-4712-abf4-512d5facce73@62.60.210.116:26200?security=none&type=tcp# VL-TCP-NONE  IR-62.60.210.116:26200  PING-183.69-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.121:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.121:8919  PING-169.28-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.123:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.123:8919  PING-232.71-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.128:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.128:8919  PING-240.38-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.131:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.131:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.137:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.137:8919  PING-229.90-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.151:8919?security=none&sni=vip-01.f-sub.com&type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NONE  IR-62.60.210.151:8919  PING-160.92-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.152:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.152:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.153:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.153:8919  PING-327.68-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.158:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.158:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.168:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.168:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.184:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.184:8919  PING-233.41-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.193:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.193:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.194:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.194:8919  PING-176.04-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.195:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.195:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.199:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.199:8919  PING-222.95-MS
+vless://2bf269da-b447-2960-e152-379596e00fbf@62.60.210.212:8919?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-62.60.210.212:8919  PING-171.27-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.220:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.220:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.223:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.223:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.226:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.226:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.228:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.228:8919
+vless://9b466b19-2283-4d79-ce77-2be0e6149343@62.60.210.231:8919?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-62.60.210.231:8919  PING-187.97-MS
+vless://c76e05ec-e9b7-a922-cd65-3bcf32c8ba0e@62.60.210.235:8919?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-62.60.210.235:8919  PING-218.58-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.239:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.239:8919  PING-235.80-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.243:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.210.243:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.252:8919?type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.252:8919  PING-185.95-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.253:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.210.253:8919  PING-216.70-MS
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.176:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.176:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.184:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.212.184:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.186:8919?type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.186:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.187:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.187:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.192:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.192:8919
+vless://3d47129c-437f-4af8-9bae-3bf140f4fba9@62.60.212.212:2095?type=tcp&host=fararu.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.212:2095
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.212:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.212:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.216:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-62.60.212.216:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.234:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.212.234:8919
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.246:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-62.60.212.246:8919
+vless://b726ecfe-e5c6-4573-aadc-5fcf4f882f4d@77.237.73.54:43271?security=none&type=tcp# VL-TCP-NONE  IR-77.237.73.54:43271
+vless://dee0cbef-9d21-49a4-8b6d-9be6bafdd849@78.39.47.109:10110?security=none&type=ws&path=/# VL-WS-NONE  IR-78.39.47.109:10110
+vless://265a7c62-ca8c-4795-8db7-ed46c1ba4fa7@78.39.56.107:7050?security=none&type=tcp&host=discord.com&headerType=http# VL-TCP-NONE  IR-78.39.56.107:7050
+vless://84628109-b0aa-4fbd-8e9a-ad34de82eff1@78.39.56.138:1412?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-78.39.56.138:1412
+vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-78.39.57.29:8888
+vless://338f8a9d-f655-4148-a35c-cf3b6b27826c@78.109.194.206:18312?security=none&type=tcp&host=Zula.ir&headerType=http# VL-TCP-NONE  IR-78.109.194.206:18312  PING-230.69-MS
+vless://45c5918a-7eba-4e4c-ab80-a5464c2d307b@78.109.198.78:56694?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-78.109.198.78:56694  PING-154.94-MS
+vless://fcbeaf03-4d8c-40c7-9a3e-e9a91b617d43@78.109.200.12:17300?security=none&type=tcp&host=Cloudflare.com&headerType=http# VL-TCP-NONE  IR-78.109.200.12:17300  PING-183.06-MS
+vless://3f2a993b-fcba-43e4-8dbd-f2b4dee4d9cf@78.109.200.182:30955?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-78.109.200.182:30955  PING-156.77-MS
+vless://847f3858-0dcf-4363-b49b-63b5337d75a7@78.110.121.208:80?security=tls&sni=t1.morgoon.com&type=tcp&host=telewebion.com&path=/&headerType=http&fp=chrome&alpn=h2,http/1.1&allowInsecure=1# VL-TCP-TLS  IR-78.110.121.208:80
+vless://281bec33-5cd4-40fe-8bbb-81f9bb8e37b0@78.157.36.139:2096?security=none&type=tcp# VL-TCP-NONE  IR-78.157.36.139:2096  PING-154.78-MS
+vless://7b1d5aef-f606-4d30-8469-7ed6ea0b03de@78.157.36.139:8443?security=none&type=tcp# VL-TCP-NONE  IR-78.157.36.139:8443  PING-173.06-MS
+vless://7ac736b4-1773-46d8-a12f-6993d6e0158c@78.157.36.154:43257?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-78.157.36.154:43257
+vless://ad5a83e0-98c1-4c23-b8a9-eabc68c4b03a@78.157.39.212:8443?security=none&type=tcp# VL-TCP-NONE  IR-78.157.39.212:8443
+vless://85283cde-5710-446e-f9b9-58d0ae53c5f1@79.127.54.23:8081?security=none&type=tcp# VL-TCP-NONE  IR-79.127.54.23:8081
+vless://243bd7f0-9d5f-4cb0-f6bb-73a6d6ad0954@79.132.192.73:29945?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-79.132.192.73:29945
+vless://9e30cca7-8a98-484c-bb8a-7c5cb705f678@79.175.133.83:14228?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-79.175.133.83:14228
+vless://8aacaf3f-caf0-4fab-8b0c-dd0391dcaeaa@79.175.157.25:59491?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-79.175.157.25:59491  PING-177.07-MS
+vless://2105b603-37d3-4fd6-9656-ea47a1ed941f@79.175.162.151:28017?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-79.175.162.151:28017  PING-160.63-MS
+vless://957e3de7-7f01-49b9-afcc-949930381128@79.175.162.194:2061?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-79.175.162.194:2061  PING-158.83-MS
+vless://fa8ea62d-9a41-4505-a3a6-21574673bc84@79.175.167.40:28286?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-79.175.167.40:28286  PING-000.00-MS
+vless://44d61e8b-9085-4e72-ab8f-57945f7e87d7@79.175.167.40:55375?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-79.175.167.40:55375
+vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-79.175.177.127:443
+vless://f25e8736-cfac-493e-a204-e19bf1efd036@80.71.149.223:8000?security=none&type=tcp# VL-TCP-NONE  IR-80.71.149.223:8000  PING-165.41-MS
+vless://95d80706-6c96-4fbb-a533-02de461d51aa@80.71.149.223:8001?security=none&type=tcp# VL-TCP-NONE  IR-80.71.149.223:8001  PING-153.64-MS
+vless://e6509b91-e7b0-46f5-aa2a-7a6c940da78d@80.75.213.70:17043?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-80.75.213.70:17043  PING-221.61-MS
+vless://526272f9-047d-44dc-8e62-afa29d84bcb8@81.12.93.83:443?security=tls&sni=sha1.noobdog.shop&type=tcp&headerType=http&alpn=h2,http/1.1&allowInsecure=1# VL-TCP-TLS  IR-81.12.93.83:443
+vless://a32111d2-1801-448a-a7c3-25edc0281562@81.12.96.179:37016?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-81.12.96.179:37016  PING-180.35-MS
+vless://4c52ef18-088c-463c-802a-4424da35e5e4@81.12.96.212:14016?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-81.12.96.212:14016  PING-217.33-MS
+vless://750d1331-b6c9-4012-a13f-c3ae21f13681@81.12.96.245:11059?security=none&type=tcp&host=subscene.com&headerType=http# VL-TCP-NONE  IR-81.12.96.245:11059
+vless://ee29ad84-1770-418b-e94c-1050337781df@84.47.234.106:13446?security=none&type=tcp&host=divarcdn.com&headerType=http# VL-TCP-NONE  IR-84.47.234.106:13446  PING-178.37-MS
+vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-84.47.235.69:46057  PING-166.73-MS
+vless://e7cc88ba-b1e5-44fc-91f4-bbf3829f5ce2@84.47.235.69:51392?security=none&type=tcp# VL-TCP-NONE  IR-84.47.235.69:51392
+vless://9509ac33-1559-4565-9522-0e81138bc461@84.47.235.152:2095?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http# VL-TCP-NONE  IR-84.47.235.152:2095  PING-168.74-MS
+vless://2d528d47-eebe-4a83-a746-cb26cb791308@85.9.97.74:443?security=tls&sni=vip.hugsy6748165.click&type=tcp&alpn=h2%2Chttp%2F1.1# VL-TCP-TLS  IR-85.9.97.74:443  PING-235.31-MS
+vless://6abb2c71-c761-4045-800e-c2d5b8b48e5b@85.9.98.60:7001?security=tls&sni=te2.v2masters.ru&type=ws&host=te2.v2masters.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=firefox&alpn=h3%2Ch2# VL-WS-TLS  IR-85.9.98.60:7001  PING-176.15-MS
+vless://d5268a1a-f481-4438-9f51-122543f0545a@85.9.98.252:45694?security=none&type=tcp&host=idem.ir&path=/&headerType=http# VL-TCP-NONE  IR-85.9.98.252:45694  PING-180.05-MS
+vless://e4d6a18c-ba38-4d52-9a3e-2a68930c268c@85.9.99.224:3260?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-85.9.99.224:3260
+vless://e8616495-c1d4-4ab1-857d-6edeba99a531@85.9.99.224:4248?security=none&type=tcp&path=%2F&headerType=http# VL-TCP-NONE  IR-85.9.99.224:4248  PING-190.26-MS
+vless://c5b07945-f62e-4c86-a80f-8841698f5946@85.9.100.42:26225?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-85.9.100.42:26225  PING-259.37-MS
+vless://e1d49eeb-9e5b-4d45-bfee-dfd228e3589f@85.9.100.111:24322?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-85.9.100.111:24322  PING-281.98-MS
+vless://862c9290-81ff-4a5a-a825-89501ce77c77@85.9.100.182:56924?security=none&type=tcp&host=bwm.com&headerType=http# VL-TCP-NONE  IR-85.9.100.182:56924
+vless://5ba34c00-22be-4362-844c-389d608c2fc8@85.9.100.188:33375?security=none&type=tcp&host=telewebion.com&path=/&headerType=http# VL-TCP-NONE  IR-85.9.100.188:33375
+vless://268780bd-fe2c-4a19-a1ad-a16fbabadab2@85.9.103.28:17841?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-85.9.103.28:17841
+vless://e4d6a18c-ba38-4d52-9a3e-2a68930c268c@85.9.103.78:3260?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-85.9.103.78:3260
+vless://94e6c03d-a89f-40cc-8174-732c491a9665@85.9.105.140:36589?security=tls&sni=ah5.radmehrmax.ir&type=tcp&alpn=h2,http/1.1# VL-TCP-TLS  IR-85.9.105.140:36589  PING-000.00-MS
+vless://a026abc3-3376-4cec-bd20-e3a24dfe2850@85.9.110.165:52926?security=none&type=tcp&host=fast.com&path=%2F&headerType=http# VL-TCP-NONE  IR-85.9.110.165:52926  PING-172.30-MS
+vless://147afa2d-536e-4825-9311-e301e46934ec@85.9.110.178:44966?security=none&type=ws&path=%2F# VL-WS-NONE  IR-85.9.110.178:44966  PING-226.27-MS
+vless://53918f6b-ddc6-4644-c5c8-dc6a2fe2cd1c@85.9.110.185:30708?security=none&type=ws&path=%2F# VL-WS-NONE  IR-85.9.110.185:30708
+vless://87b6fd64-2066-4c4b-bbcc-3230c7ef48f1@85.9.110.185:51001?security=none&type=ws&path=/# VL-WS-NONE  IR-85.9.110.185:51001
+vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.111.19:5054?security=none&type=ws&host=s15.leader21.top&path=/http# VL-WS-NONE  IR-85.9.111.19:5054
+vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.113.231:5053?security=none&type=ws&host=s16.leader21.top&path=/http# VL-WS-NONE  IR-85.9.113.231:5053  PING-241.00-MS
+vless://b7b52207-3f71-4f97-87c8-7d18810c6ee0@85.9.113.233:5050?security=none&type=ws&host=s14.leaders711.top&path=/https# VL-WS-NONE  IR-85.9.113.233:5050
+vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.113.238:5054?security=none&type=ws&host=s15.leader21.top&path=/http# VL-WS-NONE  IR-85.9.113.238:5054
+vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.113.241:5053?security=none&type=ws&host=s16.leader21.top&path=/http# VL-WS-NONE  IR-85.9.113.241:5053
+vless://b7b52207-3f71-4f97-87c8-7d18810c6ee0@85.9.113.247:5050?security=none&type=ws&host=s14.leaders711.top&path=/https# VL-WS-NONE  IR-85.9.113.247:5050
+vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.113.250:5053?security=none&type=ws&host=s16.leader21.top&path=/http# VL-WS-NONE  IR-85.9.113.250:5053
+vless://893c2cb2-4a2e-4131-efa2-f587671b4432@85.9.120.31:21635?security=none&type=tcp# VL-TCP-NONE  IR-85.9.120.31:21635  PING-224.20-MS
+vless://98c825b0-9af1-4938-ae2b-d8dae2c801ce@85.9.120.151:2096?security=none&type=grpc# VL-GRPC-NONE  IR-85.9.120.151:2096
+vless://1d8772d2-29a2-4feb-8eca-91a360edd6d1@85.9.121.3:6710?security=none&type=tcp&path=%2F&headerType=http# VL-TCP-NONE  IR-85.9.121.3:6710
+vless://741fbb11-80d9-4684-a2a6-c558ccc4a84c@85.133.137.55:4002?security=none&type=ws&host=85.133.137.55# VL-WS-NONE  IR-85.133.137.55:4002  PING-173.21-MS
+vless://4e3c6a6b-0119-4853-b3e9-088abbe7ac24@85.133.151.131:3031?security=none&type=tcp# VL-TCP-NONE  IR-85.133.151.131:3031  PING-220.88-MS
+vless://d8d8fadb-ed26-4a33-9447-46592861f5db@85.133.151.136:35349?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-85.133.151.136:35349  PING-166.89-MS
+vless://f1a12407-0616-47f1-85c5-c6114472b0b7@85.133.151.197:43257?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-85.133.151.197:43257
+vless://d89ee4ba-7122-4509-b3f3-004b3119e0fa@85.133.151.198:10088?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-85.133.151.198:10088
+vless://cc09e32e-b376-4bc6-ae66-4a4754a1781f@85.133.179.100:443?security=reality&flow=xtls-rprx-vision&sni=www.iranspeed.shop&type=tcp&fp=chrome&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324&allowInsecure=1# VL-TCP-RLT  IR-85.133.179.100:443  PING-173.68-MS
+vless://403491ef-692f-46cf-907e-bfc9522ab8c2@85.133.216.209:32346?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-85.133.216.209:32346  PING-174.04-MS
+vless://4d40a017-9f06-4360-8a12-ce0de16989c9@85.133.237.76:443?security=none&type=grpc# VL-GRPC-NONE  IR-85.133.237.76:443
+vless://f39008fb-8201-4968-acd6-952e81af9c3b@85.133.237.222:2021?security=none&type=tcp&host=exo.ir&headerType=http# VL-TCP-NONE  IR-85.133.237.222:2021
+vless://321b9fdf-cf12-4780-8f4c-4a609def2b65@85.133.241.199:57455?security=none&type=ws&host=cloudflare.com&path=%2F# VL-WS-NONE  IR-85.133.241.199:57455
+vless://aca92caa-549e-4ab9-b527-fe8a20f591eb@85.198.9.11:9103?security=none&type=tcp&host=iranserver.com&headerType=http# VL-TCP-NONE  IR-85.198.9.11:9103
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@85.198.9.24:37753?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-85.198.9.24:37753  PING-224.59-MS
+vless://821ca7c3-f134-40d8-9fd3-11bcf07d1dcc@85.198.11.54:8880?security=none&type=tcp# VL-TCP-NONE  IR-85.198.11.54:8880  PING-253.99-MS
+vless://1922aade-acd0-40d5-a06c-02e5d2b3e718@85.198.13.80:11025?security=none&type=tcp# VL-TCP-NONE  IR-85.198.13.80:11025  PING-000.00-MS
+vless://0186e759-031e-4588-8126-69c08285bd8c@85.198.13.192:35350?security=none&type=tcp&host=subscene.com&headerType=http# VL-TCP-NONE  IR-85.198.13.192:35350  PING-000.00-MS
+vless://e8335ff3-7555-4b5b-be6f-e755d37768c0@85.198.13.205:443?security=none&type=tcp&host=BaRdIaHaGh.Ir.&path=/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/,/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/ViraPN/&headerType=http# VL-TCP-NONE  IR-85.198.13.205:443
+vless://ed75d111-f2d0-46c6-bb1d-b66ca0bdf497@85.198.13.234:44079?security=none&type=ws&path=%2F# VL-WS-NONE  IR-85.198.13.234:44079
+vless://49631342-2d0d-4ceb-a444-fe561d1ba93d@85.198.14.125:22862?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NONE  IR-85.198.14.125:22862  PING-181.47-MS
+vless://9d69192f-e358-4419-be45-97e8cbbc9ab0@85.198.14.125:23760?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-85.198.14.125:23760
+vless://97a68381-bf0b-4d47-9332-6a9bb34e0788@85.198.15.113:2001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-85.198.15.113:2001
+vless://c83615a2-85b3-4540-a75f-1b0cd4b2ab3a@85.198.17.245:24248?security=none&type=tcp&host=o5xwqr1m.ahvaz1.irancell.ir%2C+o5xwqr1m.intraspeedtest2.mobinnet.ir%2C+o5xwqr1m.speedtest1.shatel.ir%2C+o5xwqr1m.AHESPD2.mci.ir%2C+o5xwqr1m.mashhad1.irancell.ir%2C+o5xwqr1m.sp1.bcn.ir%2C+o5xwqr1m.speedtest.roshangaran.net%2C+o5xwqr1m.intraspeedtest2.mobinnet.ir&headerType=http# VL-TCP-NONE  IR-85.198.17.245:24248  PING-152.13-MS
+vless://1b042354-cf57-4f63-8878-695c10f47196@87.107.155.23:2096?security=none&type=grpc# VL-GRPC-NONE  IR-87.107.155.23:2096  PING-306.99-MS
+vless://a1d25d5f-4efc-41f9-b1d0-a50ba3536986@87.107.164.198:55473?security=none&type=tcp# VL-TCP-NONE  IR-87.107.164.198:55473  PING-175.51-MS
+vless://24ccf1dc-d6b2-4d88-9ad1-28ff8d1860f3@87.107.164.248:2024?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http# VL-TCP-NONE  IR-87.107.164.248:2024
+vless://07ffa30b-2366-4621-8c3a-aa7daeb70731@87.236.208.30:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-87.236.208.30:8080
+vless://e3823e7d-589f-4e17-8cd3-a13a18f0d623@87.236.208.50:2095?security=tls&sni=mtn.bazarnevesht.ir&type=tcp&fp=random&alpn=h2# VL-TCP-TLS  IR-87.236.208.50:2095
+vless://34be614d-7011-4bbd-b866-4f4220f0f7be@87.248.150.173:2052?security=none&type=grpc&serviceName=vippro.ghodratebartar.ir# VL-GRPC-NONE  IR-87.248.150.173:2052
+vless://559c793b-5366-4f9c-a56e-2d6022f58805@87.248.152.68:443?security=none&type=ws&host=Google.com&path=%2F# VL-WS-NONE  IR-87.248.152.68:443  PING-170.23-MS
+vless://6604783b-d372-4868-aac5-1c5b3089c276@87.248.152.68:4211?security=none&type=ws&host=Google.com&path=%2F# VL-WS-NONE  IR-87.248.152.68:4211  PING-229.41-MS
+vless://e9068592-2283-4346-b4d0-f65c5e53dfd6@87.248.155.7:2438?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-87.248.155.7:2438  PING-217.79-MS
+vless://086d42a3-cd53-4fb8-8be3-c3fd3ae3b837@87.248.155.207:35296?security=none&type=tcp&host=varzesh3.ir&headerType=http# VL-TCP-NONE  IR-87.248.155.207:35296  PING-207.71-MS
+vless://d4c6f958-90c1-4c4a-8557-a063bc85d8fb@87.248.155.207:52065?security=none&type=ws&path=%2F# VL-WS-NONE  IR-87.248.155.207:52065  PING-169.31-MS
+vless://298bec4b-c106-427d-cdf0-96b9226366cd@88.135.46.98:2053?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-88.135.46.98:2053
+vless://0ec8ac5c-3aee-465b-b9a6-c8a68ad92b46@89.44.112.62:2053?security=tls&sni=alman.haamid.top&type=tcp&host=fast.com&headerType=http&alpn=h2,http/1.1# VL-TCP-TLS  IR-89.44.112.62:2053  PING-247.78-MS
+vless://6acf4b15-af12-41fe-8df4-524822d5aeb5@89.44.112.212:31370?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-89.44.112.212:31370
+vless://bce1d127-58f0-4436-bc55-e111b219811d@89.44.113.205:443?security=tls&sni=look.ncdh.ir&type=ws&host=look.ncdh.ir&path=%2F8GT8XIrFyqcJGNNfRfi8w2bh&fp=chrome&alpn=h2# VL-WS-TLS  IR-89.44.113.205:443
+vless://cfa1c316-6f1a-42c1-bf3c-ca1f4cf71afc@89.235.78.15:4443?security=tls&sni=land1002.avaland.cloud&type=ws&path=%2F# VL-WS-TLS  IR-89.235.78.15:4443  PING-230.05-MS
+vless://14ccb3fa-49e2-4753-8de3-987d5212d825@89.235.78.42:7698?security=none&type=tcp&host=uptvs.com&headerType=http# VL-TCP-NONE  IR-89.235.78.42:7698  PING-266.45-MS
+vless://e235a709-75fb-4ecc-a4b6-1e81765dff60@89.235.116.44:443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-89.235.116.44:443
+vless://dee8dfba-7c3c-4f6c-a137-85dc8e928c26@89.235.116.44:2087?security=none&type=ws&host=telewebion.com&path=%2Fgrizzlyvpn# VL-WS-NONE  IR-89.235.116.44:2087  PING-170.96-MS
+vless://d6017076-83eb-4f64-bdbf-3a14086c0b81@89.235.117.209:8088?security=none&type=tcp&host=alibaba.ir&headerType=http# VL-TCP-NONE  IR-89.235.117.209:8088
+vless://32bda1dc-e403-40d0-a602-4b6ca04e5a09@89.235.119.30:10464?security=none&type=tcp# VL-TCP-NONE  IR-89.235.119.30:10464
+vless://7cf88c9d-ac28-4e6a-b7d5-049b48d3c98b@89.235.119.30:36825?security=none&type=tcp# VL-TCP-NONE  IR-89.235.119.30:36825
+vless://e25a78ae-b8d3-49d6-8749-e01a4c9b388d@89.235.119.30:39210?security=none&type=tcp# VL-TCP-NONE  IR-89.235.119.30:39210
+vless://db0da85e-5f0c-4f0a-baf0-23148f479430@89.235.119.30:44783?security=none&type=tcp# VL-TCP-NONE  IR-89.235.119.30:44783
+vless://7f63f78b-0a7d-42c9-970c-87c80f2a47f1@91.220.113.178:42922?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-91.220.113.178:42922  PING-000.00-MS
+vless://fb32de6e-c03b-47eb-96b8-bc048e145c75@91.247.171.247:54677?security=none&type=tcp&host=Speedtest.net&headerType=http# VL-TCP-NONE  IR-91.247.171.247:54677
+vless://19175d93-778c-4aab-ac5f-a9225b0cc09b@92.114.17.23:32942?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-92.114.17.23:32942  PING-201.88-MS
+vless://6a920528-a3df-4088-8371-3895577852ca@92.114.19.249:80?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-92.114.19.249:80
+vless://ac067498-3864-4863-bef3-e7203b4ec66b@94.101.176.68:443?security=none&type=ws&path=%2Fdr# VL-WS-NONE  IR-94.101.176.68:443
+vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.106:443?security=none&type=ws&path=/dr# VL-WS-NONE  IR-94.101.187.106:443  PING-200.50-MS
+vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.138:443?security=none&type=ws&path=/dr# VL-WS-NONE  IR-94.101.187.138:443
+vless://350b8308-6fdd-4aea-92ce-c64ac36f2a44@94.182.87.170:809?security=none&type=tcp&host=hkupzmw7.divarcdn.com&headerType=http# VL-TCP-NONE  IR-94.182.87.170:809
+vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.129.21:58930?security=none&type=tcp&host=jr1YbGyG.ahvaz1.irancell.ir,+jr1YbGyG.speedtest1.shatel.ir,+jr1YbGyG.AHESPD2.mci.ir,+jr1YbGyG.intraspeedtest2.mobinnet.ir,+jr1YbGyG.st1.aminidc.com,+jr1YbGyG.speedtest.aionet.ir,+jr1YbGyG.esfahan1.irancell.ir,+jr1YbGyG.speedtest.faradez.ir&headerType=http# VL-TCP-NONE  IR-94.182.129.21:58930
+vless://3c7bda64-e8e4-5e5b-d353-a88512f06547@94.182.134.45:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http# VL-TCP-NONE  IR-94.182.134.45:443  PING-167.49-MS
+vless://95773733-4ab2-0185-7006-4adcfd614c2b@94.182.134.48:443?security=none&type=tcp&host=divarcdn.com&headerType=http# VL-TCP-NONE  IR-94.182.134.48:443
+vless://21116a95-eaff-4e2a-baf1-0228ec568b72@94.182.136.46:4041?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-94.182.136.46:4041  PING-171.03-MS
+vless://435b2af1-e725-482f-b95e-ae4786e39a78@94.182.136.69:37016?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-94.182.136.69:37016  PING-194.11-MS
+vless://d4384cd4-6a28-4b0f-8b91-f4a4f0a9fabd@94.182.136.183:8443?security=none&type=tcp# VL-TCP-NONE  IR-94.182.136.183:8443  PING-169.09-MS
+vless://412b8097-9cae-43dc-d48d-1210046d215f@94.182.136.218:8080?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-94.182.136.218:8080
+vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?security=none&type=ws&path=/# VL-WS-NONE  IR-94.182.137.187:80
+vless://934e8a1a-3a81-496e-86cc-bd31b06f03d4@94.182.147.148:80?security=none&type=ws&path=/# VL-WS-NONE  IR-94.182.147.148:80
+vless://a10a6a35-6d64-4d90-babb-37017ce80feb@94.182.149.29:22710?security=none&type=tcp&host=fast.com&path=%2F&headerType=http# VL-TCP-NONE  IR-94.182.149.29:22710  PING-213.62-MS
+vless://0437df09-c23f-4315-a626-4a450707eacd@94.182.222.14:8521?security=none&type=tcp&host=ybsrxjzv.divarcdn.com&headerType=http# VL-TCP-NONE  IR-94.182.222.14:8521
+vless://3acb0449-723e-47cd-b20d-511184201972@94.182.222.30:587?security=none&type=tcp&host=7z90w2qs.cafebazaar.ir%252C%2B7z90w2qs.divarcdn.com&headerType=http# VL-TCP-NONE  IR-94.182.222.30:587
+vless://3998bcf4-bf1b-431f-910e-635b556b9106@94.182.222.57:5641?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.57:5641  PING-210.44-MS
+vless://9d88fc36-0c1c-4694-b040-ac447060679f@94.182.222.58:4008?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.58:4008  PING-215.29-MS
+vless://a69a06bc-1897-4f67-9761-16cfe7119b40@94.182.222.58:4021?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http# VL-TCP-NONE  IR-94.182.222.58:4021  PING-236.07-MS
+vless://0c7e3426-37b2-4dca-9cca-6fad146a3750@94.182.222.59:10009?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.59:10009  PING-211.10-MS
+vless://cfe44e90-3481-4ee5-8e3d-c7cf1345a3c1@94.182.222.59:10071?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.59:10071  PING-186.29-MS
+vless://d8296db4-3ce1-494b-8176-d78bfc00374e@94.182.222.59:10074?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.59:10074  PING-232.70-MS
+vless://85068d3b-a12f-4372-aae0-f28bc4523c7e@94.182.222.59:10214?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=%2F# VL-WS-NONE  IR-94.182.222.59:10214  PING-198.18-MS
+vless://e1d072ff-2034-438b-aa2a-33323f7482a4@94.182.222.59:10279?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.59:10279  PING-190.26-MS
+vless://fc5f7235-bf6d-4f0b-8316-0046c9cc43ac@94.182.222.59:10349?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=%2F# VL-WS-NONE  IR-94.182.222.59:10349  PING-234.55-MS
+vless://337a4ad2-d657-419b-8f6d-835b6e2bbfec@94.182.222.60:9407?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http# VL-TCP-NONE  IR-94.182.222.60:9407  PING-178.65-MS
+vless://fd77574d-5ae9-4248-8849-df5bdfa3288e@94.182.222.60:9482?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.60:9482  PING-191.49-MS
+vless://9f8eaac3-870e-498e-80b2-172b54456ec7@94.182.222.61:5027?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.61:5027
+vless://e8acc78a-1b96-45dc-94c0-0f9ca5f299a6@94.182.222.61:5073?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=%2F# VL-WS-NONE  IR-94.182.222.61:5073  PING-175.72-MS
+vless://f92b41ed-4806-4c69-b1d7-59248b872965@94.182.222.61:5105?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.61:5105  PING-211.89-MS
+vless://1a2a959c-7a1d-4b79-8f10-372af608c80d@94.182.222.61:5155?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.61:5155  PING-264.25-MS
+vless://5b36c8ce-c567-45ec-a728-0575ff6e0d27@94.182.222.61:5167?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.61:5167  PING-171.37-MS
+vless://c9b51457-daaf-4407-8807-e60120f58824@94.182.222.61:5331?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.61:5331  PING-237.71-MS
+vless://1720b239-63a1-4947-bbd0-fcd4f9bd86a9@94.182.222.61:5380?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=%2F# VL-WS-NONE  IR-94.182.222.61:5380  PING-199.64-MS
+vless://3d91bf43-2b91-4844-a9fd-e1f2297199d4@94.182.222.62:1661?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=/# VL-WS-NONE  IR-94.182.222.62:1661
+vless://6ed7d254-786d-4328-8b16-d3d89d988661@94.182.222.62:1817?security=none&type=ws&host=efvu5cgz.speedtest1.shatel.ir&path=%2F# VL-WS-NONE  IR-94.182.222.62:1817  PING-262.62-MS
+vless://ef694832-e267-495b-b310-d36ffed6972e@94.182.222.62:1887?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http# VL-TCP-NONE  IR-94.182.222.62:1887
+vless://7622b464-eb99-4a4f-8dfc-c2257e976390@94.182.223.59:45370?security=tls&sni=ashkimcert.vezze4.sbs&type=tcp&fp=chrome&alpn=h2,http/1.1# VL-TCP-TLS  IR-94.182.223.59:45370
+vless://c5b07945-f62e-4c86-a80f-8841698f5946@94.182.223.242:26225?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-94.182.223.242:26225
+vless://957e3de7-7f01-49b9-afcc-949930381128@95.38.60.248:2061?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-95.38.60.248:2061  PING-186.84-MS
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:1001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-95.38.102.7:1001  PING-179.12-MS
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:4001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-95.38.102.7:4001  PING-173.63-MS
+vless://29fac846-1def-490f-8c3d-b3428f3bff05@95.38.132.54:8880?security=none&type=ws&path=/# VL-WS-NONE  IR-95.38.132.54:8880  PING-000.00-MS
+vless://29fac846-1def-490f-8c3d-b3428f3bff05@95.38.132.232:8880?security=none&type=ws&path=/# VL-WS-NONE  IR-95.38.132.232:8880
+vless://f80ba979-34ef-45c5-8839-b183303b047d@95.38.153.173:2086?security=none&type=ws&host=speedtest.net&path=/# VL-WS-NONE  IR-95.38.153.173:2086
+vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/# VL-WS-NA  IR-95.38.155.212:2096
+vless://4e09f6a9-5c30-4d1a-9532-6310fd6d3a8d@95.38.200.73:8443?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-95.38.200.73:8443
+vless://64a55ede-d6ef-4baa-9ec4-c535cf018036@95.38.202.35:2055?security=none&type=tcp# VL-TCP-NONE  IR-95.38.202.35:2055  PING-163.51-MS
+vless://d126a883-8a6a-4527-9781-d6ac251ff7a8@95.38.202.147:2052?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-95.38.202.147:2052  PING-155.05-MS
+vless://d7e58012-851b-4932-8742-def0c09f0647@95.38.202.147:2096?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-95.38.202.147:2096  PING-191.01-MS
+vless://d9f82c40-96a0-4dc1-b2f4-d2cf0a7a4181@95.38.202.147:2314?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-95.38.202.147:2314  PING-155.12-MS
+vless://a4e9c7ae-228d-473a-9514-e2698862bbb9@95.38.202.229:2083?security=none&type=tcp&host=uptvs.com&path=/&headerType=http# VL-TCP-NONE  IR-95.38.202.229:2083
+vless://83b96695-1749-4c01-8ef4-471999ff9e9f@95.38.202.229:2093?security=none&type=tcp&host=speedtest.com&path=/&headerType=http# VL-TCP-NONE  IR-95.38.202.229:2093
+vless://d446f83e-6c1f-4b47-a279-29d88bfe950a@95.38.242.71:33585?security=none&type=tcp&host=chess.com&headerType=http# VL-TCP-NONE  IR-95.38.242.71:33585
+vless://d446f83e-6c1f-4b47-a279-29d88bfe950a@95.38.242.71:33595?security=none&type=tcp&host=chess.com&headerType=http# VL-TCP-NONE  IR-95.38.242.71:33595
+vless://32f797f8-4209-4e02-8de2-1396868003a4@95.38.242.88:33585?security=none&type=tcp&host=chess.com&headerType=http# VL-TCP-NONE  IR-95.38.242.88:33585
+vless://a5480620-316b-47fc-af57-72ed9c398384@95.38.242.93:2083?security=none&type=tcp&host=ixqkmlbd.dl1.taknet.ir&headerType=http# VL-TCP-NONE  IR-95.38.242.93:2083
+vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?security=none&type=grpc# VL-GRPC-NONE  IR-95.81.89.80:38923
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@95.81.92.144:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NA  IR-95.81.92.144:8919
+vless://d5e32acd-1df8-4a44-8e66-1b49b53afa45@95.215.173.130:2095?security=none&type=tcp&host=fararu.com&headerType=http# VL-TCP-NONE  IR-95.215.173.130:2095
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@95.215.173.130:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http# VL-TCP-NA  IR-95.215.173.130:8919
+vless://dd694993-8697-4923-8206-52640e474432@103.215.223.160:2086?security=none&type=ws&path=%2F# VL-WS-NONE  IR-103.215.223.160:2086  PING-172.47-MS
+vless://fbcab3e1-c999-4d21-9ea6-1d5e6cffee23@130.185.74.84:44778?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-130.185.74.84:44778  PING-179.98-MS
+vless://23bd8f4b-7411-4a25-a5b8-051022ff276c@130.185.74.102:14965?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=xnZDe5WFIDqM1oBWSC12P_l-dXQKx0PvZBhnU9K5I10# VL-TCP-RLT  IR-130.185.74.102:14965  PING-257.22-MS
+vless://fc7d8fed-fd98-4b41-bc0d-de97b4d90fd0@130.185.74.102:18319?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=ZkYHQks4qsIBEoBlWopPWg8TJAMJa-roWJiI_kK_aXo# VL-TCP-RLT  IR-130.185.74.102:18319
+vless://08fe3471-6e81-4af3-819f-9f8e03c81336@151.232.64.8:2004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=SHVNyUSseB1aZcaBOtrb4Tm4o5kDob6DgzRcRgaEpAE&sid=585a3054# VL-TCP-RLT  IR-151.232.64.8:2004
+vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@151.232.67.12:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859# VL-TCP-RLT  IR-151.232.67.12:4004
+vless://ab63e16a-58bf-4948-852a-c2e944b144a1@151.232.68.10:19133?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-151.232.68.10:19133  PING-269.20-MS
+vless://69a67618-2105-4d2c-ba71-c8d2a81ea857@158.58.190.122:7698?security=none&type=tcp&host=iran.ir&headerType=http# VL-TCP-NONE  IR-158.58.190.122:7698  PING-240.76-MS
+vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-158.58.190.122:21344
+vless://4c1e91a2-feb7-4734-b836-b8d68c639cfe@176.65.242.93:1116?security=none&type=grpc&serviceName=Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomoTelegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomoTelegramjoin%3A%40servermomo-# VL-GRPC-NONE  IR-176.65.242.93:1116  PING-165.50-MS
+vless://07aa1cf9-9859-4690-ae4e-1d983fd9ad51@176.65.242.93:1325?security=none&type=grpc&serviceName=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-# VL-GRPC-NONE  IR-176.65.242.93:1325  PING-170.56-MS
+vless://0ff56577-6bc0-40d5-a2ad-51d09f07b5f1@176.97.220.168:15338?security=none&type=ws&path=%2F# VL-WS-NONE  IR-176.97.220.168:15338  PING-265.56-MS
+vless://affd626d-a2ed-4f9e-90bf-98197f15f522@178.239.154.45:22443?security=none&type=ws&host=www.speedtest.net&path=%2F# VL-WS-NONE  IR-178.239.154.45:22443  PING-234.33-MS
+vless://99b78b12-3768-4c95-a461-8fb6130b08e7@178.239.154.95:3366?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-178.239.154.95:3366  PING-184.45-MS
+vless://81020aec-cc9d-412b-967a-c2c2a268d619@185.4.28.114:443?security=tls&sni=in.xphysics.site&type=tcp&fp=chrome&alpn=h2,http/1.1# VL-TCP-TLS  IR-185.4.28.114:443
+vless://5e643328-05a4-4e79-a89c-d98e0929113b@185.18.213.153:22242?security=none&type=ws&path=/# VL-WS-NONE  IR-185.18.213.153:22242
+vless://957e3de7-7f01-49b9-afcc-949930381128@185.26.32.54:2061?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-185.26.32.54:2061  PING-177.28-MS
+vless://69a67618-2105-4d2c-ba71-c8d2a81ea857@185.26.32.140:7698?type=tcp&host=iran.ir&headerType=http# VL-TCP-NA  IR-185.26.32.140:7698  PING-193.81-MS
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@185.26.32.247:37753?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-185.26.32.247:37753
+vless://dfada630-4525-40a6-8036-a6e9511b945e@185.46.0.161:55595?security=none&type=tcp&host=anten.ir&headerType=http# VL-TCP-NONE  IR-185.46.0.161:55595  PING-216.69-MS
+vless://c5ccefec-0ad5-46c7-8a76-46edb4800fe1@185.46.0.192:2083?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-185.46.0.192:2083
+vless://4045e75a-165c-4a3d-b684-a0b521bbcb20@185.58.240.176:14914?security=none&type=tcp%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+vpnplusee%40&host=www.speedtest.net&headerType=http# VL-TCP%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+VPNPLUSEE%40-NONE  IR-185.58.240.176:14914  PING-170.54-MS
+vless://551b93fe-0421-44ac-9cf9-95d5ebf08738@185.58.240.178:1212?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-185.58.240.178:1212
+vless://aa0b6aba-6edb-464c-b2b5-7757ef18a696@185.58.240.178:17493?security=none&type=tcp# VL-TCP-NONE  IR-185.58.240.178:17493  PING-171.43-MS
+vless://69dced26-3a6c-4f59-ac2c-114030e01f06@185.58.242.44:33585?security=none&type=tcp&host=chess.com&headerType=http# VL-TCP-NONE  IR-185.58.242.44:33585
+vless://69dced26-3a6c-4f59-ac2c-114030e01f06@185.58.242.44:33595?security=none&type=tcp&host=chess.com&headerType=http# VL-TCP-NONE  IR-185.58.242.44:33595
+vless://737975bc-90aa-4307-806b-3a213da9272e@185.58.243.34:14296?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-185.58.243.34:14296
+vless://684ba68e-ac19-401a-e1aa-721003e20bbe@185.60.136.53:38266?security=none&type=tcp&host=amirzaplus.com&headerType=http# VL-TCP-NONE  IR-185.60.136.53:38266  PING-173.13-MS
+vless://f477d5d0-b1f6-4e30-8f4c-dfed05c94783@185.73.0.218:51511?security=none&type=tcp&host=81429612.divarcdn.com%2C+81429612.snappfood.ir%2C+81429612.yjc.ir%2C+81429612.digikala.com%2C+81429612.tic.ir&headerType=http# VL-TCP-NONE  IR-185.73.0.218:51511  PING-242.89-MS
+vless://2d078c92-f98a-2457-2940-5b5503e45b6c@185.83.90.69:20021?security=none&sni=boystar.space&type=tcp&path=%2F&headerType=http# VL-TCP-NONE  IR-185.83.90.69:20021  PING-166.70-MS
+vless://e2cee1f6-6e44-4ce1-8fe9-44bd727c8ba0@185.83.113.177:44788?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-185.83.113.177:44788  PING-156.39-MS
+vless://6663d5ac-5544-4cf9-8baa-11c68411c673@185.97.117.130:34591?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http# VL-TCP-NONE  IR-185.97.117.130:34591
+vless://9c589042-db10-47c1-a6db-91149c52ecab@185.97.118.221:2086?security=none&type=ws&path=/# VL-WS-NONE  IR-185.97.118.221:2086
+vless://b9444a34-c3fe-499f-af70-350ac8a70cb8@185.112.149.194:1002?security=none&type=tcp&host=divarcdn.com&headerType=http# VL-TCP-NONE  IR-185.112.149.194:1002  PING-231.41-MS
+vless://1e3de33b-d6c2-4621-8488-870242213767@185.112.149.194:1004?security=none&type=tcp&host=divarcdn.com&headerType=http# VL-TCP-NONE  IR-185.112.149.194:1004
+vless://9b20cc6e-b19a-406b-a0d4-2615efb55744@185.126.3.104:4060?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-185.126.3.104:4060
+vless://c83b77e0-bab3-492e-984a-b0a49bd5b3fc@185.126.11.62:52575?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-185.126.11.62:52575  PING-167.81-MS
+vless://3a76aaa3-3998-4103-b8c7-5a03ea49901e@185.126.15.60:8097?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-185.126.15.60:8097  PING-186.89-MS
+vless://510d385b-19c6-4a53-abf1-08e006e381f4@185.128.40.163:11845?security=none&type=tcp# VL-TCP-NONE  IR-185.128.40.163:11845  PING-246.81-MS
+vless://eb3cb1ef-9764-4936-a306-23839a152bd9@185.128.40.207:8083?security=tls&sni=a2.reserve.mars-coffee-shop.lol&type=ws&path=%2Fmars&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1# VL-WS-TLS  IR-185.128.40.207:8083  PING-163.13-MS
+vless://5e643328-05a4-4e79-a89c-d98e0929113b@185.128.138.36:22242?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.128.138.36:22242  PING-155.39-MS
+vless://548afdc9-a00f-44a6-abe9-0fea1aee793e@185.141.132.224:4104?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.141.132.224:4104
+vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C# VL-WS-NONE  IR-185.142.157.224:2053  PING-173.94-MS
+vless://fe64cd72-3288-4c31-9b09-fff9b26b7437@185.143.232.200:80?type=ws&host=free-02.artemis-03.sbs&path=/@Artemis_vpn# VL-WS-NA  IR-185.143.232.200:80
+vless://169d4fb3-a564-4db5-8865-09e8e0853c24@185.143.233.1:80?security=none&type=ws&host=mci.irancell.ir&path=/# VL-WS-NONE  IR-185.143.233.1:80
+vless://44a110e0-3941-4c40-8f13-c4cd89fdffc4@185.143.233.5:80?security=none&type=ws&host=trob.com&path=%2F# VL-WS-NONE  IR-185.143.233.5:80  PING-088.09-MS
+vless://1be22b93-a5f9-466a-c0a1-5fa843fbeabf@185.143.233.5:2052?security=none&type=ws&host=fjsjsisb.ir&path=%2F# VL-WS-NONE  IR-185.143.233.5:2052
+vless://a6682119-09b8-4c14-acc9-a26a612f1071@185.143.233.5:2086?security=none&type=ws&host=jytdjytdkjytdk.ir&path=/# VL-WS-NONE  IR-185.143.233.5:2086  PING-163.71-MS
+vless://4351e5c1-d1fc-4385-a3ed-6d96f5380395@185.143.233.5:8080?security=none&type=ws&host=trob.com&path=%2F# VL-WS-NONE  IR-185.143.233.5:8080  PING-088.17-MS
+vless://9dac273d-4e42-48fc-8486-aac2f93ead36@185.143.233.120:443?security=tls&sni=virgool.io&type=ws&host=rulsvitalone-b4091c32c5-app.apps.ir-thr-ba1.arvancaas.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  IR-185.143.233.120:443  PING-088.22-MS
+vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.233.120:2052?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.143.233.120:2052  PING-088.24-MS
+vless://e8894ce9-b415-4673-d7a7-87aa2daecfc0@185.143.233.120:2082?security=none&type=ws&host=xn--gtqr40b05t9tep19b.PaNteR.CoM.# VL-WS-NONE  IR-185.143.233.120:2082
+vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.233.120:2095?security=none&type=ws&host=cl.rayvps.sbs&path=%2F# VL-WS-NONE  IR-185.143.233.120:2095
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@185.143.233.120:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-185.143.233.120:8080
+vless://81dc4fda-afaf-4a17-84ae-8f9c707b8703@185.143.233.120:8880?type=ws&host=xn--gtqr40b05t9tep19b.PaLaNG.COM.&path=/telegram-@Telegram,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,turv2rayng-V2rayngtorr-telegram-mehr-v2ray?ed%3D2560# VL-WS-NA  IR-185.143.233.120:8880
+vless://9dac273d-4e42-48fc-8486-aac2f93ead36@185.143.234.120:443?security=tls&sni=virgool.io&type=ws&host=rulsvitalone-b4091c32c5-app.apps.ir-thr-ba1.arvancaas.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  IR-185.143.234.120:443  PING-088.28-MS
+vless://9dda6e67-1faf-4202-bbe4-8ed2fbea7fab@185.143.234.120:2052?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.143.234.120:2052  PING-088.24-MS
+vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.234.120:2095?security=none&type=ws&host=cl.rayvps.sbs&path=%2F# VL-WS-NONE  IR-185.143.234.120:2095
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@185.143.234.120:8080?security=none&type=ws&path=/# VL-WS-NONE  IR-185.143.234.120:8080
+vless://5c7d4376-935a-452d-8cf8-1a8a8e5dd42c@185.143.234.122:2086?type=ws&host=asashop.co&path=%2Fdash# VL-WS-NA  IR-185.143.234.122:2086  PING-122.78-MS
+vless://7d768037-96a8-41b6-b6da-8f9cbae8e109@185.191.79.2:2052?security=none&type=ws&path=%2F# VL-WS-NONE  IR-185.191.79.2:2052  PING-202.22-MS
+vless://fb32de6e-c03b-47eb-96b8-bc048e145c75@185.201.49.118:54677?security=none&type=tcp&host=Speedtest.net&headerType=http# VL-TCP-NONE  IR-185.201.49.118:54677
+vless://b7462f0e-56e5-424d-9ce8-9a331bfdcb72@185.206.94.225:8880?security=none&type=ws&path=/# VL-WS-NONE  IR-185.206.94.225:8880
+vless://c8ec1280-9aac-4234-a958-0e0ffd6f7fb6@185.213.167.45:43633?security=none&type=grpc# VL-GRPC-NONE  IR-185.213.167.45:43633
+vless://8b118fd7-d33f-4571-c18c-80b10eb0e8ee@185.215.231.73:443?security=none&type=tcp&path=%2F&headerType=http# VL-TCP-NONE  IR-185.215.231.73:443  PING-208.27-MS
+vless://58a2c602-2676-4172-b9da-d631b5e15f15@185.218.139.118:43633?security=none&type=grpc# VL-GRPC-NONE  IR-185.218.139.118:43633  PING-170.95-MS
+vless://fc2e1de6-d07b-48f1-996f-cbfccb9a8e03@185.231.114.218:443?security=tls&sni=test.operator.monster&type=ws&host=test.operator.monster&path=/what?ed%3D2048&fp=chrome&alpn=http/1.1# VL-WS-TLS  IR-185.231.114.218:443  PING-085.81-MS
+vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-185.233.13.90:2222  PING-175.51-MS
+vless://7f2ceb07-e11b-4506-bd9d-ad68d796d629@185.233.13.90:6666?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-185.233.13.90:6666  PING-194.85-MS
+vless://f07cb58d-03d1-43e8-aa9b-5587a6f142ff@185.252.86.199:80?security=none&type=ws&host=nasa.gov&path=%2F# VL-WS-NONE  IR-185.252.86.199:80
+vless://03983bcc-f5c8-42cc-96fb-a580910d435a@188.121.111.73:2082?security=tls&sni=deu.riravps.top&type=tcp&fp=chrome# VL-TCP-TLS  IR-188.121.111.73:2082
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed# VL-WS-TLS  IR-188.121.118.55:443  PING-171.27-MS
+vless://d0a14bd0-693c-46d6-9f31-7077996dfb2f@188.121.119.39:443?security=none&type=ws&path=/# VL-WS-NONE  IR-188.121.119.39:443
+vless://308d0488-0230-4f92-9e9f-978a3583434a@188.212.96.57:2096?type=ws&host=bulgtn.private-server.host&path=/# VL-WS-NA  IR-188.212.96.57:2096
+vless://7f5798c2-f61b-41de-ae4d-d43b61871995@188.212.97.209:1001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-188.212.97.209:1001  PING-209.38-MS
+vless://7f5798c2-f61b-41de-ae4d-d43b61871995@188.212.97.209:1002?security=none&type=ws&host=dl31.cofeliq1.blog# VL-WS-NONE  IR-188.212.97.209:1002  PING-209.93-MS
+vless://7f5798c2-f61b-41de-ae4d-d43b61871995@188.212.97.209:1003?security=tls&sni=dl.cofeliq1.blog&type=tcp&fp=chrome&alpn=h2,http/1.1# VL-TCP-TLS  IR-188.212.97.209:1003  PING-218.17-MS
+vless://fad7ca42-bf94-48bb-b975-0f446f00d6f7@188.212.98.5:2052?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http# VL-TCP-NONE  IR-188.212.98.5:2052  PING-197.31-MS
+vless://52c8ba59-64ea-4807-9c9d-e7cbcf68d309@188.212.98.160:52312?security=none&type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NONE  IR-188.212.98.160:52312
+vless://beabdab3-65b4-4078-9f9c-e86c052ae9a8@193.37.37.27:1001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-193.37.37.27:1001  PING-193.70-MS
+vless://beabdab3-65b4-4078-9f9c-e86c052ae9a8@193.37.37.27:4001?type=tcp&host=speedtest.net&headerType=http# VL-TCP-NA  IR-193.37.37.27:4001  PING-152.55-MS
+vless://f4779608-3744-4010-a915-bf46e35277b8@193.107.48.18:2087?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-193.107.48.18:2087  PING-241.35-MS
+vless://fcd4e881-be1e-4a4b-f14f-ec3b54a06f9c@193.111.235.179:2053?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-193.111.235.179:2053  PING-186.23-MS
+vless://99dc3cf3-1f5b-4a77-8727-8c724f0a9a42@193.111.236.203:8443?security=tls&sni=skyroom.online.fnir.pingvps.shop&type=tcp# VL-TCP-TLS  IR-193.111.236.203:8443
+vless://4d68a5be-30a6-43cc-a7f8-f49dca92ffb2@193.134.100.233:443?security=none&type=tcp&host=divar.ir&headerType=http# VL-TCP-NONE  IR-193.134.100.233:443
+vless://bbfb3523-6de1-48ca-86dd-9f936de7d822@193.151.133.108:2001?security=none&type=tcp&host=sheypoor.com&path=%2F&headerType=http# VL-TCP-NONE  IR-193.151.133.108:2001
+vless://36d3bc53-de58-4693-b486-2bf8cbb7d8a5@193.151.140.32:2082?security=tls&sni=deu.riravps.top&type=tcp&fp=chrome# VL-TCP-TLS  IR-193.151.140.32:2082  PING-165.33-MS
+vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@193.151.142.50:8443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU# VL-TCP-RLT  IR-193.151.142.50:8443
+vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.143.98:1106?security=none&type=tcp&host=creativecommons.org&headerType=http# VL-TCP-NONE  IR-193.151.143.98:1106
+vless://6866e9fc-80fe-4f10-ae50-c9166d533a26@193.151.148.66:28704?security=none&type=tcp&host=speedtest.net&path=/&headerType=http# VL-TCP-NONE  IR-193.151.148.66:28704
+vless://f847355c-af09-4a3c-9057-1de5657d533f@193.151.151.9:11025?security=none&type=tcp# VL-TCP-NONE  IR-193.151.151.9:11025  PING-154.54-MS
+vless://e96a050b-0f96-4ff5-9f15-598792e68d73@193.151.151.92:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws2%3Fed%3D2560# VL-WS-NONE  IR-193.151.151.92:80
+vless://da681eb7-357d-4e81-a545-88b0df8224c7@193.151.151.92:443?security=tls&sni=related.n1.elementstory.site&type=tcp&headerType=http&fp=chrome&alpn=h2,http/1.1# VL-TCP-TLS  IR-193.151.151.92:443
+vless://4e40e068-c51b-474b-a68a-7ae79f63256b@193.151.151.99:41263?security=none&type=tcp&host=iranserver.com&path=%2F&headerType=http# VL-TCP-NONE  IR-193.151.151.99:41263  PING-163.00-MS
+vless://e22ef9fa-74ff-4a35-9c85-f91ba2218bb5@193.151.153.109:443?security=none&type=tcp&host=namava.ir&headerType=http# VL-TCP-NONE  IR-193.151.153.109:443  PING-164.02-MS
+vless://9104e7c7-a926-4928-8be8-3d6e42658463@193.151.155.41:33134?security=none&type=tcp&host=iranserver.com&headerType=http# VL-TCP-NONE  IR-193.151.155.41:33134  PING-153.92-MS
+vless://bdc97a5d-d936-4621-81b7-4a041122ca67@193.151.155.217:11025?security=none&type=tcp# VL-TCP-NONE  IR-193.151.155.217:11025  PING-158.70-MS
+vless://24015344-34b4-47bb-95a7-f75ca1fb4ba2@193.151.158.39:23760?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http# VL-TCP-NONE  IR-193.151.158.39:23760  PING-179.42-MS
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@193.151.158.97:37753?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-193.151.158.97:37753  PING-247.75-MS
+vless://db533712-9a74-457d-be74-0ef9dc7ee2aa@193.151.158.138:9103?security=none&type=tcp&host=iranserver.com&headerType=http# VL-TCP-NONE  IR-193.151.158.138:9103  PING-190.37-MS
+vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.158.164:1106?security=none&type=tcp&host=creativecommons.org&headerType=http# VL-TCP-NONE  IR-193.151.158.164:1106
+vless://c2008856-891c-42f6-8c4c-8508d786424d@193.162.129.200:1906?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-193.162.129.200:1906
+vless://c2008856-891c-42f6-8c4c-8508d786424d@193.162.129.219:1906?security=none&type=tcp&host=upload.com&headerType=http# VL-TCP-NONE  IR-193.162.129.219:1906
+vless://626e9d00-b5e3-4937-8ef7-6e2940c4ef18@193.162.129.232:8090?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-193.162.129.232:8090
+vless://69b6d557-f883-4606-8fd3-a7a678d4c885@193.162.129.235:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http# VL-TCP-NONE  IR-193.162.129.235:8071
+vless://cde8e719-0cac-4da4-afae-4f80ad6b2374@193.162.129.246:1001?security=none&type=tcp&host=isna.ir&headerType=http# VL-TCP-NONE  IR-193.162.129.246:1001  PING-205.16-MS
+vless://721f1b87-4996-4854-9ec9-d9e4c42e46bd@193.228.91.160:30417?security=none&type=tcp# VL-TCP-NONE  IR-193.228.91.160:30417  PING-172.27-MS
+vless://308d0488-0230-4f92-9e9f-978a3583434a@194.1.155.216:2096?type=ws&host=bulgtn.private-server.host&path=/# VL-WS-NA  IR-194.1.155.216:2096  PING-263.30-MS
+vless://78dcde94-5b99-4dc0-a0a7-43c92df4f76b@194.5.54.170:80?security=none&type=tcp# VL-TCP-NONE  IR-194.5.54.170:80  PING-246.97-MS
+vless://7cc45e58-0322-41de-bd6b-1335470cb715@194.5.177.32:8443?type=tcp&host=varzesh3.com&headerType=http# VL-TCP-NA  IR-194.5.177.32:8443
+vless://8d744778-61a4-4f88-8350-ab3fcf96af12@194.33.105.44:59465?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-194.33.105.44:59465
+vless://74d21728-1ef9-4b3f-bd62-3998d17a1a78@195.96.135.254:37281?security=none&type=tcp# VL-TCP-NONE  IR-195.96.135.254:37281  PING-193.51-MS
+vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@195.211.47.50:17043?security=none&type=tcp&host=zula.ir&headerType=http# VL-TCP-NONE  IR-195.211.47.50:17043
+vless://eb7af5aa-84c8-409b-9362-a84c6ec2313f@212.33.206.78:8080?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-212.33.206.78:8080  PING-184.82-MS
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@212.33.206.78:37753?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-212.33.206.78:37753  PING-213.13-MS
+vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@212.33.206.80:8478?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-212.33.206.80:8478  PING-186.53-MS
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@212.33.206.80:37753?security=none&type=tcp&host=colorlib.com&headerType=http# VL-TCP-NONE  IR-212.33.206.80:37753  PING-169.39-MS
+vless://6dec6017-ab02-472d-bc02-0a65cf4459bf@212.33.206.83:39636?security=none&type=ws&path=@v2raand,@v2raand,@v2raand,@v2raand# VL-WS-NONE  IR-212.33.206.83:39636  PING-165.67-MS
+vless://dd928f8b-e1ec-40d2-9aff-77d9e7d8d3f5@212.33.206.84:37753?security=none&type=tcp&host=www.sayad.top&headerType=http# VL-TCP-NONE  IR-212.33.206.84:37753  PING-185.25-MS
+vless://b4cb7101-252d-43c8-a46b-0aab5f0c03fe@212.33.206.110:28646?security=none&type=tcp&host=www.speedtest.net&path=/@iSpeedTopVPN&headerType=http# VL-TCP-NONE  IR-212.33.206.110:28646
+vless://bdb635e1-30ce-48ab-b935-1f579eb7e78f@212.80.9.98:80?security=none&type=tcp&host=fast.com&path=%2F&headerType=http# VL-TCP-NONE  IR-212.80.9.98:80
+vless://6b35216f-ee52-490c-9801-7c8d9dad29e8@212.80.9.98:42575?type=tcp&host=fast.com&headerType=http# VL-TCP-NA  IR-212.80.9.98:42575
+vless://cb783234-c9d2-488f-a858-c41e541ec55b@212.80.9.103:2087?security=none&type=tcp# VL-TCP-NONE  IR-212.80.9.103:2087  PING-188.91-MS
+vless://bd13ceac-d4c7-4840-9fb6-fbe4f2731884@212.80.10.7:63875?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-212.80.10.7:63875
+vless://363e03b6-9fe2-452d-ba58-838f6004b4f7@212.80.11.140:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-212.80.11.140:1010
+vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-212.80.18.60:41661  PING-160.92-MS
+vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-212.80.18.147:443  PING-164.67-MS
+vless://243008f17925188ae9935a58745558ed@213.176.6.71:28219?type=tcp&host=speedtest.net&headerType=http# VL-TCP-NA  IR-213.176.6.71:28219
+vless://9646a7cc-6a2b-46bc-8553-1e6748bb35e1@213.232.124.134:2053?security=none&type=tcp# VL-TCP-NONE  IR-213.232.124.134:2053  PING-220.33-MS
+vless://69d10276-31bf-44c1-afbb-5e40cd5f71e3@217.60.241.87:11025?security=none&type=tcp# VL-TCP-NONE  IR-217.60.241.87:11025
+vless://da107ee9-c242-4b15-9603-a965a7bd62a5@217.60.243.167:30154?security=none&type=tcp# VL-TCP-NONE  IR-217.60.243.167:30154  PING-156.60-MS
+vless://0b10d705-79cb-4e33-99a2-f7e97d06022e@217.60.243.167:30155?security=none&type=ws&path=%2F# VL-WS-NONE  IR-217.60.243.167:30155  PING-160.58-MS
+vless://2500b5d3-b7d6-41e7-8e28-2ba244e0917a@217.60.244.15:2095?type=ws&path=%2F# VL-WS-NA  IR-217.60.244.15:2095
+vless://2be59a14-da6b-4078-b80e-fae95f1a44b6@217.60.245.111:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/# VL-WS-TLS  IR-217.60.245.111:2087
+vless://b5777406-375b-44e0-a795-e70481cf6053@217.60.247.67:443?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-217.60.247.67:443  PING-229.02-MS
+vless://8d519e79-7cc4-4e57-e8f4-826e8d10b9ab@217.60.247.198:29357?security=none&type=ws&host=null&path=%2F# VL-WS-NONE  IR-217.60.247.198:29357  PING-207.45-MS
+vless://c0362332-3034-4349-a6bc-5af616b0879e@217.60.249.87:2095?security=none&type=ws&path=%2F# VL-WS-NONE  IR-217.60.249.87:2095  PING-206.54-MS
+vless://2500b5d3-b7d6-41e7-8e28-2ba244e0917a@217.60.249.97:2095?security=none&type=ws%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+vpnplusee%40&path=%2F# VL-WS%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%F0%9F%91%88%F0%9F%8F%BB+VPNPLUSEE%40-NONE  IR-217.60.249.97:2095  PING-225.32-MS
+vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-217.60.249.101:2095  PING-172.95-MS
+vless://c16d7379-b35e-4ef1-931d-34293f2ecf4c@217.60.252.121:6710?security=none&type=tcp&path=/&headerType=http# VL-TCP-NONE  IR-217.60.252.121:6710
+vless://0aa2a23b-00bd-4af7-8c58-94622448ede8@217.60.254.168:27616?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-217.60.254.168:27616
+vless://7cc0f2f0-c682-4fc0-f492-6294bfd71366@217.219.212.43:44575?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-217.219.212.43:44575
+vless://e240547f-5a80-4cee-a318-779c320a1d8e@bestxshopx1.avash.pics:13446?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp# | VLESS | @Outline_Vpn | IR | 05
+vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@bloo-NEtflix23.maj.gamerme.IR:80?encryption=none&host=IRON.man.policeoficer-45.GAMERme.IR&path=%2F%3Fed%3D2048&security=none&type=ws# | VLESS | @frev2ray | IR | 01
+vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@bloo-netflix23.maj.gamerme.IR:2095?encryption=none&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.houselife.ir&path=%2F&security=none&type=ws# | VLESS | @frev2ray | IR | 01
+vless://9d69192f-e358-4419-be45-97e8cbbc9ab0@jomo.arnoldonline.shop:23760?encryption=none&headerType=http&host=varzesh3.com&security=none&type=tcp# | VLESS | @prrofile_purple | IR | 01
+vless://95773733-4ab2-0185-7006-4adcfd614c2b@l1.darklord.life:443?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp# | VLESS | @Outlinev2rayNG | IR | 06
+vless://08fe3471-6e81-4af3-819f-9f8e03c81336@order.gomgom.tech:2004?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=SHVNyUSseB1aZcaBOtrb4Tm4o5kDob6DgzRcRgaEpAE&security=reality&sid=585a3054&sni=www.speedtest.net&spx=%2F&type=tcp# | REALITY | @proxyymeliii | IR | 03
+vless://a32111d2-1801-448a-a7c3-25edc0281562@shoptunnel.simottrade.com:37016?encryption=none&headerType=http&security=none&type=tcp# | VLESS | @proxyymeliii | IR | 03
+vless://3cef3166-9c92-440b-9383-a220e68a930a@tnl5.radmehrmax.ir:8097?encryption=none&headerType=http&security=none&type=tcp# | VLESS | @proxy_kafee | IR | 02
+vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@voll.haplou.com:46769?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp# | VLESS | @ShadowProxy66 | IR | 01
