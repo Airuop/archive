@@ -3,7 +3,8 @@ import os
 # import natsort
 
 
-paths = ['./countries/ir/', './update/', './donated/', './selected/']
+# paths = ['./countries/ir/', './update/', './donated/', './selected/']
+paths = ['./countries/ir/2308/']
 
 
 def chunk_file(file_path, chunk_size=90*1024*1024):
@@ -67,7 +68,7 @@ for path in paths:
   # Remove old final and integrated files
 
   for file in os.listdir(path):
-          if 'integrated' in file or 'ss' in file or 'vless' in file or 'others' in file or 'vmess' in file:
+          if 'integrated' in file or 'ss' in file or 'vless' in file or 'others' in file or 'vmess' in file or 'final' in file:
               file_path = os.path.join(path, file)
               os.remove(file_path)
 
