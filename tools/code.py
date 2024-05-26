@@ -8,7 +8,7 @@ paths = ['./update/2308/']
 
 
 def chunk_file(file_path, chunk_size=90*1024*1024):
-    print(file_path)
+    print("chunk_file state")
 
     counter = 1
 
@@ -28,6 +28,7 @@ def chunk_file(file_path, chunk_size=90*1024*1024):
 
 
 def changeName(name, path):
+    print("changeName state")
     chunked_files = []
     for file in os.listdir(path):
         if name in file:
@@ -40,6 +41,7 @@ def changeName(name, path):
 
 
 def get_all_paths(path):
+    print("get_all_paths state")
     all_files = []
     for root, dirs, files in os.walk(path, topdown=False):
         # print('root=%s , files=%s' %(root, files))
@@ -50,6 +52,7 @@ def get_all_paths(path):
 
 
 def merge_files(all_files, output_file):
+    print("merge_files state")
     with open(output_file, 'a') as fout:
         for file in all_files:
             if file.endswith(".txt"):
@@ -78,7 +81,6 @@ for path in paths:
   with open(output_file) as f:
       lines = f.readlines()
 
-  chunk_file(output_file)
 
   # keys = []
   # for line in lines:
