@@ -4,8 +4,7 @@ import os
 
 
 # paths = ['./countries/ir/', './update/', './donated/', './selected/']
-paths = ['./update/2308/']
-
+paths = ['./donated/']
 
 def chunk_file(file_path, chunk_size=90*1024*1024):
     print("chunk_file state")
