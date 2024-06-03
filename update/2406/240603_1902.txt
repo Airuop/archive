@@ -1,0 +1,7 @@
+#profile-title: base64:VFZDIHwgUkVBTElUWQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+
+vless://64db2a61-4296-4747-8f50-017201a4c5e4@74.48.95.50:17974?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=17FnGUGQ9rrtCtJvtYWywWCYtAc0dyxVbwNbNEp05yE&security=reality&sid=6a565d14&sni=www.yahoo.com&type=tcp#رایگان | REALITY | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣
