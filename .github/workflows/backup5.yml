@@ -28,12 +28,17 @@ jobs:
       - name: Commit & push changes
         run: |
           git remote add upstream https://github.com/Airuop/archive
-          git fetch upstream 
+          git fetch upstream
           git merge upstream/master
           git push origin master
+          
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git config credential.helper store
-          git add -A
-          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
-          git push
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m " archived"
+            git push
+          else
+            echo "No changes to commit, skipping commit and push"
