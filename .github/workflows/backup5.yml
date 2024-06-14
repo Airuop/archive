@@ -28,11 +28,12 @@ jobs:
       - name: Commit & push changes
         run: |
           git remote add upstream https://github.com/Airuop/archive
-          git fetch upstream
-          git merge --no-commit --no-ff upstream/master
-          export GIT_COMMITTER_NAME="GitHub Actions"
-          export GIT_COMMITTER_EMAIL="actions@github.com"
+          git fetch upstream 
+          git merge upstream/master
+          git push origin master
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git config credential.helper store
           git add -A
           git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
-          git push origin master
+          git push
