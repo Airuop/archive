@@ -9,12 +9,19 @@ update_path = './donated/'
 
 url = "https://api.yebekhe.link/telegramDonated/"
 res = requests.get(url)
-while True:
-      time.sleep(10)
-      res = requests.get(url)  
-      if res.ok:
-          break
 
+max_attempts = 10
+attempt = 0
+
+while attempt < max_attempts:
+    res = requests.get(url)
+    if res.ok:
+        break
+    attempt += 1
+    time.sleep(10)
+else:
+    print("Failed to retrieve the URL after", max_attempts, "attempts")
+      
 encoded_str = res.content
 decoded_bytes = base64.b64decode(encoded_str)
 decoded_str = decoded_bytes.decode('utf-8') 
