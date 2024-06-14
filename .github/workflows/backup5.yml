@@ -16,29 +16,28 @@ jobs:
       - uses: actions/setup-python@v4.7.0
         with:
           python-version: "3.11.8"
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone 'Asia/Tehran'
-      - name: Install Requirements
-        run: |
-          pip install --upgrade pip
-          pip install requests
-      - name: run py
-        run: |
-          python ./tools/backup5.py
+      # - name: Set Timezone
+      #   run: sudo timedatectl set-timezone 'Asia/Tehran'
+      # - name: Install Requirements
+      #   run: |
+      #     pip install --upgrade pip
+      #     pip install requests
+      # - name: run py
+      #   run: |
+      #     python ./tools/backup5.py
       - name: Commit & push changes
         run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git config credential.helper store
           git remote add upstream https://github.com/Airuop/archive
           git fetch upstream
           git merge upstream/master
           git push origin master
-          
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git config credential.helper store
-          
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
-            git commit -m " archived"
+            git commit -m "archived"
             git push
           else
             echo "No changes to commit, skipping commit and push"
+          fi
