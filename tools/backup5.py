@@ -5,30 +5,6 @@ import time
 import re
 from datetime import datetime
 
-update_path = './donated/'
-
-url = "https://api.yebekhe.link/telegramDonated/"
-res = requests.get(url)
-
-max_attempts = 10
-attempt = 0
-
-while attempt < max_attempts:
-    res = requests.get(url)
-    if res.ok:
-        break
-    attempt += 1
-    time.sleep(10)
-else:
-    print("Failed to retrieve the URL after", max_attempts, "attempts")
-      
-encoded_str = res.content
-decoded_bytes = base64.b64decode(encoded_str)
-decoded_str = decoded_bytes.decode('utf-8') 
-
-# Remove unsupported characters before encoding
-cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)  
-
 def backup(response):
   date_dir = datetime.now().strftime("%y%m")
   date_file = datetime.now().strftime("%y%m%d_%H%M") + "M"
@@ -47,4 +23,34 @@ def backup(response):
   except OSError:
     print("Error writing backup file")
 
-backup(cleaned_str)
+print("py code try for get data...")
+update_path = './donated/'
+
+MAX_ATTEMPTS = 10
+BACKOFF_DELAY = 10  # in seconds
+
+url = "https://api.yebekhe.link/telegramDonated/"
+
+for attempt in range(MAX_ATTEMPTS):
+    try:
+        res = requests.get(url, timeout=10)  # Set a timeout to avoid hanging
+        if res.ok:
+            break
+    except requests.exceptions.ProxyError as e:
+        print(f"Proxy error on attempt {attempt + 1}: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"Request error on attempt {attempt + 1}: {e}")
+    print(f"Try {attempt + 1}..... (retrying in {BACKOFF_DELAY} seconds)")
+    time.sleep(BACKOFF_DELAY)
+else:
+    print(f"Failed to retrieve the URL after {MAX_ATTEMPTS} attempts")
+    res = 0
+
+if res != 0:      
+    encoded_str = res.content
+    decoded_bytes = base64.b64decode(encoded_str)
+    decoded_str = decoded_bytes.decode('utf-8') 
+
+    # Remove unsupported characters before encoding
+    cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)  
+    backup(cleaned_str)
