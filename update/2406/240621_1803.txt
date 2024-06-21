@@ -1,0 +1,7 @@
+#profile-title: base64:VFZDIHwgUkVBTElUWQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+
+vless://bc267e61-3431-41d2-b29b-6a8e0861cc33@madrid.xwdil.ir:443?encryption=none&fp=chrome&pbk=CkSjKQDP5xMVdboAsHzm4LnSfRK8KB9dxoHGDkQARUM&security=reality&serviceName=Dali&sid=b9a19b51&sni=marca.com&type=grpc#رایگان | REALITY | @vpn_xw | ES🇪🇸 | 0️⃣1️⃣
