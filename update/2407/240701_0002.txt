@@ -1,0 +1,7 @@
+#profile-title: base64:VFZDIHwgUkVBTElUWQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+
+vless://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:39193?encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none&pbk=fGc5_76xeIvGaobieJalJow4MRsVX7LJsand8O2ZlU4&security=reality&sid=5c53b7e0&sni=download-installer.cdn.mozilla.net&spx=%2F&type=tcp#رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣
