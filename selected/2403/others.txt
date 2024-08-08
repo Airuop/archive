@@ -1,0 +1,128 @@
+trojan://wkmY1R4EcP@45.63.110.20:443/?type=tcp&security=tls&sni=z-v2-003281.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)474
+trojan://telegram-id-privatevpns@52.211.41.7:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇮🇪)IE)SHERVIN)475
+trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)476
+trojan://owwEYDnpgeVG@13.229.87.199:16963/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇸🇬)SG)SHERVIN)477
+trojan://wkmY1R4EcP@45.76.228.197:443/?type=tcp&security=tls&sni=z-v2-003263.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)478
+trojan://RWiqa31ngUtJ@54.249.177.76:16961/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇯🇵)JP)SHERVIN)479
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)480
+trojan://01f378e3-16fb-41ba-be7e-e23a7813275e@tr-full.privateip.net:443/?type=tcp&security=tls&sni=tr-full.privateip.net&allowInsecure=1#🇺🇸)US)SHERVIN)481
+trojan://telegram-id-privatevpns@51.21.125.90:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇫🇷)FR)SHERVIN)482
+trojan://bb13e1e8-175d-4606-b2fc-437b2605d117@139.162.62.79:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬)SG)SHERVIN)483
+trojan://01f378e3-16fb-41ba-be7e-e23a7813275e@95.164.116.35:443/?type=tcp&security=tls&sni=tr-full.privateip.net&allowInsecure=1#🇺🇸)US)SHERVIN)484
+trojan://fARhKUDUMyT6@18.171.171.174:16969/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇬🇧)GB)SHERVIN)485
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=ws&host=sherasheba.comh2,http/1.1&path=6b777a91&security=tls&sni=sherasheba.com&allowInsecure=1#🇺🇸)US)SHERVIN)486
+trojan://telegram-id-privatevpns@52.47.66.241:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk&allowInsecure=1#🇫🇷)FR)SHERVIN)487
+trojan://telegram-id-privatevpns@13.51.92.251:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇸🇪)SE)SHERVIN)488
+trojan://XEv6xi9vzcOC@15.237.250.4:16953/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇫🇷)FR)SHERVIN)489
+trojan://wkmY1R4EcP@45.76.130.173:443/?type=tcp&security=tls&sni=z-v2-003289.kailib.com&allowInsecure=1#🇬🇧)GB)SHERVIN)490
+trojan://eydxW4OOv8Kv@15.237.194.93:16935/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇫🇷)FR)SHERVIN)491
+trojan://telegram-id-privatevpns@18.202.83.39:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk&allowInsecure=1#🇮🇪)IE)SHERVIN)492
+trojan://telegram-id-privatevpns@18.198.193.55:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇩🇪)DE)SHERVIN)493
+trojan://telegram-id-directvpn@52.70.156.170:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇺🇸)US)SHERVIN)494
+trojan://xxoo@us.blazeppn.info:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)495
+trojan://telegram-id-directvpn@15.236.164.118:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇫🇷)FR)SHERVIN)496
+trojan://6x8HcghsjS@103.214.68.57:10003/?type=tcp&security=tls&sni=yes998.chickenkiller.com&allowInsecure=1#🇰🇷)KR)SHERVIN)497
+trojan://ei9NcBFoqY@104.21.14.142:2053/?type=ws&host=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfdh2,http/1.1&path=/t.me/VmessProtocol&security=tls&sni=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd&allowInsecure=1#🇺🇸)US)SHERVIN)498
+trojan://wkmY1R4EcP@45.32.148.182:443/?type=tcp&security=tls&sni=z-v2-002805.kailib.com&allowInsecure=1#🇫🇷)FR)SHERVIN)499
+trojan://cVVCZNMzlBDN@13.124.111.233:16977/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇰🇷)KR)SHERVIN)500
+trojan://wkmY1R4EcP@209.250.246.191:443/?type=tcp&security=tls&sni=z-v2-003294.kailib.com&allowInsecure=1#🇳🇱)NL)SHERVIN)501
+trojan://ad20ee5a-bbb1-4da3-8593-c14e2ed869de@172.233.78.189:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)502
+trojan://wkmY1R4EcP@66.42.84.121:443/?type=tcp&security=tls&sni=z-v2-002797.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)503
+trojan://telegram-id-directvpn@3.9.237.20:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇬🇧)GB)SHERVIN)504
+trojan://wkmY1R4EcP@207.246.68.67:443/?type=tcp&security=tls&sni=z-v2-003338.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)505
+trojan://vXthhXEKpb@1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd:2053/?type=ws&host=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfdh2,http/1.1&path=/t.me/VmessProtocol&security=tls&sni=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd&allowInsecure=1#🇺🇸)US)SHERVIN)506
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&allowInsecure=1#🇺🇸)US)SHERVIN)507
+trojan://BwE74WMMfuKu@3.112.73.33:16963/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇯🇵)JP)SHERVIN)508
+trojan://ad20ee5a-bbb1-4da3-8593-c14e2ed869de@jp-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)509
+trojan://ua8ssuberq5K@18.130.35.96:16932/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇬🇧)GB)SHERVIN)510
+trojan://7573d747-61f9-4657-a6d2-a06fe93d50cb@141.94.115.231:443/?type=tcp&security=tls&allowInsecure=1#🇫🇷)FR)SHERVIN)511
+trojan://3AgDGE332Jua@3.75.231.121:16934/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇩🇪)DE)SHERVIN)512
+trojan://telegram-id-directvpn@13.38.247.170:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇫🇷)FR)SHERVIN)513
+trojan://a3168dd7-0fd8-4458-8eb3-a78a85a4175d@159.203.34.170:443/?type=tcp&security=tls&allowInsecure=1#🇨🇦)CA)SHERVIN)514
+trojan://1d3f5e1f-db5e-4f3b-8bec-30acd16d679a@172.105.254.162:443/?type=tcp&security=tls&allowInsecure=1#🇦🇺)AU)SHERVIN)515
+trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.133.234:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)516
+trojan://5aec3e5d-3f82-4282-b7da-a3475f0557aa@uk-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇬🇧)GB)SHERVIN)517
+trojan://52gYrj8MICex@57.180.58.44:16975/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇺🇸)US)SHERVIN)518
+trojan://a77246d6-c8de-42fd-82f9-56e9a3d616ba@id-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)519
+trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.134.234:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)520
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&allowInsecure=1#🇺🇸)US)SHERVIN)521
+trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.135.234:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)522
+trojan://L35Xt9RVGUVa@52.24.54.182:16964/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇺🇸)US)SHERVIN)523
+trojan://wkmY1R4EcP@137.220.42.248:443/?type=tcp&security=tls&sni=z-v2-002802.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)524
+trojan://bb13e1e8-175d-4606-b2fc-437b2605d117@sg-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬)SG)SHERVIN)525
+trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇳🇱)NL)SHERVIN)526
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&allowInsecure=1#🇺🇸)US)SHERVIN)527
+trojan://telegram-id-directvpn@34.243.134.106:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇮🇪)IE)SHERVIN)528
+trojan://31583130-de1f-44ce-a433-1dbb108e1846@95.164.46.235:443/?type=tcp&security=tls&sni=it-full.privateip.net&allowInsecure=1#🇺🇸)US)SHERVIN)529
+trojan://1d35b929-1897-45b7-98e4-4836c722e440@ua-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇱🇻)LV)SHERVIN)530
+trojan://a77246d6-c8de-42fd-82f9-56e9a3d616ba@172.232.250.121:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)531
+trojan://2c9aa0e2-ff41-4e70-9663-758e27f10461@us-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)532
+trojan://354ca566-3ab4-4e4e-9594-8693d78bc2c7@uk2-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇬🇧)GB)SHERVIN)533
+trojan://ei9NcBFoqY@172.67.159.172:2053/?type=ws&host=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfdh2,http/1.1&path=/t.me/VmessProtocol&security=tls&sni=1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd&allowInsecure=1#🇺🇸)US)SHERVIN)534
+trojan://NXKWRGTF9Shv@18.170.54.207:16964/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇬🇧)GB)SHERVIN)535
+trojan://telegram-id-privatevpns@18.169.58.219:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇬🇧)GB)SHERVIN)536
+trojan://31583130-de1f-44ce-a433-1dbb108e1846@it-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)537
+trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@94.131.117.240:443/?type=tcp&security=tls&sni=es-full.privateip.net&allowInsecure=1#🇺🇸)US)SHERVIN)538
+trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&sni=us.blazeppn.info&allowInsecure=1#🇺🇸)US)SHERVIN)539
+trojan://telegram-id-privatevpns@52.29.182.16:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇩🇪)DE)SHERVIN)540
+trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@95.164.114.43:443/?type=tcp&security=tls&sni=kz-full.privateip.net&allowInsecure=1#🇺🇸)US)SHERVIN)541
+trojan://telegram-id-privatevpns@18.169.253.149:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇬🇧)GB)SHERVIN)542
+trojan://zIvR7ryOXv@159.223.207.182:34428/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)543
+trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)544
+trojan://4a27b319-ac1f-4479-8440-851d53580ba3@178.128.193.212:443/?type=tcp&security=tls&allowInsecure=1#🇩🇪)DE)SHERVIN)545
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com&allowInsecure=1#🇺🇸)US)SHERVIN)546
+trojan://5aec3e5d-3f82-4282-b7da-a3475f0557aa@198.244.190.189:443/?type=tcp&security=tls&allowInsecure=1#🇬🇧)GB)SHERVIN)547
+trojan://354ca566-3ab4-4e4e-9594-8693d78bc2c7@209.97.134.140:443/?type=tcp&security=tls&allowInsecure=1#🇬🇧)GB)SHERVIN)548
+trojan://N8BHHMVZgAi9@52.195.235.113:16951/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇯🇵)JP)SHERVIN)549
+trojan://jX0cwUazljbD@18.179.45.73:16932/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇯🇵)JP)SHERVIN)550
+trojan://wkmY1R4EcP@45.77.161.86:443/?type=tcp&security=tls&sni=z-v2-003314.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)551
+trojan://a3168dd7-0fd8-4458-8eb3-a78a85a4175d@ca-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇨🇦)CA)SHERVIN)552
+trojan://4a27b319-ac1f-4479-8440-851d53580ba3@de2-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇩🇪)DE)SHERVIN)553
+trojan://telegram-id-privatevpns@15.236.72.224:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇫🇷)FR)SHERVIN)554
+trojan://telegram-id-privatevpns@51.20.186.99:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇫🇷)FR)SHERVIN)555
+trojan://telegram-id-directvpn@15.222.208.190:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇨🇦)CA)SHERVIN)556
+trojan://LyYadFaIcPTh@54.190.202.203:16978/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇺🇸)US)SHERVIN)557
+trojan://1d35b929-1897-45b7-98e4-4836c722e440@195.123.213.46:443/?type=tcp&security=tls&allowInsecure=1#🇱🇻)LV)SHERVIN)558
+trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.136.234:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)559
+trojan://429d6a67-0dc5-4745-ac44-04f7100fde94@de-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇩🇪)DE)SHERVIN)560
+trojan://vwhfVtOHpTmG@3.139.240.145:16952/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇺🇸)US)SHERVIN)561
+trojan://p5qmKFuZVxvl@15.236.40.85:16975/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇫🇷)FR)SHERVIN)562
+trojan://96589a7c-c83f-4b42-b31c-d714627857f3@45.67.229.110:2053/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#🇲🇩)MD)SHERVIN)563
+trojan://telegram-id-privatevpns@108.129.0.90:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇮🇪)IE)SHERVIN)564
+trojan://NmRZOoRplZfM@54.255.231.61:16962/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇸🇬)SG)SHERVIN)565
+trojan://telegram-id-privatevpns@3.76.25.16:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇩🇪)DE)SHERVIN)566
+trojan://7573d747-61f9-4657-a6d2-a06fe93d50cb@fr-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇫🇷)FR)SHERVIN)567
+trojan://2d26244b-a7ad-4e54-9645-6c2184444e03@188.119.112.242:443/?type=tcp&security=tls&allowInsecure=1#🇳🇱)NL)SHERVIN)568
+trojan://telegram-id-privatevpns@18.171.49.152:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇬🇧)GB)SHERVIN)569
+trojan://1d3f5e1f-db5e-4f3b-8bec-30acd16d679a@au-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇦🇺)AU)SHERVIN)570
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443/?type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&security=tls&sni=hdfy8c1.foriran.me&allowInsecure=1#🇺🇸)US)SHERVIN)571
+trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)572
+trojan://2d26244b-a7ad-4e54-9645-6c2184444e03@nl-full.privateip.net:443/?type=tcp&security=tls&allowInsecure=1#🇳🇱)NL)SHERVIN)573
+trojan://qG9K8AGnn9XH5jUqeFu96g@162.159.130.234:2083/?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&allowInsecure=1#🇺🇸)US)SHERVIN)574
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&allowInsecure=1#🇺🇸)US)SHERVIN)575
+trojan://429d6a67-0dc5-4745-ac44-04f7100fde94@51.75.77.237:443/?type=tcp&security=tls&allowInsecure=1#🇩🇪)DE)SHERVIN)576
+trojan://2c9aa0e2-ff41-4e70-9663-758e27f10461@96.126.127.7:443/?type=tcp&security=tls&allowInsecure=1#🇺🇸)US)SHERVIN)577
+trojan://telegram-id-privatevpns@52.31.174.63:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇮🇪)IE)SHERVIN)578
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443/?type=ws&host=avianrecruit.comh2,http/1.1&path=6b777a91&security=tls&sni=avianrecruit.com&allowInsecure=1#🇺🇸)US)SHERVIN)579
+trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com&allowInsecure=1#🇺🇸)US)SHERVIN)580
+trojan://telegram-id-directvpn@54.247.142.218:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#🇮🇪)IE)SHERVIN)581
+trojan://02DBcpwdYtWN@15.236.122.194:16960/?type=tcp&security=tls&sni=appsvs.shop&allowInsecure=1#🇫🇷)FR)SHERVIN)582
+
+             SHΞЯVIN™
+             SHΞЯVIN™%
+             SHΞЯVI
+            SHΞЯVIN™ 𓈆
+     %2
+            SHΞЯVIN™%2
+ 🪩𝐻𝑎𝑝𝑝𝑦 𝑁𝑒𝑤 𝑦𝑒𝑎𝑟
+╰1╯╰4╯╰0╯╰3╯
+            SHΞЯVIN™ ⚠️
+            🚶SHΞЯVIN™
+            SHΞЯVIN™ ⚗️
+            SHΞЯVIN™ 📦
+            SHΞЯVIN™ 📲
+            SHΞЯVIN™ 🫧
+            SHΞЯVIN™ 🏷️
+            SHΞЯVIN™ �
+            SHΞЯVIN™ ♻️
+            SHΞЯVIN™ 🕳️
