@@ -1,0 +1,24 @@
+trojan://baaacbc-acab-aacb-badc-bacaccbbaabc@127.0.0.1:1080?security=tls&type=tcp# LATEST-UPDATE  TUE-13-SHAHRIVAR-1403  08:21
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg1LjE4LjIxMi4yMDA6MzU5MTgiLCAiYWRkIjogIjE4NS4xOC4yMTIuMjAwIiwgInBvcnQiOiAiMzU5MTgiLCAiaWQiOiAiZGU1YTIyNDctY2E5ZC00MTk3LWFhNjktNzRlMzYyMTZhNDhmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJcdTY3MmFcdTc3ZTUifQ==
+vless://97588d87-9d5b-4597-9668-a04de8f05018@46.245.72.13:20589?security=none&type=tcp&host=Webmail.yjc.ir&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray&headerType=http# VL-TCP-NONE  IR-46.245.72.13:20589
+vless://b29d6e27-1c5b-40ac-9386-115aebeb7d42@78.157.63.22:2082?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http# VL-TCP-NONE  IR-78.157.63.22:2082
+vless://6c534179-2478-49a6-b888-e2758acd940c@85.198.8.83:443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-85.198.8.83:443
+vless://c840f3ee-2e20-47a3-809f-8ac865ae3e0e@85.198.8.83:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-85.198.8.83:8443
+vless://8344a8b4-a190-45da-b2f5-a05d11ea9211@87.248.152.16:30132?security=none&type=tcp&host=host:nasa.gov&path=/&headerType=http# VL-TCP-NONE  IR-87.248.152.16:30132
+vless://dd894e42-3510-468a-8893-aa5299151bd0@213.176.0.13:4054?security=none&type=tcp&host=header.com&path=%2F&headerType=http# VL-TCP-NONE  IR-213.176.0.13:4054
+vless://40e02d20-584e-4e14-88f2-ab114d3af2af@193.151.137.187:2095?security=none&type=ws&path=%2F# VL-WS-NONE  IR-193.151.137.187:2095
+vless://7d043a1c-5417-491e-8c0a-d12f1dd8474a@87.107.146.77:8880?type=ws&host=aDmIn.SaNa-DoWnLoAd.Ir.&path=%2F# VL-WS-NA  IR-87.107.146.77:8880
+vless://ca4b4285-7048-4729-9fb5-d0249e37f16a@81.12.32.100:1001?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  IR-81.12.32.100:1001
+vless://0b7322f7-d71f-4742-b285-830b216112e4@95.38.210.163:2096?security=none&type=tcp&host=fast.com&headerType=http# VL-TCP-NONE  IR-95.38.210.163:2096
+vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521?type=tcp&host=match-cdn.varzesh3.com&headerType=http# VL-TCP-NA  IR-213.176.0.240:43521
+vless://08eca8a9-4135-4d36-848b-10e3e088ac9a@185.155.72.119:17132?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  IR-185.155.72.119:17132
+vless://c26b38af-bd9c-40a6-8efb-3e2bfc28ce8f@194.1.155.190:2087?security=none&type=tcp&host=bmi.ir&headerType=http# VL-TCP-NONE  IR-194.1.155.190:2087
+vless://1b7d2cf8-d507-4e44-91c7-eaef636d1d3b@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1# VL-WS-TLS  IR-185.143.233.120:2053
+vless://761e1e0f-12ae-484f-b71a-eeac0b67638a@46.245.72.13:30692?security=none&type=tcp&host=Webmail.yjc.ir&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray&headerType=http# VL-TCP-NONE  IR-46.245.72.13:30692
+vless://1b7d2cf8-d507-4e44-91c7-eaef636d1d3b@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1# VL-WS-TLS  IR-185.143.234.120:2053
+vless://414c7742-62cd-456c-90b8-50d4d9bd6900@78.109.194.92:58840?security=none&type=tcp&headerType=http# VL-TCP-NONE  IR-78.109.194.92:58840
+vless://fdb60214-1d03-4b83-c4b7-3d2d33c08073@81.12.27.91:21807?security=none&type=ws&path=%2F# VL-WS-NONE  IR-81.12.27.91:21807
+vless://ba457b87-cb8d-43a7-9d28-82bcfc11633e@62.60.141.117:27203?security=none&type=ws&path=%2F# VL-WS-NONE  IR-62.60.141.117:27203
+vless://f7742b66-202e-4c84-82c8-3d0116a75a9a@185.29.222.250:6443?security=none&type=tcp&host=www.speedtest.net&headerType=http# VL-TCP-NONE  IR-185.29.222.250:6443
+vless://bb062ff6-c66b-4afa-a0c6-05c0cadb46d9@46.245.65.87:2095?security=none&type=ws&host=www.speedtest.net&path=%2F-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------# VL-WS-NONE  IR-46.245.65.87:2095
+trojan://caabacb-abac-caab-adcb-bcacbbccbaaa@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
