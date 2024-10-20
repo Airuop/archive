@@ -3,9 +3,9 @@ import requests
 import time
 from datetime import datetime
 
-update_path = './update/'
+update_path = './fail/'
 
-url = 'https://raw.githubusercontent.com/tony-sung/clash-meta-configurations/main/subscription/others/node.txt'
+url = 'https://raw.githubusercontent.com/itsyebekhe/vpnfail/refs/heads/main/subscription/plain'
 response = requests.get(url)
 while True:
       time.sleep(10)
