@@ -5,7 +5,7 @@ from datetime import datetime
 
 update_path = './fail/'
 
-url = 'https://raw.githubusercontent.com/itsyebekhe/vpnfail/refs/heads/main/subscription/plain'
+url = 'https://raw.githubusercontent.com/Airuop/vpnfail/refs/heads/main/subscription/plain'
 response = requests.get(url)
 while True:
       time.sleep(10)
