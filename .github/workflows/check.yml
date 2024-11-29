@@ -25,7 +25,8 @@ jobs:
           git config credential.helper store
           git remote add upstream https://github.com/Airuop/archive
           git fetch upstream
-          git merge upstream/master
+          git merge upstream/master  
+          git pull origin master 
           git push origin master
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
