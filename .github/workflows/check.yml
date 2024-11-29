@@ -20,8 +20,19 @@ jobs:
           python ./tools/check.py
       - name: Commit & push changes
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "Cleaner"
-          git add -A
-          git commit --allow-empty -m "✅ Checked $(date '+%Y-%m-%d %H:%M:%S')" || true
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git config credential.helper store
+          git remote add upstream https://github.com/Airuop/archive
+          git fetch upstream
+          git merge upstream/master
           git push origin master
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit --allow-empty -m "✅ Checked $(date '+%Y-%m-%d %H:%M:%S')" || true
+            git push
+          else
+            echo "No changes to commit, skipping commit and push"
+          fi
+          
+
