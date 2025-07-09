@@ -7,8 +7,7 @@ from datetime import datetime
 
 update_path = './countries/ir/'
 
-url = ["https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed",
-       "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/country/IR/base64"]
+url = ["https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/IR"]
 
 servers = []
 
@@ -56,5 +55,6 @@ def backup(servers):
                   f.write(server)
   except OSError:
     print("Error writing backup file")
-
-backup(servers)
+         
+if len(servers) > 5:
+       backup(servers)
