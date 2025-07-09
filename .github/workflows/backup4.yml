@@ -24,7 +24,8 @@ jobs:
       - name: run py
         run: |
           python ./tools/backup4.py
-      - name: Commit & push changes
+
+      - name: Commit & push changes 
         run: |
           git remote add upstream https://github.com/Airuop/archive
           git fetch upstream 
@@ -34,6 +35,7 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config credential.helper store
           git add -A
-          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
+          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived" || echo "No changes to commit"
           git push
+
       
