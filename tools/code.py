@@ -4,9 +4,10 @@ import os
 
 
 # paths = ['./countries/ir/', './update/', './donated/', './selected/']
-paths = ['./selected/2312/','./selected/2401/','./selected/2402/','./selected/2403/','./selected/2404/','./selected/2405/']
+paths = ['./selected/2312/', './selected/2401/', './selected/2402/', './selected/2403/', './selected/2404/', './selected/2405/']
 
-def chunk_file(file_path, chunk_size=90*1024*1024):
+
+def chunk_file(file_path, chunk_size=90 * 1024 * 1024):
     print("chunk_file state")
 
     counter = 1
@@ -62,84 +63,82 @@ def merge_files(all_files, output_file):
 
 for path in paths:
 
-  output_file = f'{path}/integrated.txt'
-  output_file_ss = f'{path}/shadowsocks.txt'
-  output_file_vless = f'{path}/vless.txt'
-  output_file_vmess = f'{path}/vmess.txt'
-  output_file_others = f'{path}/others.txt'
-  # Remove old final and integrated files
+    output_file = f'{path}/integrated.txt'
+    output_file_ss = f'{path}/shadowsocks.txt'
+    output_file_vless = f'{path}/vless.txt'
+    output_file_vmess = f'{path}/vmess.txt'
+    output_file_others = f'{path}/others.txt'
+    # Remove old final and integrated files
 
-  for file in os.listdir(path):
-          if 'integrated' in file or 'ss' in file or 'shadowsocks' in file or 'others' in file  or 'final' in file:
-              file_path = os.path.join(path, file)
-              os.remove(file_path)
+    for file in os.listdir(path):
+        if 'integrated' in file or 'ss' in file or 'shadowsocks' in file or 'others' in file or 'final' in file:
+            file_path = os.path.join(path, file)
+            os.remove(file_path)
 
-  all_files = get_all_paths(path)
-  merge_files(all_files, output_file)
+    all_files = get_all_paths(path)
+    merge_files(all_files, output_file)
 
-  with open(output_file) as f:
-      lines = f.readlines()
+    with open(output_file) as f:
+        lines = f.readlines()
 
+    # keys = []
+    # for line in lines:
+    #   print(line)
+    #   match = re.search(r'@([^?]+)?\s*(\S+)', line)
+    #   if match:
+    #     key = match.group(1)
+    #   else:
+    #     key = '0'
+    #   keys.append(key)
+    # #print('key = %s , keys=%s' %(key, keys))
+    # sorted_lines = [lines[keys.index(key)] for key in natsort.natsorted(keys)]
 
-  # keys = []
-  # for line in lines:
-  #   print(line)
-  #   match = re.search(r'@([^?]+)?\s*(\S+)', line)
-  #   if match:
-  #     key = match.group(1)
-  #   else:
-  #     key = '0'
-  #   keys.append(key)
-  # #print('key = %s , keys=%s' %(key, keys))
-  # sorted_lines = [lines[keys.index(key)] for key in natsort.natsorted(keys)]
+    deduped_lines = []
+    # replace sorted_lines with lines
+    for line in lines:
+        if line not in deduped_lines:
+            deduped_lines.append(line)
 
+    ssLi = []
+    vlessLi = []
+    vmessLi = []
+    othersLi = []
 
-  deduped_lines = []
-  # replace sorted_lines with lines
-  for line in lines:
-      if line not in deduped_lines:
-          deduped_lines.append(line)
+    for line in deduped_lines:
+        protocol = line.split("://")[0]
+        if protocol == 'ss':
+            ssLi.append(line)
+        elif protocol == 'vless':
+            vlessLi.append(line)
+        elif protocol == 'vmess':
+            vmessLi.append(line)
+        else:
+            othersLi.append(line)
 
-  ssLi = []
-  vlessLi = []
-  vmessLi = []
-  othersLi = []
+    with open(output_file_ss, 'w') as outfile:
+        for line in ssLi:
+            outfile.write(line)
 
-  for line in deduped_lines:
-      protocol = line.split("://")[0]
-      if protocol == 'ss':
-          ssLi.append(line)
-      elif protocol == 'vless':
-          vlessLi.append(line)
-      elif protocol == 'vmess':
-          vmessLi.append(line)
-      else:
-          othersLi.append(line)
+    with open(output_file_vless, 'w') as outfile:
+        for line in vlessLi:
+            outfile.write(line)
 
-  with open(output_file_ss, 'w') as outfile:
-      for line in ssLi:
-          outfile.write(line)
+    with open(output_file_vmess, 'w') as outfile:
+        for line in vmessLi:
+            outfile.write(line)
 
-  with open(output_file_vless, 'w') as outfile:
-      for line in vlessLi:
-          outfile.write(line)
+    with open(output_file_others, 'w') as outfile:
+        for line in othersLi:
+            outfile.write(line)
 
-  with open(output_file_vmess, 'w') as outfile:
-      for line in vmessLi:
-          outfile.write(line)
+    chunk_file(output_file)
+    chunk_file(output_file_ss)
+    chunk_file(output_file_vless)
+    chunk_file(output_file_vmess)
+    chunk_file(output_file_others)
 
-  with open(output_file_others, 'w') as outfile:
-      for line in othersLi:
-          outfile.write(line)
-
-  chunk_file(output_file)
-  chunk_file(output_file_ss)
-  chunk_file(output_file_vless)
-  chunk_file(output_file_vmess)
-  chunk_file(output_file_others)
-    
-  changeName('shadowsocks', path)
-  changeName('vless', path)
-  changeName('vmess', path)
-  changeName('others', path)
-  changeName('integrated', path)
+    changeName('shadowsocks', path)
+    changeName('vless', path)
+    changeName('vmess', path)
+    changeName('others', path)
+    changeName('integrated', path)

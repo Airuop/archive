@@ -5,23 +5,25 @@ import time
 import re
 from datetime import datetime
 
+
 def backup(response):
-  date_dir = datetime.now().strftime("%y%m")
-  date_file = datetime.now().strftime("%y%m%d_%H%M") + "M"
+    date_dir = datetime.now().strftime("%y%m")
+    date_file = datetime.now().strftime("%y%m%d_%H%M") + "M"
 
-  try:
-    os.makedirs(f"{update_path}/{date_dir}", exist_ok=True)
-  except OSError:
-    print("Error creating backup directory")
-    return
+    try:
+        os.makedirs(f"{update_path}/{date_dir}", exist_ok=True)
+    except OSError:
+        print("Error creating backup directory")
+        return
 
-  file_path = f"{update_path}/{date_dir}/{date_file}.txt"
+    file_path = f"{update_path}/{date_dir}/{date_file}.txt"
 
-  try:  
-    with open(file_path, "w", encoding="utf-8") as f:
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
             f.write(response)
-  except OSError:
-    print("Error writing backup file")
+    except OSError:
+        print("Error writing backup file")
+
 
 print("py code try for get data...")
 update_path = './donated/'
@@ -46,11 +48,11 @@ else:
     print(f"Failed to retrieve the URL after {MAX_ATTEMPTS} attempts")
     res = 0
 
-if res != 0:      
+if res != 0:
     encoded_str = res.content
     decoded_bytes = base64.b64decode(encoded_str)
-    decoded_str = decoded_bytes.decode('utf-8') 
+    decoded_str = decoded_bytes.decode('utf-8')
 
     # Remove unsupported characters before encoding
-    cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)  
+    cleaned_str = re.sub(r'[^\x00-\x7F]+', '', decoded_str)
     backup(cleaned_str)
