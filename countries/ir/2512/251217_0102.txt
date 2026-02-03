@@ -1,1 +1,0 @@
-vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40Fr33C0nfig%20%5B9%5D

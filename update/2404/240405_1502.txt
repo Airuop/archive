@@ -1,8 +1,0 @@
-#profile-title: base64:VFZDIHwgUkVBTElUWQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
-vless://cc4d3871-e0ac-4024-b31c-18e630894016@185.17.136.177:2053?authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=xyz&sni=cdn.discordapp.com&spx=%2F%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY--%40ELiV2RAY&type=grpc#رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣3️⃣
-vless://6ad624f4-c1e0-4911-e3fd-f0e9d797991b@footlo.argha-v2pedia.monster:443?encryption=none&fp=chrome&mode=gun&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&security=reality&serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&sid=da&sni=tuyacn.com&spx=%2F&type=grpc#رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣

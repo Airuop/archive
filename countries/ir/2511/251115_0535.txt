@@ -1,6 +1,0 @@
-vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40Fr33C0nfig%20%5B9%5D
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?type=tcp&headerType=http&host=fast.com&path=%2F&mux=8#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ehsawn8%20%5B1%5D
-vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269?type=ws&path=%2F%40VPNlime&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40foxnt%20%5B5%5D
-vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269?type=ws&path=%2F%40VPNlime&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40foxnt%20%5B6%5D
-vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269?type=ws&path=%2F%40VPNlime&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_fark%20%5B7%5D
-vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269?type=ws&path=%2F%40VPNlime&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_fark%20%5B8%5D

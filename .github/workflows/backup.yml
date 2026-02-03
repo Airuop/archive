@@ -1,38 +1,63 @@
 name: Backup
+
 on:
   workflow_dispatch:
-  #push:
   schedule:
-    # - cron: '*/5 * * * *'
-    # 表达式生成  https://crontab.guru/
-    - cron: "30 */1 * * *"
+    - cron: "0 8 * * *"
+
 jobs:
   main:
     name: Backup
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4.7.0
+
+      - uses: actions/checkout@v6.0.1
+      - uses: actions/setup-python@v6.1.0
         with:
-          python-version: "3.11"
+          python-version: "3.11.14"
+
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Tehran'
+
       - name: Install Requirements
         run: |
           pip install requests
+
       - name: run py
         run: |
           python ./tools/backup.py
-      - name: Commit & push changes
+
+      - name: Commit & push Send_Json changes
+        continue-on-error: true
         run: |
-          git remote add upstream https://github.com/Airuop/archive
-          git fetch upstream 
-          git merge upstream/master
-          git push origin master
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git config credential.helper store
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          
+          # 1. Get latest from remote
+          echo "🔄 Pulling latest changes..."
+          git pull origin main || {
+            echo "⚠️  Pull failed, trying with rebase..."
+            git pull origin main --rebase
+          }
+          
+          # 2. Check if previous step made any changes
+          echo "📊 Checking for changes..."
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "✅ No changes detected - nothing to commit"
+            exit 0
+          fi
+          
+          # 3. Show what changed
+          echo "📝 Changes detected:"
+          git status --porcelain
+          
+          # 4. Stage and commit
+          echo "💾 Committing changes..."
           git add -A
-          git commit -m "🌿 $(date '+%Y-%m-%d %H:%M:%S') archived"
-          git push
+          git commit -m "🌿  Node Archived - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          
+          # 5. Push
+          echo "🚀 Pushing to GitHub..."
+          git push origin main
+          echo "✅ Done!"

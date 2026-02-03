@@ -1,7 +1,0 @@
-#profile-title: base64:VFZDIHwgUkVBTElUWQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
-vless://ae5aed77-be23-4f6c-bd51-c73745038952@allrevolt.r8volt.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&security=reality&sid=bfde1c85a6a4112a&sni=maps.google.com&type=tcp#رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣
