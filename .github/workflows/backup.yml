@@ -2,11 +2,15 @@ name: Backup
 
 on:
   workflow_dispatch:
-  push: 
-    - paths: 'run.txt'
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'run.txt'
   schedule:
-    - cron: "0 8 * * *"
-
+    - cron: '0 8 * * *'
+    
 jobs:
   main:
     name: Backup
