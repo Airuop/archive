@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - './tools/run.txt'
+      - './tools'
   schedule:
     - cron: '0 8 * * *'
     
