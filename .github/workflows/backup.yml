@@ -2,8 +2,8 @@ name: Backup
 
 on:
   workflow_dispatch:
-  push:
-    path: ./tools/run.txt
+  push: 
+    - paths: 'run.txt'
   schedule:
     - cron: "0 8 * * *"
 
