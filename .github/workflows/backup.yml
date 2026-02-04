@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
       - master
     paths:
       - './tools/run.txt'
@@ -42,9 +41,9 @@ jobs:
           
           # 1. Get latest from remote
           echo "🔄 Pulling latest changes..."
-          git pull origin main || {
+          git pull origin master || {
             echo "⚠️  Pull failed, trying with rebase..."
-            git pull origin main --rebase
+            git pull origin master --rebase
           }
           
           # 2. Check if previous step made any changes
@@ -65,5 +64,5 @@ jobs:
           
           # 5. Push
           echo "🚀 Pushing to GitHub..."
-          git push origin main
+          git push origin master
           echo "✅ Done!"
