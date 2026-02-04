@@ -123,10 +123,11 @@ def encode_line(line: str) -> str:
 
 
 def merge_and_export(texts: list[str], output_dir: str = UPDATE_PATH) -> None:
-    """Generate both raw.txt and base64.txt from multiple config texts."""
+    """Generate raw.txt, base64.txt, and protocol-specific files from multiple config texts."""
     raw_lines = []
     encoded_lines = []
     seen = set()
+    protocol_dict = {p[:-3] if p.endswith("://") else p: [] for p in PROTOCOL_PREFIXES}  # store lines by protocol
 
     for text in texts:
         for line in text.splitlines():
@@ -139,22 +140,36 @@ def merge_and_export(texts: list[str], output_dir: str = UPDATE_PATH) -> None:
                 encoded = encode_line(line)
                 if encoded:
                     encoded_lines.append(encoded)
+                # Assign line to protocol-specific list
+                for proto in PROTOCOL_PREFIXES:
+                    if line.startswith(proto):
+                        protocol_dict[proto[:-3] if proto.endswith("://") else proto].append(line)
+                        break
 
     os.makedirs(output_dir, exist_ok=True)
 
     # RAW output
-    raw_file = os.path.join(output_dir, f"raw.txt")
+    raw_file = os.path.join(output_dir, "raw.txt")
     with open(raw_file, "w", encoding="utf-8") as f:
         f.write("\n".join(raw_lines))
     print(f"\n✅ Raw merged file created: {raw_file} ({len(raw_lines)} links)")
 
     # BASE64 output
-    base64_file = os.path.join(output_dir, f"base64.txt")
+    base64_file = os.path.join(output_dir, "base64.txt")
     final_payload = "\n".join(encoded_lines)
     final_base64 = base64.b64encode(final_payload.encode()).decode()
     with open(base64_file, "w", encoding="utf-8") as f:
         f.write(final_base64)
     print(f"✅ Base64 subscription file created: {base64_file} ({len(encoded_lines)} links)")
+
+    # Protocol-specific files
+    for proto, lines in protocol_dict.items():
+        if lines:
+            proto_file = os.path.join(output_dir, f"{proto}.txt")
+            with open(proto_file, "w", encoding="utf-8") as f:
+                f.write("\n".join(lines))
+            print(f"📄 {proto} file created: {proto_file} ({len(lines)} links)")
+
 
 
 # ------------------ USAGE ------------------
@@ -162,6 +177,7 @@ def merge_and_export(texts: list[str], output_dir: str = UPDATE_PATH) -> None:
 urls = [
     "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
     "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/githubmirror/new/all_new.txt",
+    "https://amirrezafarnamtaheri.github.io/ConfigStream/proxies.txt",
 ]
 
 results = fetch_urls(urls, timeout=5, retry_count=2)
