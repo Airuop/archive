@@ -178,6 +178,7 @@ urls = [
     "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
     "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/githubmirror/new/all_new.txt",
     "https://amirrezafarnamtaheri.github.io/ConfigStream/proxies.txt",
+    "https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/main/mixed_iran.txt",
 ]
 
 results = fetch_urls(urls, timeout=5, retry_count=2)
