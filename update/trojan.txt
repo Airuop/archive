@@ -1,228 +1,250 @@
-trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20556634
-trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20665071
-trojan://humanity@104.18.8.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20551658
-trojan://humanity@104.18.8.83:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20373296
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20519993
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20828534
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20399375
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20866754
-trojan://humanity@104.18.8.83:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20852632
-trojan://humanity@104.18.9.83:443?security=tls&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20231478
-trojan://humanity@104.18.1.55:443?type=ws&security=tls&path=%2Fassignment&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20789586
-trojan://humanity@104.18.1.55:443?security=tls&fp=chrome&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20234461
-trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20562053
-trojan://humanity@104.18.1.55:443?type=ws&security=tls&path=/assignment&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20794041
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20600490
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20609061
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20740397
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20301128
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20399605
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20950650
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20630486
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20829176
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20917300
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20846232
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20747052
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20609577
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20620682
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20472436
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20572790
-trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20545195
-trojan://T9BpZIVMNv@172.66.47.45:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20311536
-trojan://humanity@172.66.44.211:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20654341
-trojan://humanity@172.66.47.45:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20579841
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20669518
-trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20323064
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20414179
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20177519
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20521277
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119549
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@172.67.220.213:443?security=tls&sni=njki.222856.xyz&alpn=http/1.1&type=ws&host=njki.222856.xyz&path=/ks4McWjhV7bXNC0BXGtJ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20957493
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.160.92:443?security=tls&sni=cvg67.0yo.ccwu.cc&alpn=http/1.1&type=ws&host=cvg67.0yo.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20326594
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.77.79:443?security=tls&sni=bnhy7.986986.shop&alpn=http/1.1&type=ws&host=bnhy7.986986.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805306
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.205.157:443?security=tls&sni=bnhy7.986986.shop&type=ws&host=bnhy7.986986.shop&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840970
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101539
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708419
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20347551
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=nji9768.006660666.xyz&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310284
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102852
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20324689
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=ttt6.006660666.xyz&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20957574
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917705
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861976
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.213.142:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&alpn=http/1.1&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986510
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.213.142:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20800663
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@172.67.165.18:443?security=tls&sni=rft5.xx9.ccwu.cc&alpn=http/1.1&type=ws&host=rft5.xx9.ccwu.cc&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20816027
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.34.95:443?security=tls&sni=ggggs.7no.ccwu.cc&alpn=http/1.1&type=ws&host=ggggs.7no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20247952
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.34.95:443?security=tls&sni=ggggs.7no.ccwu.cc&type=ws&host=ggggs.7no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959493
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.61.154:443?security=tls&sni=hhhhhhhhj.191266.xyz&type=ws&host=hhhhhhhhj.191266.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273038
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mki.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mki.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20778851
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.80.141:443?security=tls&sni=mki.huangzi.eu.cc&type=ws&host=mki.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20902502
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.81.247:443?security=tls&sni=bmk.988988.shop&alpn=http/1.1&type=ws&host=bmk.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948197
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.81.247:443?security=tls&sni=bmk.988988.shop&type=ws&host=bmk.988988.shop&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20896512
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.18.156:443?security=tls&sni=bnhju.8mm.ccwu.cc&alpn=http/1.1&type=ws&host=bnhju.8mm.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20114829
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.64.80.1:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http/1.1&type=ws&host=OOIuyT.890699.xYZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20391817
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.64.80.1:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http/1.1&type=ws&host=oOiUyT.890699.Xyz&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20202325
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.64.80.1:443?security=tls&sni=OOIuyT.890699.xYZ&type=ws&host=OOIuyT.890699.xYZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20542756
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=njk.003330333.xyz&alpn=http/1.1&type=ws&host=njk.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801547
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=njk.003330333.xyz&type=ws&host=njk.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20751362
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=nmki.1qq.ccwu.cc&alpn=http/1.1&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20383048
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=nmki.1qq.ccwu.cc&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20543053
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.35.150:443?security=tls&sni=njui.9jj.ccwu.cc&alpn=http/1.1&type=ws&host=njui.9jj.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651671
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.176.252:443?security=tls&sni=njui.9jj.ccwu.cc&type=ws&host=njui.9jj.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20212336
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.133.150:443?security=tls&sni=vbbns.1c0.ccwu.cc&alpn=http/1.1&type=ws&host=vbbns.1c0.ccwu.cc&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20573671
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@172.67.161.129:443?security=tls&sni=o0.666470.xyz&alpn=http/1.1&type=ws&host=o0.666470.xyz&path=/ks4McWjhV7bXNC0BXGtJ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738613
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?security=tls&sni=gggbnh7.www890604.dpdns.org&type=ws&host=gggbnh7.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854109
-trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714192
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?security=tls&sni=hhynnmki.www890604.dpdns.org&type=ws&host=hhynnmki.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748035
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=mk.818185.xyz&alpn=http/1.1&type=ws&host=mk.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20989914
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@104.21.38.90:443?security=tls&sni=zzs.222856.xyz&type=ws&host=zzs.222856.xyz&path=/ks4McWjhV7bXNC0BXGtJ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924781
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@104.21.38.90:443?security=tls&sni=zzs.222856.xyz&alpn=http/1.1&type=ws&host=zzs.222856.xyz&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20617173
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.36.19:443?security=tls&sni=nju.taipei104.indevs.in&alpn=http/1.1&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146114
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.183.73:443?security=tls&sni=nju.taipei104.indevs.in&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197725
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=ji9.ok1.indevs.in&alpn=http/1.1&type=ws&host=ji9.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555675
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=u8.ok1.indevs.in&alpn=http/1.1&type=ws&host=u8.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521171
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.75.124:443?security=tls&sni=mki.dddc.ccwu.cc&alpn=http/1.1&type=ws&host=mki.dddc.ccwu.cc&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281837
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670232
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20315428
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807874
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839356
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738332
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.3.129:443?security=tls&sni=dcvwsde.1gg.ccwu.cc&alpn=http/1.1&type=ws&host=dcvwsde.1gg.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20371112
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.64.80.1:443?security=tls&sni=tgh.iran2029.indevs.in&alpn=http/1.1&type=ws&host=tgh.iran2029.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20757024
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.64.80.1:443?security=tls&sni=tgh.iran2029.indevs.in&type=ws&host=tgh.iran2029.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20657282
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20982418
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20999509
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20825007
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484678
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=eEFRt.890699.xyz&alpn=http/1.1&type=ws&host=eEFRT.890699.xyZ&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20518069
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=eEFRt.890699.xyz&type=ws&host=eEFRT.890699.xyZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20552025
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=hnm.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=hnm.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20459268
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=hnm.huangdi2025.dpdns.org&type=ws&host=hnm.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348429
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.80.227:443?security=tls&sni=yhj.huangshang2026.indevs.in&alpn=http/1.1&type=ws&host=yhj.huangshang2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601820
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.80.227:443?security=tls&sni=yhj.huangshang2026.indevs.in&type=ws&host=yhj.huangshang2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106061
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@104.21.85.29:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20298661
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.195.13:443?security=tls&sni=bghy.1x9.indevs.in&alpn=http/1.1&type=ws&host=bghy.1x9.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20149285
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.156.83:443?security=tls&sni=bnhju.dddct.us.ci&alpn=http/1.1&type=ws&host=bnhju.dddct.us.ci&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344443
-trojan://c52d2de2-fc6d-490c-8421-132f87615736@172.67.130.41:443?security=tls&sni=bgty6.852224.xyz&alpn=http/1.1&type=ws&host=bgty6.852224.xyz&path=/PDbJ6Qn4xImwtg6PusRbe#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20835523
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.176.134:443?security=tls&sni=mkl.2oo.ccwu.cc&type=ws&host=mkl.2oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20678863
-trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&type=ws&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639352
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=bnh.818185.xyz&alpn=http/1.1&type=ws&host=bnh.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665175
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=bnh.818185.xyz&type=ws&host=bnh.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892617
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.64.80.1:443?security=tls&sni=ui.huangshang.indevs.in&alpn=http/1.1&type=ws&host=ui.huangshang.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20484841
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.81.247:443?security=tls&sni=9io.988988.shop&alpn=http/1.1&type=ws&host=9io.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297374
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.215.249:443?security=tls&sni=nnmki9.8pp.ccwu.cc&alpn=http/1.1&type=ws&host=nnmki9.8pp.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394246
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.215.249:443?security=tls&sni=nnmki9.8pp.ccwu.cc&type=ws&host=nnmki9.8pp.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20441490
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20159533
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642378
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=hju9.003330333.xyz&alpn=http/1.1&type=ws&host=hju9.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688450
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mk8.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917392
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.196.73:443?security=tls&sni=hhjk.huangzi.cfd&alpn=http/1.1&type=ws&host=hhjk.huangzi.cfd&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541669
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.60.124:443?security=tls&sni=hhjk.huangzi.cfd&type=ws&host=hhjk.huangzi.cfd&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20552746
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.219.203:443?security=tls&sni=nmk9o.1yy.ccwu.cc&alpn=http/1.1&type=ws&host=nmk9o.1yy.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20355685
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.91.128:443?security=tls&sni=nmk9o.1yy.ccwu.cc&type=ws&host=nmk9o.1yy.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20133475
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.206.177:443?security=tls&sni=jki.huangdi.indevs.in&alpn=http/1.1&type=ws&host=jki.huangdi.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204687
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.64.80.1:443?security=tls&sni=hju.huangdi.eu.cc&alpn=http/1.1&type=ws&host=hju.huangdi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20363525
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=jmkg.818185.xyz&alpn=http/1.1&type=ws&host=jmkg.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20154384
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=jmkg.818185.xyz&type=ws&host=jmkg.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206702
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.64.80.1:443?security=tls&sni=jko0.dddc.de5.net&alpn=http/1.1&type=ws&host=jko0.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20827848
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.64.80.1:443?security=tls&sni=jko0.dddc.de5.net&type=ws&host=jko0.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20357664
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=ghty.003330333.xyz&alpn=http/1.1&type=ws&host=ghty.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20996952
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=ghty.003330333.xyz&type=ws&host=ghty.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20213135
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=jjkii.003330333.xyz&alpn=http/1.1&type=ws&host=jjkii.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922544
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=jjkii.003330333.xyz&type=ws&host=jjkii.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541995
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.2.154:443?security=tls&sni=rt.freevpn.qzz.io&alpn=http/1.1&type=ws&host=rt.freevpn.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875676
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.2.154:443?security=tls&sni=rt.freevpn.qzz.io&type=ws&host=rt.freevpn.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20169612
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.64.80.1:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http/1.1&type=ws&host=KkKkki.231.PP.Ua&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20950780
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.64.80.1:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http/1.1&type=ws&host=KKKkKi.231.pp.Ua&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20945487
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=nhj.1jj.ccwu.cc&alpn=http/1.1&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20415626
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=nhj.1jj.ccwu.cc&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20353064
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.10.179:443?security=tls&sni=njki.dddc.de5.net&alpn=http/1.1&type=ws&host=njki.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20227853
-trojan://b020865b-7404-4894-ba65-a7414b10cda3@172.64.80.1:443?security=tls&sni=uu.852224.xyz&alpn=http/1.1&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20653955
-trojan://b020865b-7404-4894-ba65-a7414b10cda3@172.64.80.1:443?security=tls&sni=uu.852224.xyz&alpn=http/1.1&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20818775
-trojan://b020865b-7404-4894-ba65-a7414b10cda3@172.64.80.1:443?security=tls&sni=uu.852224.xyz&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20112781
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.11.229:443?security=tls&sni=mjki.1nn.ccwu.cc&alpn=http/1.1&type=ws&host=mjki.1nn.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256590
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20995138
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306290
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646661
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20508288
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20536583
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20254269
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=hnyu.818185.xyz&alpn=http/1.1&type=ws&host=hnyu.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854086
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.52.109:443?security=tls&sni=hj.huangshang.qzz.io&type=ws&host=hj.huangshang.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991173
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.198.49:443?security=tls&sni=hj.huangshang.qzz.io&alpn=http/1.1&type=ws&host=hj.huangshang.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844312
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=m9o0.1xq.indevs.in&type=ws&host=m9o0.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20904842
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=m9o0.1xq.indevs.in&alpn=http/1.1&type=ws&host=m9o0.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20638850
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.141.130:443?security=tls&sni=nhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251377
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.141.130:443?security=tls&sni=nhju.h2e.indevs.in&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327296
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.64.80.1:443?security=tls&sni=nnggf.66x.ccwu.cc&alpn=http/1.1&type=ws&host=nnggf.66x.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20649530
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.159.9:443?security=tls&sni=nmkki.8no.ccwu.cc&alpn=http/1.1&type=ws&host=nmkki.8no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912423
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.10.179:443?security=tls&sni=mmkj.dddc.de5.net&alpn=http/1.1&type=ws&host=mmkj.dddc.de5.net&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20433964
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.10.179:443?security=tls&sni=mmkj.dddc.de5.net&type=ws&host=mmkj.dddc.de5.net&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560537
-trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20887543
-trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443?security=tls&type=tcp&headerType=none&path=🔒#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293027
-trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357028
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20398507
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783277
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872166
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20278070
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20704759
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337799
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466262
-trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@104.21.50.115:443?security=tls&sni=bbbnhju.1xa.ccwu.cc&type=ws&host=bbbnhju.1xa.ccwu.cc&path=/7vMsF4VUuJ3dX414bl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20335754
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20980805
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20416570
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497311
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.64.80.1:443?security=tls&sni=uuujki.7777112.xyz&type=ws&host=uuujki.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20275330
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.213.166:443?security=tls&sni=vvvbnhju.932.pp.ua&type=ws&host=vvvbnhju.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730214
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?security=tls&sni=thj.huangzi.cfd&alpn=http/1.1&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963718
-trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?security=tls&sni=thj.huangzi.cfd&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682073
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=bgt.1x2.indevs.in&alpn=http/1.1&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20478204
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?security=tls&sni=bgt.1x2.indevs.in&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20980087
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:443?sni=bgt.1x2.indevs.in&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20526977
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.157.61:443?security=tls&sni=kklo.1xq.indevs.in&alpn=http/1.1&type=ws&host=kklo.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297641
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.157.61:443?security=tls&sni=kklo.1xq.indevs.in&type=ws&host=kklo.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500045
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=ghj.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=ghj.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20953139
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=ghj.huangdi2025.dpdns.org&type=ws&host=ghj.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529344
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=hji.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=hji.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619721
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=hji.huangdi2025.dpdns.org&type=ws&host=hji.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232523
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=i9.003330333.xyz&alpn=http/1.1&type=ws&host=i9.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20814660
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.148.89:443?security=tls&sni=jiu.ok1.indevs.in&alpn=http/1.1&type=ws&host=jiu.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20675489
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=jiu.ok1.indevs.in&type=ws&host=jiu.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914096
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.34.95:443?security=tls&sni=nhjk.7no.ccwu.cc&alpn=http/1.1&type=ws&host=nhjk.7no.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394882
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.158.223:443?security=tls&sni=nhjk.7no.ccwu.cc&type=ws&host=nhjk.7no.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705662
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.159.205:443?security=tls&sni=nnggnjj.6yy.ccwu.cc&alpn=http/1.1&type=ws&host=nnggnjj.6yy.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509764
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.201.33:443?security=tls&sni=ghj.husngahng.click&alpn=http/1.1&type=ws&host=ghj.husngahng.click&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20475753
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.52.154:443?security=tls&sni=ghj.husngahng.click&type=ws&host=ghj.husngahng.click&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20778353
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.61.229:443?security=tls&sni=hjk.freevpn2027.dpdns.org&alpn=http/1.1&type=ws&host=hjk.freevpn2027.dpdns.org&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529980
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.61.229:443?security=tls&sni=hjk.freevpn2027.dpdns.org&type=ws&host=hjk.freevpn2027.dpdns.org&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960875
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.156.83:443?security=tls&sni=jjjki.dddct.us.ci&alpn=http/1.1&type=ws&host=jjjki.dddct.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307778
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.32.229:443?security=tls&sni=jjjki.dddct.us.ci&type=ws&host=jjjki.dddct.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569652
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.139.251:443?security=tls&sni=kklio.dddc.us.ci&alpn=http/1.1&type=ws&host=kklio.dddc.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733891
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.153.222:443?security=tls&sni=yhj.iran2026.indevs.in&alpn=http/1.1&type=ws&host=yhj.iran2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478764
-trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.153.222:443?security=tls&sni=yhj.iran2026.indevs.in&type=ws&host=yhj.iran2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20518794
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20136847
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240282
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.176.102:443?security=tls&sni=ddffghy.0wu.ccwu.cc&alpn=http/1.1&type=ws&host=ddffghy.0wu.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818253
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.142.8:443?security=tls&sni=fbnji.1sb.ccwu.cc&alpn=http/1.1&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922139
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=scvf65.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=scvf65.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217325
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.157.38:443?security=tls&sni=GGbnHY.890699.XYZ&alpn=http/1.1&type=ws&host=GgBnhY.890699.XYz&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273236
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=GGbnHY.890699.XYZ&type=ws&host=GgBnhY.890699.XYz&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20624138
-trojan://adb13850-7e70-492e-85b2-01184801d587@154.36.162.129:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332043
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@172.64.80.1:443?security=tls&sni=vbgh.8900604.xyz&alpn=http/1.1&type=ws&host=vbgh.8900604.xyz&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20269271
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@172.64.80.1:443?security=tls&sni=zzs.666461.xyz&alpn=http/1.1&type=ws&host=zzs.666461.xyz&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20860141
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.87.49:443?security=tls&sni=mhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=mhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20765597
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.141.130:443?security=tls&sni=mhju.h2e.indevs.in&type=ws&host=mhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639525
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.71.217:443?security=tls&sni=mmjk.3oo.ccwu.cc&type=ws&host=mmjk.3oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426228
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.146.21:443?security=tls&sni=bnhhju.9no.ccwu.cc&alpn=http/1.1&type=ws&host=bnhhju.9no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20362141
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=hnj.818185.xyz&alpn=http/1.1&type=ws&host=hnj.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457911
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=vbhju.818185.xyz&alpn=http/1.1&type=ws&host=vbhju.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562703
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=vbhju.818185.xyz&type=ws&host=vbhju.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20461694
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20853672
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343863
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20782694
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20549096
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20568383
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20206744
+trojan://humanity@104.18.9.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20473740
+trojan://humanity@104.18.8.83:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353155
+trojan://humanity@104.18.8.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20752106
+trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20848364
+trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909271
+trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20612280
+trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610590
+trojan://humanity@104.18.8.83:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211640
+trojan://humanity@104.18.9.83:443?security=tls&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184725
+trojan://humanity@104.18.0.55:443?type=ws&security=tls&path=%2Fassignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20751479
+trojan://humanity@104.18.1.55:443?security=tls&encryption=none&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20362354
+trojan://humanity@104.18.1.55:443?security=tls&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910928
+trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20311120
+trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20903355
+trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142648
+trojan://humanity@104.18.0.55:443?security=tls&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20954105
+trojan://humanity@104.18.0.55:443?type=ws&security=tls&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20661712
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557003
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160451
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20574777
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608718
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20813462
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662224
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20589995
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20838802
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375734
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840021
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351940
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20949807
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20326356
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119820
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20897640
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20621996
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20863017
+trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20563382
+trojan://T9BpZIVMNv@172.66.47.45:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590379
+trojan://humanity@172.66.47.45:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20551361
+trojan://humanity@172.66.44.211:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118300
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900223
+trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20517243
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353032
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569258
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20253584
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959911
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20155583
+trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614296
+trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20447617
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626740
+trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@104.21.50.115:443?security=tls&sni=bbbnhju.1xa.ccwu.cc&type=ws&host=bbbnhju.1xa.ccwu.cc&path=/7vMsF4VUuJ3dX414bl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474740
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.89.136:443?security=tls&sni=nnggnjj.6yy.ccwu.cc&alpn=http/1.1&type=ws&host=nnggnjj.6yy.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20606751
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.34.95:443?security=tls&sni=ggggs.7no.ccwu.cc&alpn=http/1.1&type=ws&host=ggggs.7no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20328072
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.158.223:443?security=tls&sni=ggggs.7no.ccwu.cc&type=ws&host=ggggs.7no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147558
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.176.102:443?security=tls&sni=ddffghy.0wu.ccwu.cc&alpn=http/1.1&type=ws&host=ddffghy.0wu.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492237
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.176.102:443?security=tls&sni=ddffghy.0wu.ccwu.cc&type=ws&host=ddffghy.0wu.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488940
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.88.226:443?security=tls&sni=gggbnh7.www890604.dpdns.org&type=ws&host=gggbnh7.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586506
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.34.95:443?security=tls&sni=nhjk.7no.ccwu.cc&alpn=http/1.1&type=ws&host=nhjk.7no.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20365739
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.34.95:443?security=tls&sni=nhjk.7no.ccwu.cc&type=ws&host=nhjk.7no.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642202
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446947
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20926339
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.213.166:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20538164
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.66.103:443?security=tls&sni=nmkki.8no.ccwu.cc&alpn=http/1.1&type=ws&host=nmkki.8no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20262160
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.216.10:443?security=tls&sni=hjk.freevpn2027.dpdns.org&alpn=http/1.1&type=ws&host=hjk.freevpn2027.dpdns.org&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898793
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.216.10:443?security=tls&sni=hjk.freevpn2027.dpdns.org&type=ws&host=hjk.freevpn2027.dpdns.org&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20701900
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.154.222:443?security=tls&sni=hju.huangdi.eu.cc&alpn=http/1.1&type=ws&host=hju.huangdi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373618
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.154.222:443?security=tls&sni=hju.huangdi.eu.cc&type=ws&host=hju.huangdi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20187086
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.183.73:443?security=tls&sni=nju.taipei104.indevs.in&alpn=http/1.1&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307879
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.36.19:443?security=tls&sni=nju.taipei104.indevs.in&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20939639
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=dddfghyju.taipei102.indevs.in&alpn=http/1.1&fp=chrome&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20554089
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=dddfghyju.taipei102.indevs.in&alpn=http/1.1&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856905
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=dddfghyju.taipei102.indevs.in&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344997
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.215.249:443?security=tls&sni=nnmki9.8pp.ccwu.cc&alpn=http/1.1&type=ws&host=nnmki9.8pp.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840676
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.91.111:443?security=tls&sni=nnmki9.8pp.ccwu.cc&type=ws&host=nnmki9.8pp.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245728
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.156.83:443?security=tls&sni=jjjki.dddct.us.ci&alpn=http/1.1&type=ws&host=jjjki.dddct.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735946
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.32.229:443?security=tls&sni=jjjki.dddct.us.ci&type=ws&host=jjjki.dddct.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273069
+trojan://Nova-Proxy@172.67.211.78:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&type=ws&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20459180
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.141.130:443?security=tls&sni=nhju.h2e.indevs.in&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20123033
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.141.130:443?security=tls&sni=nhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776181
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662939
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.192.35:443?security=tls&sni=bmk.988988.shop&alpn=http/1.1&type=ws&host=bmk.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20888557
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.81.247:443?security=tls&sni=bmk.988988.shop&type=ws&host=bmk.988988.shop&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20371546
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.14.4:443?security=tls&sni=vbbns.1c0.ccwu.cc&alpn=http/1.1&type=ws&host=vbbns.1c0.ccwu.cc&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214706
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?security=tls&sni=thj.huangzi.cfd&alpn=http/1.1&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861404
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?security=tls&sni=thj.huangzi.cfd&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142256
+trojan://b020865b-7404-4894-ba65-a7414b10cda3@104.21.3.34:443?security=tls&sni=uu.852224.xyz&alpn=http/1.1&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341802
+trojan://b020865b-7404-4894-ba65-a7414b10cda3@172.67.130.41:443?security=tls&sni=uu.852224.xyz&alpn=http/1.1&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20247102
+trojan://b020865b-7404-4894-ba65-a7414b10cda3@172.67.130.41:443?security=tls&sni=uu.852224.xyz&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648708
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20883019
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308051
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.146.21:443?security=tls&sni=bnhhju.9no.ccwu.cc&alpn=http/1.1&type=ws&host=bnhhju.9no.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225940
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=scvf65.0z0.ccwu.cc&type=ws&host=scvf65.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257636
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=scvf65.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=scvf65.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570586
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=u8.ok1.indevs.in&alpn=http/1.1&type=ws&host=u8.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100193
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103288
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20441304
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526312
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914718
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439517
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777989
+trojan://humanity@188.114.98.0:443?path=%2fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492729
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216660
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20539512
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20398336
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.73.85:443?security=tls&sni=fbnji.1sb.ccwu.cc&alpn=http/1.1&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918974
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.142.8:443?security=tls&sni=fbnji.1sb.ccwu.cc&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20796361
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.148.239:443?security=tls&sni=tgh.iran2029.indevs.in&alpn=http/1.1&type=ws&host=tgh.iran2029.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267064
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.148.239:443?security=tls&sni=tgh.iran2029.indevs.in&type=ws&host=tgh.iran2029.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20891204
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=mk.818185.xyz&alpn=http/1.1&type=ws&host=mk.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20405042
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.196.73:443?security=tls&sni=hhjk.huangzi.cfd&alpn=http/1.1&type=ws&host=hhjk.huangzi.cfd&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146367
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.196.73:443?security=tls&sni=hhjk.huangzi.cfd&type=ws&host=hhjk.huangzi.cfd&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234625
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.148.89:443?security=tls&sni=ji9.ok1.indevs.in&alpn=http/1.1&type=ws&host=ji9.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20518222
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@104.21.85.29:443?security=tls&sni=u8.ok8.ccwu.cc&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20685044
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=ghty.003330333.xyz&alpn=http/1.1&type=ws&host=ghty.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171775
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=ghty.003330333.xyz&type=ws&host=ghty.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225208
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mk8.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511303
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=hnj.818185.xyz&alpn=http/1.1&type=ws&host=hnj.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20558797
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@172.67.161.17:443?security=tls&sni=ghj.ok7.ccwu.cc&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273255
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=ghj.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=ghj.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243573
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=ghj.huangdi2025.dpdns.org&type=ws&host=ghj.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147721
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.10.179:443?security=tls&sni=jko0.dddc.de5.net&alpn=http/1.1&type=ws&host=jko0.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875053
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.10.179:443?security=tls&sni=jko0.dddc.de5.net&type=ws&host=jko0.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20411133
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.157.38:443?security=tls&sni=GGbnHY.890699.XYZ&type=ws&host=GgBnhY.890699.XYz&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393731
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=GGbnHY.890699.XYZ&alpn=http/1.1&type=ws&host=GgBnhY.890699.XYz&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777439
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.35.150:443?security=tls&sni=njui.9jj.ccwu.cc&alpn=http/1.1&type=ws&host=njui.9jj.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20853486
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.176.252:443?security=tls&sni=njui.9jj.ccwu.cc&type=ws&host=njui.9jj.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20519611
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=jmkg.818185.xyz&alpn=http/1.1&type=ws&host=jmkg.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727021
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=jmkg.818185.xyz&type=ws&host=jmkg.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513955
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=bnh.818185.xyz&alpn=http/1.1&type=ws&host=bnh.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20930537
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=bnh.818185.xyz&type=ws&host=bnh.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389970
+trojan://c52d2de2-fc6d-490c-8421-132f87615736@104.21.3.34:443?security=tls&sni=bgty6.852224.xyz&alpn=http/1.1&type=ws&host=bgty6.852224.xyz&path=/PDbJ6Qn4xImwtg6PusRbe#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317949
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.10.179:443?security=tls&sni=njki.dddc.de5.net&alpn=http/1.1&type=ws&host=njki.dddc.de5.net&path=/FYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532653
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.182.181:443?security=tls&sni=bnhju.8mm.ccwu.cc&alpn=http/1.1&type=ws&host=bnhju.8mm.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20853448
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.54.33:443?security=tls&sni=nnggf.66x.ccwu.cc&alpn=http/1.1&type=ws&host=nnggf.66x.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20508146
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.52.154:443?security=tls&sni=ghj.husngahng.click&alpn=http/1.1&type=ws&host=ghj.husngahng.click&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918095
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.201.33:443?security=tls&sni=ghj.husngahng.click&type=ws&host=ghj.husngahng.click&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20213600
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.81.247:443?security=tls&sni=9io.988988.shop&alpn=http/1.1&type=ws&host=9io.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360306
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=hji.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=hji.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600705
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.140.109:443?security=tls&sni=hji.huangdi2025.dpdns.org&type=ws&host=hji.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20120507
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.10.179:443?security=tls&sni=mmkj.dddc.de5.net&alpn=http/1.1&type=ws&host=mmkj.dddc.de5.net&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196958
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.131.174:443?security=tls&sni=mmkj.dddc.de5.net&type=ws&host=mmkj.dddc.de5.net&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20368933
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=hnyu.818185.xyz&alpn=http/1.1&type=ws&host=hnyu.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20238061
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?security=tls&sni=ui.huangshang.indevs.in&alpn=http/1.1&type=ws&host=ui.huangshang.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562597
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=i9.003330333.xyz&alpn=http/1.1&type=ws&host=i9.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20117289
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=hju9.003330333.xyz&alpn=http/1.1&type=ws&host=hju9.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807196
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=jiu.ok1.indevs.in&alpn=http/1.1&type=ws&host=jiu.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20831001
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.39.193:443?security=tls&sni=jiu.ok1.indevs.in&type=ws&host=jiu.ok1.indevs.in&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492611
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.43.111:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http/1.1&type=ws&host=KKKkKi.231.pp.Ua&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20236001
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.178.138:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http/1.1&type=ws&host=KkKkki.231.PP.Ua&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755605
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.178.212:443?security=tls&sni=uuujki.7777112.xyz&type=ws&host=uuujki.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524288
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=hnm.huangdi2025.dpdns.org&alpn=http/1.1&type=ws&host=hnm.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460840
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.46.158:443?security=tls&sni=hnm.huangdi2025.dpdns.org&type=ws&host=hnm.huangdi2025.dpdns.org&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20253535
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.80.141:443?security=tls&sni=mki.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mki.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513774
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mki.huangzi.eu.cc&type=ws&host=mki.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20768593
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?security=tls&sni=jjkii.003330333.xyz&alpn=http/1.1&type=ws&host=jjkii.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373245
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=jjkii.003330333.xyz&type=ws&host=jjkii.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243456
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.153.222:443?security=tls&sni=yhj.iran2026.indevs.in&alpn=http/1.1&type=ws&host=yhj.iran2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637893
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.56.168:443?security=tls&sni=yhj.iran2026.indevs.in&type=ws&host=yhj.iran2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933489
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20707998
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20518272
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20954387
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@128.199.252.180:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20517798
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20653329
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303060
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20915053
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708203
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.33:4920?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20973123
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.33:4920?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721516
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434842
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933691
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20949804
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662620
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389299
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20475303
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20172339
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@104.21.24.60:443?security=tls&sni=ilop.uk2033.ccwu.cc&alpn=http/1.1&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20753840
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@172.67.217.34:443?security=tls&sni=ilop.uk2033.ccwu.cc&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104768
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625658
+trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.204.22:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491830
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=bbbnmju.932.pp.ua&type=ws&host=bbbnmju.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342553
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.178.212:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20842373
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.61.154:443?security=tls&sni=hhhhhhhhj.191266.xyz&type=ws&host=hhhhhhhhj.191266.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20195166
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=vvvbnhju.932.pp.ua&type=ws&host=vvvbnhju.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594398
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225153
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938971
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.88.226:443?security=tls&sni=hhynnmki.www890604.dpdns.org&type=ws&host=hhynnmki.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429822
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&sni=vvvbnj.taipei102.indevs.in&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20618074
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.156.83:443?security=tls&sni=bnhju.dddct.us.ci&alpn=http/1.1&type=ws&host=bnhju.dddct.us.ci&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522268
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.205.157:443?security=tls&sni=bnhy7.986986.shop&alpn=http/1.1&type=ws&host=bnhy7.986986.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437747
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@172.67.205.157:443?security=tls&sni=bnhy7.986986.shop&type=ws&host=bnhy7.986986.shop&path=/4e633j8uZI4BWzwNzcYz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969418
+trojan://36325a98-46a4-4770-977a-9a9570e0bcc6@220.130.58.136:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360640
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=njk.003330333.xyz&type=ws&host=njk.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20976388
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&sni=njk.003330333.xyz&alpn=http/1.1&type=ws&host=njk.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20415167
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.172.177:443?security=tls&sni=ggnju.iran2027.indevs.in&alpn=http/1.1&type=ws&host=ggnju.iran2027.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866204
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.172.177:443?security=tls&sni=ggnju.iran2027.indevs.in&type=ws&host=ggnju.iran2027.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228366
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.198.49:443?security=tls&sni=hj.huangshang.qzz.io&alpn=http/1.1&type=ws&host=hj.huangshang.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922097
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.198.49:443?security=tls&sni=hj.huangshang.qzz.io&type=ws&host=hj.huangshang.qzz.io&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20926070
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512148
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.77.101:443?security=tls&sni=jki.huangdi.indevs.in&alpn=http/1.1&type=ws&host=jki.huangdi.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20798021
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.49.5:443?security=tls&sni=kklio.dddc.us.ci&alpn=http/1.1&type=ws&host=kklio.dddc.us.ci&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422401
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.75.124:443?security=tls&sni=mki.dddc.ccwu.cc&alpn=http/1.1&type=ws&host=mki.dddc.ccwu.cc&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20279715
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.80.227:443?security=tls&sni=yhj.huangshang2026.indevs.in&alpn=http/1.1&type=ws&host=yhj.huangshang2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968312
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.154.136:443?security=tls&sni=yhj.huangshang2026.indevs.in&type=ws&host=yhj.huangshang2026.indevs.in&path=/ElrtQ8CAz6RgfMaiN9LMya#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594412
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235033
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562543
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=nji9768.006660666.xyz&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218413
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@172.67.223.243:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833691
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=ttt6.006660666.xyz&alpn=http/1.1&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20851026
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@104.21.25.72:443?security=tls&sni=ttt6.006660666.xyz&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651502
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.58.143:443?security=tls&sni=cvg67.0yo.ccwu.cc&alpn=http/1.1&type=ws&host=cvg67.0yo.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795482
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.58.143:443?security=tls&sni=cvg67.0yo.ccwu.cc&type=ws&host=cvg67.0yo.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20848525
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214609
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.194.51:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920097
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.3.129:443?security=tls&sni=dcvwsde.1gg.ccwu.cc&alpn=http/1.1&type=ws&host=dcvwsde.1gg.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849293
+trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.3.129:443?security=tls&sni=dcvwsde.1gg.ccwu.cc&type=ws&host=dcvwsde.1gg.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20419015
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=eEFRt.890699.xyz&alpn=http/1.1&type=ws&host=eEFRT.890699.xyZ&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230382
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=eEFRt.890699.xyz&type=ws&host=eEFRT.890699.xyZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730810
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http/1.1&type=ws&host=OOIuyT.890699.xYZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20724316
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@172.67.157.38:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http/1.1&type=ws&host=oOiUyT.890699.Xyz&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20126727
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.40.221:443?security=tls&sni=OOIuyT.890699.xYZ&type=ws&host=OOIuyT.890699.xYZ&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20802913
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.50.233:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&alpn=http/1.1&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=/Klh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218878
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.50.233:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=/Klh0x8wtLpTGA5AqzZ2Mj#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866523
+trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892517
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20291500
+trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805498
+trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443?security=tls&type=tcp&headerType=none&path=🔒#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486319
+trojan://adb13850-7e70-492e-85b2-01184801d587@154.36.162.129:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281462
+trojan://cff35335-31c1-4f2c-8df3-2b81243a31ac@172.67.184.88:443?security=tls&sni=gbbbn7.044400444.xyz&alpn=http/1.1&type=ws&host=gbbbn7.044400444.xyz&path=/bMBDBFUkQJNcweCiw4wIIiqp&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276782
+trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548406
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.87.49:443?security=tls&sni=mhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=mhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20574138
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.87.49:443?security=tls&sni=mhju.h2e.indevs.in&type=ws&host=mhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20392933
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@104.21.31.127:443?security=tls&sni=mkl.2oo.ccwu.cc&type=ws&host=mkl.2oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20262836
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@172.67.149.176:443?security=tls&sni=mmjk.3oo.ccwu.cc&type=ws&host=mmjk.3oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872493
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@172.67.204.75:443?security=tls&sni=vbhju.818185.xyz&alpn=http/1.1&type=ws&host=vbhju.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879830
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@104.21.58.135:443?security=tls&sni=vbhju.818185.xyz&type=ws&host=vbhju.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20617024
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323767
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543665
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20620442
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787884
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369109
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20831162
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20775610
+trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20710093
+trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20263455
+trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20502656
+trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20268959
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20159442
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20957599
 trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com&allowInsecure=1#%5BOpenRay%5D%20Dynamic-12559
 trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com&allowInsecure=1#%5BOpenRay%5D%20Dynamic-176
 trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&security=tls&path=%252Famd&host=sweden.vmaxpanel.com&sni=sweden.vmaxpanel.com&allowInsecure=1#%5BOpenRay%5D%20Dynamic-12722
@@ -934,204 +956,206 @@ trojan://telegram-id-directvpn@18.199.2.96:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@63.182.1.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-privatevpns@63.182.1.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@13.37.8.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR```
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://argonode@104.21.44.77:443?security=tls&sni=www.microsoft.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&fp=chrome&sni=www.creationlong.org&alpn=h2,http/1.1#🏴 Dynamic | TLS • chrome
-trojan://5dad3126-4eac-4fbe-a366-71218c43c45d@104.26.15.152:2083/?type=ws&host=free1.kpchannel.ooguy.com&path=%2F&security=tls&sni=free1.kpchannel.ooguy.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mk8.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.37:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://hI70tn0ifx@162.159.198.189:443?path=%2FhI70tn0ifx%3Fed%3D128&security=tls&alpn=http%2F1.1&insecure=0&host=my-new-worker.khiarshorplus.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=my-new-worker.khiarshorplus.workers.dev#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🇷🇴 Romania | TLS
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443?security=tls&sni=C1wSdm.777162.Xyz&alpn=http%2F1.1&fp=chrome&type=ws&host=c1wsdm.777162.xyz&path=%2F5txgrUN3oqXENw4Z4#🏴 Dynamic | TLS • chrome
-trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=y98fk7q84z0wfcjuirh.zjde5.de5.net&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://557a788e-4d35-448b-8eba-4b844be87b14@141.193.213.199:443/?type=ws&host=ukmp1pz6n5doe90u.tkgogocsgo.top&path=%2Fimages&security=tls&sni=ukmp1pz6n5doe90u.tkgogocsgo.top&allowInsecure=1#🇺🇸 USA | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://Konlaghvazirrrrrrrrrr@198.62.62.5:2083?type=xhttp&mode=auto&host=www-us-c-1-p.ammirkbbir.site.&path=/ed%3D2083!?&security=tls&fp=chrome&sni=www-us-c-1-p.ammirkbbir.site.&alpn=h2,http/1.1#🇺🇸 USA | TLS • chrome
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&type=ws&sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net#🏴 Dynamic | TLS
-trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%252fassignment#🏴 Dynamic | TLS
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=%5Bwww.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://bIa-DailY_cOnFIgs@104.17.207.36:443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#🏴 Dynamic | TLS • randomized
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@104.21.44.213:443?security=tls&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http/1.1&type=ws&host=GGgnhHY.huaNGSHang.ONLInE&path=/r862SIwqItkD5XgXAL#🏴 Dynamic | TLS
-trojan://fNDv88j5jz@23.227.38.43:443?path=%2Fimages&security=tls&insecure=0&host=stream.motortaktaz.ir&type=ws&allowInsecure=0&sni=stream.motortaktaz.ir#🇨🇦 Canada | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🏴 Dynamic | TLS
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@104.21.90.198:443?security=tls&sni=ghj.ok7.ccwu.cc&alpn=http/1.1&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#🏴 Dynamic | TLS
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#🏴 Dynamic | TLS
 trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://T9BpZIVMNv@104.18.32.47:443?encryption=none&security=tls&sni=sweden.vmaxpanel.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@104.21.90.198:443?security=tls&sni=ghj.ok7.ccwu.cc&alpn=http/1.1&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
+trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#🇺🇸 USA | TLS • randomized
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://argonode@104.21.44.77:443?security=tls&sni=www.microsoft.com#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443/?type=tcp&security=tls&sni=CFR56ty7890.288288.sHOP#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🏴 Dynamic | TLS
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇭 Switzerland | TLS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
+trojan://NISHIKUITAN111@104.25.22.6:443?security=none&allowInsecure=1&fp=chrome&type=tcp#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=y98fk7q84z0wfcjuirh.zjde5.de5.net&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS
+trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&alpn=h3&type=ws&host=mashdt.pages.dev&path=/tr?ed=2560#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS • chrome
+trojan://moist@154.197.121.253:443?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#🇬🇧 UK | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#🏴 Dynamic | TLS • chrome
+trojan://hI70tn0ifx@162.159.198.189:443?path=%2FhI70tn0ifx%3Fed%3D128&security=tls&alpn=http%2F1.1&insecure=0&host=my-new-worker.khiarshorplus.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=my-new-worker.khiarshorplus.workers.dev#🏴 Dynamic | TLS • chrome
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS
+trojan://5dad3126-4eac-4fbe-a366-71218c43c45d@104.26.15.152:2083/?type=ws&host=free1.kpchannel.ooguy.com&path=%2F&security=tls&sni=free1.kpchannel.ooguy.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@104.21.40.34:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS • chrome
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
+trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%252fassignment#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&fp=chrome&sni=www.creationlong.org&alpn=h2,http/1.1#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@104.21.44.213:443?security=tls&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http/1.1&type=ws&host=GGgnhHY.huaNGSHang.ONLInE&path=/r862SIwqItkD5XgXAL#🏴 Dynamic | TLS
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🇨🇭 Switzerland | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&type=ws&sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS
+trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://bIa-DailY_cOnFIgs@104.17.207.36:443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#🏴 Dynamic | TLS • randomized
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🇷🇴 Romania | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://password123@185.146.173.158:443?security=tls&sni=www.microsoft.com#🇸🇪 Sweden | TLS
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&alpn=http/1.1&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://telegram-id-v2rayvpnchannel@13.39.97.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-directvpn@13.39.97.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-directvpn@13.39.97.14:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-v2rayvpnchannel@63.182.77.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://telegram-id-directvpn@63.182.77.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://telegram-id-privatevpns@63.182.77.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://557a788e-4d35-448b-8eba-4b844be87b14@141.193.213.199:443/?type=ws&host=ukmp1pz6n5doe90u.tkgogocsgo.top&path=%2Fimages&security=tls&sni=ukmp1pz6n5doe90u.tkgogocsgo.top&allowInsecure=1#🇺🇸 USA | TLS
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nMk.288288.sHOP&path=%2FhV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@chatgpt.com:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://Watashi_VPN@104.17.147.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443/?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?path=%2F5txgrUN3oqXENw4Z4&security=tls&alpn=http%2F1.1&host=c1swew.777159.xyz&fp=chrome&type=ws&sni=C1Swew.777159.xyz#🏴 Dynamic | TLS • chrome
+trojan://Konlaghvazirrrrrrrrrr@198.62.62.5:2083?type=xhttp&mode=auto&host=www-us-c-1-p.ammirkbbir.site.&path=/ed%3D2083!?&security=tls&fp=chrome&sni=www-us-c-1-p.ammirkbbir.site.&alpn=h2,http/1.1#🇺🇸 USA | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.37:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?sni=www.nintendogames.net&path=/#🇯🇵 Japan | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 Japan | TLS
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#🏴 Dynamic | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 Japan | TLS
+trojan://psycho@104.21.48.1:443?path=%2Ftr7m9KE73yqd6Htr2E%3Fed%3D2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&type=ws&sni=pSychO.sueX12.IR#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?security=tls&allowInsecure=1&type=tcp#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#🏴 Dynamic | TLS
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws&allow_insecure=0#🇭🇰 Hong Kong | TLS
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇭🇰 Hong Kong | TLS
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇭🇰 Hong Kong | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇨🇭 Switzerland | TLS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://Watashi_VPN@104.17.148.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mk8.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#🏴 Dynamic | TLS
+trojan://5196aae7-1479-4f3c-978b-68e74977b509@mkouy.99890604.xyz:443?security=tls&sni=mkouy.99890604.xyz&type=ws&host=mkouy.99890604.xyz&path=/mSZVb4DmOGWZIKMBivnR3#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://iwangjie@158.101.11.204:15805?encryption=none&security=tls&sni=nodes.830901.xyz&fp=chrome&insecure=1&type=ws&host=nodes.830901.xyz&path=%2F#🇺🇸 USA | TLS • chrome
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http/1.1&type=ws&host=nMk.288288.sHOP&path=/hV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http/1.1&type=ws&host=GGbnh.7777198.xyz&path=/r862SIwqItkD5XgXAL&allow_insecure=0#🏴 Dynamic | TLS
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&sni=3derty.852224.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=%5Bwww.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@9io.988988.shop:443?security=tls&sni=9io.988988.shop&alpn=http/1.1&type=ws&host=9io.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#🏴 Dynamic | TLS
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🏴 Dynamic | TLS
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#☁️ Cloudflare | TLS • random
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=%2F%3Fed&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#☁️ Cloudflare | TLS • random
+trojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🏴 Dynamic | TLS
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#🏴 Dynamic | TLS • chrome
-trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
 trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@bnhy7.986986.shop:443?security=tls&sni=bnhy7.986986.shop&alpn=http/1.1&type=ws&host=bnhy7.986986.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#🏴 Dynamic | TLS
-trojan://iwangjie@158.101.11.204:15805?encryption=none&security=tls&sni=nodes.830901.xyz&fp=chrome&insecure=1&type=ws&host=nodes.830901.xyz&path=%2F#🇺🇸 USA | TLS • chrome
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http/1.1&type=ws&host=GGbnh.7777198.xyz&path=/r862SIwqItkD5XgXAL&allow_insecure=0#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gbnh.7777112.xyz:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@uuujki.7777112.xyz:443?security=tls&sni=uuujki.7777112.xyz&type=ws&host=uuujki.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://031322@masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&path=/?ed=2560#☁️ Cloudflare | TLS • chrome
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http/1.1&type=ws&host=GGbNH.7777198.xyZ&path=/r862SIwqItkD5XgXAL&allow_insecure=0#🏴 Dynamic | TLS
-trojan://5196aae7-1479-4f3c-978b-68e74977b509@mkouy.99890604.xyz:443?security=tls&sni=mkouy.99890604.xyz&type=ws&host=mkouy.99890604.xyz&path=/mSZVb4DmOGWZIKMBivnR3#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?security=tls&allowInsecure=1&type=tcp#🏴 Dynamic | TLS
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 Japan | TLS
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 Japan | TLS
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=1#🇯🇵 Japan | TLS
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 Japan | TLS
-trojan://telegram-id-directvpn@52.29.89.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇭🇰 Hong Kong | TLS
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@bbbnhju.1xa.ccwu.cc:443?security=tls&sni=bbbnhju.1xa.ccwu.cc&type=ws&host=bbbnhju.1xa.ccwu.cc&path=/7vMsF4VUuJ3dX414bl#🏴 Dynamic | TLS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://T9BpZIVMNv@104.18.32.47:443?encryption=none&security=tls&sni=sweden.vmaxpanel.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?path=%2F5txgrUN3oqXENw4Z4&security=tls&alpn=http%2F1.1&host=c1swew.777159.xyz&fp=chrome&type=ws&sni=C1Swew.777159.xyz#🏴 Dynamic | TLS • chrome
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#🏴 Dynamic | TLS
-trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://psycho@104.21.48.1:443?path=%2Ftr7m9KE73yqd6Htr2E%3Fed%3D2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&type=ws&sni=pSychO.sueX12.IR#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🇨🇭 Switzerland | TLS
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nMk.288288.sHOP&path=%2FhV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://Watashi_VPN@104.17.147.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443/?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com#🏴 Dynamic | TLS
-trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#🇺🇸 USA | TLS • randomized
-trojan://password123@185.146.173.158:443?security=tls&sni=www.microsoft.com#🇸🇪 Sweden | TLS
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇭 Switzerland | TLS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#☁️ Cloudflare | TLS • random
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ghj.ok7.ccwu.cc:443?security=tls&sni=ghj.ok7.ccwu.cc&alpn=http/1.1&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=%2F%3Fed&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#☁️ Cloudflare | TLS • random
-trojan://telegram-id-privatevpns@52.29.89.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS • chrome
-trojan://moist@154.197.121.253:443?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#🇬🇧 UK | TLS
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS
-trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443/?type=tcp&security=tls&sni=CFR56ty7890.288288.sHOP#🏴 Dynamic | TLS
+trojan://031322@masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&path=/?ed=2560#☁️ Cloudflare | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#🇸🇬 Singapore | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🏴 Dynamic | TLS
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=Noshteri.hooplnqpb.ir#🏴 Dynamic | TLS
-trojan://humanity@chatgpt.com:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#🏴 Dynamic | TLS
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://NISHIKUITAN111@104.25.22.6:443?security=none&allowInsecure=1&fp=chrome&type=tcp#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.44.213:443?security=tls&sni=mMMhU.HUangSHANG.onlIne&alpn=http/1.1&type=ws&host=mMMhU.HUangSHANG.onlIne&path=/hV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
-trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http/1.1&type=ws&host=nMk.288288.sHOP&path=/hV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@bbbnmju.932.pp.ua:443?security=tls&sni=bbbnmju.932.pp.ua&type=ws&host=bbbnmju.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://humanity@104.21.40.34:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbnhju.932.pp.ua:443?security=tls&sni=vvvbnhju.932.pp.ua&type=ws&host=vvvbnhju.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.21.40.34:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🏴 Dynamic | TLS
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&sni=3derty.852224.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@172.67.180.92:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%25252f1.1&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://Watashi_VPN@104.17.148.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#🏴 Dynamic | TLS • chrome
 trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#🏴 Dynamic | TLS
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@9io.988988.shop:443?security=tls&sni=9io.988988.shop&alpn=http/1.1&type=ws&host=9io.988988.shop&path=/4e633j8uZI4BWzwNzcYz&allow_insecure=0#🏴 Dynamic | TLS
-trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&alpn=http/1.1&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#🏴 Dynamic | TLS
-trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#🏴 Dynamic | TLS
-trojan://telegram-id-v2rayvpnchannel@52.29.89.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbnj.taipei102.indevs.in:443?path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http%2F1.1&insecure=0&host=vvvbnj.taipei102.indevs.in&type=ws&allowInsecure=0&sni=vvvbnj.taipei102.indevs.in#🏴 Dynamic | TLS
-trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?security=tls&sni=y.taiwan2029.indevs.in&type=ws&host=y.taiwan2029.indevs.in&path=/RXvyoH0kyRosKkycyrxcJWNVFC21#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?security=tls&sni=dddfghyju.taipei102.indevs.in&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http%2F1.1&insecure=0&host=dddfghyju.taipei102.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=dddfghyju.taipei102.indevs.in#🏴 Dynamic | TLS • chrome
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?security=tls&sni=dddfghyju.taipei102.indevs.in&alpn=http/1.1&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@uuujki.7777112.xyz:443?security=tls&sni=uuujki.7777112.xyz&type=ws&host=uuujki.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@172.67.180.92:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#🏴 Dynamic | TLS
+trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://fNDv88j5jz@23.227.38.43:443?path=%2Fimages&security=tls&insecure=0&host=stream.motortaktaz.ir&type=ws&allowInsecure=0&sni=stream.motortaktaz.ir#🇨🇦 Canada | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.44.213:443?security=tls&sni=mMMhU.HUangSHANG.onlIne&alpn=http/1.1&type=ws&host=mMMhU.HUangSHANG.onlIne&path=/hV829BTVzg35A6ueyyZnWd#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http/1.1&type=ws&host=GGbNH.7777198.xyZ&path=/r862SIwqItkD5XgXAL&allow_insecure=0#🏴 Dynamic | TLS
+trojan://telegram-id-privatevpns@13.39.97.14:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-privatevpns@13.39.97.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?security=tls&sni=ilop.uk2033.ccwu.cc&alpn=http/1.1&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 Japan | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 Japan | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 Japan | TLS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=1#🇯🇵 Japan | TLS
+trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%25252f1.1&allowInsecure=1#🏴 Dynamic | TLS
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ghj.ok7.ccwu.cc:443?security=tls&sni=ghj.ok7.ccwu.cc&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🏴 Dynamic | TLS
