@@ -1,89 +1,54 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143584
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515888
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&amp&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1&sni=uk.xjichang.buzz#%E5%BE%B7%E5%9B%BD02
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸US%20%20ROSE—11
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸US%20%20ROSE—13
-hysteria2://41aec03d-4345-4bff-9bab-69d36d80033c@94.103.3.40:2056/?insecure=1&sni=ru.eyucdn.xyz#🇷🇺RU%20%20ROSE—02
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#🇳🇱
-hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056/?insecure=1&sni=flkf2.mangshe.xyz#🇩🇪DE%20%20ROSE—03
-hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf3.mangshe.xyz:2056/?insecure=1&sni=flkf3.mangshe.xyz#🇩🇪DE%20%20ROSE—05
-hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743/?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk#🇺🇸US%20%20ROSE—09
-hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱NL%20%20ROSE—07
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱NL%20%20ROSE—16
-hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧
-hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#🇩🇪DE%20%20ROSE—12
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=www.speedtest.net#🇳🇱NL%20%20ROSE—15
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743/?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#🇺🇸US%20%20ROSE—14
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#🇬🇧
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#🇫🇷
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#🇫🇷
-hysteria2://germany_hysteria2_fastlane_wxue2k6d6:3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&insecure=1&sni=de2.h.fastlanehosting.ru#@darktunnelvip1
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#🇫🇮
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪DE%20%20ROSE—04
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329546
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367662
 hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:c427::1]:33500/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=updates.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:4d5b::1]:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
 hysteria2://usa_hysteria2_fastlane_8f058mdni%3AMnvG1G7uEPzQXKinBIOyWPAwICrVq9x4@138.124.183.9:1935/?insecure=1&sni=us1.h.smartaisupport.ru#🇬🇧 UK | TLS
 hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#🇬🇧 UK | TLS
-hysteria2://hysteria2_fastlane_e4139zxuu%3Av98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935/?insecure=1&sni=de4.h.fastlanehosting.ru#🇩🇪 Germany | TLS
-hysteria2://hysteria2_fastlane_qdx4o19um%3Ae6RGEpPpn2oiHxqlbReEFpJZr09OiVlb@150.241.79.106:1935/?insecure=1&sni=de2.h.fastlanehosting.ru#🇩🇪 Germany | TLS
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪 Germany | TLS
-hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1/?insecure=1&sni=www.bing.com#🇩🇪 Germany | TLS
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 France | TLS
-hysteria2://hysteria2_fastlane_4il18i3ep%3A8OoOXsA2LkNBLA3NH5WL6vKUwtO9NlYB@150.241.79.201:1935/?sni=de5.h.fastlanehosting.ru#🇩🇪 Germany | TLS
-hysteria2://germany_hysteria2_fastlane_wxue2k6d6%3A3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&insecure=1&sni=de2.h.fastlanehosting.ru#🇩🇪 Germany | TLS
-hysteria2://hysteria2_fastlane_bwyx9htpr%3AoEo7UUYjxOcBooNu080XVIFCbge59vqG@144.31.63.58:1935/?sni=de4.h.fastlanehosting.ru#🇩🇪 Germany | TLS
-hysteria2://freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com#🇮🇹 Italy | TLS • Salamander
 hysteria2://e22d2366-ac58-47e0-8362-89df9aa6349f@152.70.176.68:1/?insecure=1&sni=www.bing.com#🇩🇪 Germany | TLS
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://hysteria2_fastlane_4il18i3ep%3A8OoOXsA2LkNBLA3NH5WL6vKUwtO9NlYB@150.241.79.201:1935/?sni=de5.h.fastlanehosting.ru#🇩🇪 Germany | TLS
+hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1/?insecure=1&sni=www.bing.com#🇩🇪 Germany | TLS
+hysteria2://hysteria2_fastlane_bwyx9htpr%3AoEo7UUYjxOcBooNu080XVIFCbge59vqG@144.31.63.58:1935/?sni=de4.h.fastlanehosting.ru#🇩🇪 Germany | TLS
+hysteria2://hysteria2_fastlane_e4139zxuu%3Av98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935/?insecure=1&sni=de4.h.fastlanehosting.ru#🇩🇪 Germany | TLS
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪 Germany | TLS
+hysteria2://hysteria2_fastlane_qdx4o19um%3Ae6RGEpPpn2oiHxqlbReEFpJZr09OiVlb@150.241.79.106:1935/?insecure=1&sni=de2.h.fastlanehosting.ru#🇩🇪 Germany | TLS
+hysteria2://germany_hysteria2_fastlane_wxue2k6d6%3A3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&insecure=1&sni=de2.h.fastlanehosting.ru#🇩🇪 Germany | TLS
+hysteria2://freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com#🇮🇹 Italy | TLS • Salamander
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#🇦🇪 UAE | TLS
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱 Netherlands | TLS • Salamander
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#🇦🇪 UAE | TLS
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#🇳🇱 Netherlands | TLS • Salamander
 hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc&sni=buylite.music.apple.com#🇬🇧 UK | TLS • Salamander
-hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#🇨🇦 Canada | TLS
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1&allowInsecure=1#🇺🇸 USA | TLS
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org%40freenettir#🇩🇪 Germany | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS
-hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#🇫🇷 France | TLS
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=jnir.pichondan.com#🇳🇱 Netherlands | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1&allowInsecure=1#🇺🇸 USA | TLS
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=jnir.pichondan.com#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#🇨🇦 Canada | TLS
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org%40freenettir#🇩🇪 Germany | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#🇫🇷 France | TLS
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 Netherlands | TLS • Salamander
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱 Netherlands | TLS • Salamander
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@api.kermanshahi.org:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇳🇱 Netherlands | TLS • Salamander
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&sni=tr.xn--ehqa22b.site#🇹🇷 Türkiye | TLS
