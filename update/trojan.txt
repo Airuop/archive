@@ -1,561 +1,594 @@
-trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516975
-trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521526
-trojan://humanity@104.18.37.228:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20285656
-trojan://humanity@104.17.131.88:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20942153
-trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20461922
-trojan://Config0plus@45.130.125.69:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20879671
-trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20717363
-trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20411138
-trojan://humanity@45.130.125.69:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20511271
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20966720
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20840872
-trojan://humanity@104.18.32.47:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20679538
-trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20527034
-trojan://humanity@104.18.32.47:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20370600
-trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20308962
-trojan://Config0plus@45.130.125.76:443?path=/sg-melbi&security=tls&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20830787
-trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20379919
-trojan://humanity@45.130.125.76:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20263335
-trojan://humanity@45.130.125.76:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20852320
-trojan://y5yef0udbqnu7sym@45.130.125.76:443?sni=dashboard.nscl.ir&type=ws&path=/dashboard&alpn=http/1.1&fp=firefox#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20446659
-trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20932930
-trojan://Nova-Proxy@8.39.125.191:2083?path=/&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20232845
-trojan://humanity@104.19.208.184:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20999638
-trojan://humanity@172.64.155.209:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843052
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20726286
-trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876257
-trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956940
-trojan://humanity@104.17.121.9:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909775
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20675826
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20750847
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695185
-trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20364719
-trojan://humanity@216.24.57.7:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20645176
-trojan://humanity@216.24.57.7:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630699
-trojan://humanity@104.16.174.37:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591432
-trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521482
-trojan://Config0plus@104.17.121.71:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646002
-trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20696289
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20352642
-trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20421268
-trojan://humanity@104.16.174.143:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20916093
-trojan://humanity@104.18.1.55:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246180
-trojan://humanity@104.18.0.55:443?allowInsecure=1&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20886125
-trojan://humanity@104.18.0.55:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721201
-trojan://humanity@104.18.8.83:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20949542
-trojan://humanity@104.18.8.83:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20955224
-trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593648
-trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20756008
-trojan://humanity@104.18.17.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20387881
-trojan://humanity@208.103.161.101:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895641
-trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924700
-trojan://humanity@104.18.152.244:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118888
-trojan://humanity@104.18.152.133:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373846
-trojan://humanity@104.18.152.133:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849864
-trojan://humanity@104.18.152.144:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20613245
-trojan://humanity@104.17.223.49:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20831610
-trojan://humanity@104.18.22.63:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591278
-trojan://humanity@104.18.23.63:443?allowInsecure=1&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20386094
-trojan://humanity@104.18.152.179:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394375
-trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&sni=empty.node&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979154
-trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513086
-trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20208127
-trojan://humanity@5.10.214.53:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474426
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20176822
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134820
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20927613
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959966
-trojan://humanity@172.64.152.23:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763378
-trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20324208
-trojan://humanity@165.215.250.14:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496297
-trojan://humanity@165.215.250.14:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134825
-trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921359
-trojan://humanity@165.215.250.14:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202028
-trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336771
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20819799
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528555
-trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487356
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=/ae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20928279
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935285
-trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179016
-trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20627175
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20262040
-trojan://humanity@104.19.229.21:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643457
-trojan://humanity@104.19.229.21:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20470016
-trojan://humanity@104.19.229.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20563524
-trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175033
-trojan://humanity@104.18.152.210:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20161785
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348515
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=/id-tksi&security=tls&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498029
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489648
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=/id-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20620796
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581064
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610360
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20208680
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854094
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542926
-trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879065
-trojan://humanity@104.18.152.204:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20200151
-trojan://humanity@104.16.89.120:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20568315
-trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20859127
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622933
-trojan://humanity@104.18.13.149:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20906964
-trojan://humanity@104.18.13.149:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348354
-trojan://humanity@104.17.148.22:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713208
-trojan://humanity@104.17.150.76:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990057
-trojan://humanity@172.64.146.161:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895976
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20673824
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146234
-trojan://humanity@104.20.42.250:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20387831
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248560
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211103
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273736
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20886629
-trojan://humanity@172.66.44.211:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754140
-trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20813742
-trojan://humanity@104.16.90.120:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648491
-trojan://humanity@162.159.193.202:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305869
-trojan://humanity@89.116.46.68:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993044
-trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332119
-trojan://humanity@172.66.47.45:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542977
-trojan://humanity@172.64.146.211:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20617996
-trojan://humanity@172.64.146.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20638344
-trojan://humanity@172.64.146.198:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20621931
-trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763955
-trojan://humanity@172.64.147.133:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375576
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20330088
-trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20501930
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483624
-trojan://humanity@45.130.125.160:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877094
-trojan://humanity@45.130.125.160:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713243
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148918
-trojan://humanity@104.16.63.25:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20762827
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684891
-trojan://humanity@141.193.213.21:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20749899
-trojan://Config0plus@45.130.125.96:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818269
-trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218052
-trojan://humanity@45.130.125.96:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186940
-trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20865992
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@104.20.26.96:443?host=blog.webex.com.cyylr.eu.cc&path=%2Fin-do&sni=blog.webex.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357030
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@104.20.26.96:443?host=blog.webex.com.cyylr.eu.cc&path=/in-do&sni=blog.webex.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688182
-trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409479
-trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20551406
-trojan://humanity@66.81.247.155:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202515
-trojan://humanity@104.16.7.70:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20889058
-trojan://humanity@141.193.213.10:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600946
-trojan://humanity@104.18.139.67:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274198
-trojan://Mitivpn@5.10.214.56:443?security=tls&sni=www.hitgram.ir&alpn=http/1.1&allowInsecure=1&type=ws&host=www.hitgram.ir&path=/?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116029
-trojan://humanity@104.19.64.105:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20539154
-trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286079
-trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20125570
-trojan://humanity@45.130.125.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20127490
-trojan://humanity@45.130.125.0:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658402
-trojan://humanity@45.130.125.0:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20780285
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20709140
-trojan://humanity@104.18.13.149:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435830
-trojan://humanity@104.18.13.149:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333960
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243935
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526500
-trojan://humanity@104.18.12.149:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607101
-trojan://humanity@104.18.12.149:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658989
-trojan://humanity@104.18.12.149:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233231
-trojan://humanity@104.19.2.175:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322473
-trojan://humanity@104.18.152.233:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803856
-trojan://humanity@104.18.10.110:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20880765
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403152
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20985078
-trojan://humanity@162.159.195.173:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20527515
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532994
-trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509755
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20810627
-trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336627
-trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20882410
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695066
-trojan://humanity@104.18.152.229:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526145
-trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595993
-trojan://humanity@104.16.80.73:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20311379
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771765
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20778159
-trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144718
-trojan://humanity@104.16.174.185:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234875
-trojan://humanity@172.66.47.69:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646606
-trojan://humanity@172.66.47.69:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628795
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781079
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20647063
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20635671
-trojan://humanity@185.18.250.252:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379053
-trojan://humanity@185.18.250.252:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657570
-trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20704075
-trojan://humanity@104.16.174.148:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20366599
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183754
-trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737569
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20676674
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998244
-trojan://humanity@188.114.98.0:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20385589
-trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20897255
-trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840895
-trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646740
-trojan://humanity@141.193.213.11:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206379
-trojan://humanity@141.193.213.11:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20707896
-trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884301
-trojan://humanity@188.114.96.4:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395028
-trojan://humanity@188.114.96.4:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20280556
-trojan://humanity@45.130.125.112:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434673
-trojan://humanity@188.114.96.250:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489147
-trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20592670
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20533246
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918728
-trojan://humanity@104.20.6.134:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20945498
-trojan://humanity@104.20.6.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530406
-trojan://humanity@104.20.6.134:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124180
-trojan://humanity@104.20.6.134:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729518
-trojan://humanity@104.20.6.134:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160952
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626145
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636525
-trojan://humanity@188.114.97.6:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504226
-trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=safari#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990332
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production&security=tls&alpn=http/1.1&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179296
-trojan://humanity@104.21.224.5:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20678718
-trojan://humanity@104.21.224.5:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20169017
-trojan://humanity@104.17.25.173:443?sni=www.multiplydose.com&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323417
-trojan://humanity@104.26.4.11:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577508
-trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909083
-trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344952
-trojan://humanity@188.114.96.3:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608534
-trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622282
-trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20887254
-trojan://humanity@188.114.97.57:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484725
-trojan://humanity@188.114.97.194:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181442
-trojan://humanity@188.114.97.3:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104553
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812776
-trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474136
-trojan://humanity@8.6.112.6:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20916657
-trojan://humanity@8.6.112.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20599587
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225440
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520478
-trojan://humanity@104.21.40.34:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20380376
-trojan://humanity@104.21.103.254:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http%2F1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180092
-trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20762696
-trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143254
-trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20632029
-trojan://humanity@45.130.125.72:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20709498
-trojan://humanity@104.21.224.5:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375439
-trojan://humanity@104.21.227.134:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20853130
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20761810
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646452
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726592
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20414928
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142127
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119722
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20820942
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259728
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743945
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20424706
-trojan://telegram-id-directvpn@15.236.220.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20704732
-trojan://telegram-id-privatevpns@15.236.220.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196824
-trojan://af4b064a9c39472fb34ad8b113acdc6b@162.19.10.218:443?sni=162.19.10.218&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274452
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686557
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715187
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?sni=vpn.rnmcnm.com&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725314
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803630
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20650101
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%25F0%259F%2594%2592&allowInsecure=1&type=tcp&alpn=http%2F1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20507837
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%F0%9F%94%92&allowInsecure=1&type=tcp&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963094
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=🔒&allowInsecure=1&type=tcp&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20345772
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=🔒&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20772813
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=78.159.131.12&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520811
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20201811
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168750
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20814482
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20253837
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197059
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20550448
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946152
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20654430
-trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171443
-trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20149462
-trojan://telegram-id-directvpn@15.224.86.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373573
-trojan://telegram-id-privatevpns@15.224.86.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20330545
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287666
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20468940
-trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337934
-trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196797
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20945311
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20603730
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20996059
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20552536
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20821848
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234959
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20941279
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186388
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20685793
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466615
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&sni=fr.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116992
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?sni=gh.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856813
-trojan://fde84658-f03b-430a-a86f-c32cb1a2cdad@108.181.4.83:443?sni=us6lh1fsyabizv5m.lovebaipiao.net&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642465
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:45619?sni=fr.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20572534
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?security=tls&sni=fr.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652796
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:47909?sni=is.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20598409
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45619?sni=fr.01.naiun.bilibili.com&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344895
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417973
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20390868
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20545385
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626962
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102557
-trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969783
-trojan://l64tlWoGT6USQr=3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allowInsecure=1&sni=www.rolll.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20988729
-trojan://l64tlWoGT6USQr=3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allowInsecure=1&sni=www.rolll.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332707
-trojan://DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20388971
-trojan://E_hUHrn0%2B6VeZO%3Dv9%3DfLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.19.11#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289247
-trojan://E_hUHrn0%2B6VeZO%3Dv9%3DfLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.19.11#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20634912
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?security=tls&sni=www.cdn-setting.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321084
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20724222
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307803
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274194
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399759
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?sni=www.ws-converter.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560314
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646718
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20215280
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705741
-trojan://@v2ray_6@v2ray_6@www.hcaptcha.com:2083?sni=udb.nyanners.ir&type=ws&path=/&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167885
-trojan://BxceQaOe@18.183.163.141:50712?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713951
-trojan://BxceQaOe@18.183.163.141:50712?sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754063
-trojan://BxceQaOe@95.40.4.37:2520?sni=95.40.4.37&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577794
-trojan://BxceQaOe@95.40.4.37:2520?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20838037
-trojan://BxceQaOe@95.40.4.37:2520?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20364790
-trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:1180?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736341
-trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?sni=18.181.199.223&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956830
-trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20893714
-trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20816640
-trojan://humanity@202.37.33.80:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233058
-trojan://humanity@81.255.155.10:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20826021
-trojan://telegram-id-directvpn@13.36.49.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302911
-trojan://telegram-id-directvpn@13.39.41.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600173
-trojan://telegram-id-directvpn@15.236.251.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372472
-trojan://telegram-id-directvpn@15.237.22.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917045
-trojan://telegram-id-directvpn@3.126.110.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434814
-trojan://telegram-id-directvpn@3.73.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20672118
-trojan://telegram-id-directvpn@35.181.10.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726614
-trojan://telegram-id-directvpn@35.181.245.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20162997
-trojan://telegram-id-directvpn@35.181.245.85:22223?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509542
-trojan://telegram-id-directvpn@52.29.147.115:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20822991
-trojan://telegram-id-directvpn@52.57.204.185:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20598678
-trojan://telegram-id-directvpn@63.185.173.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246288
-trojan://telegram-id-directvpn@63.185.188.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361167
-trojan://telegram-id-privatevpns@13.36.49.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20635911
-trojan://telegram-id-privatevpns@13.39.41.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960993
-trojan://telegram-id-privatevpns@15.236.251.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205917
-trojan://telegram-id-privatevpns@15.237.22.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20309653
-trojan://telegram-id-privatevpns@3.126.110.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460789
-trojan://telegram-id-privatevpns@3.73.163.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918715
-trojan://telegram-id-privatevpns@35.181.10.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284566
-trojan://telegram-id-privatevpns@35.181.245.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474829
-trojan://telegram-id-privatevpns@52.29.147.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790793
-trojan://telegram-id-privatevpns@52.57.204.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20507643
-trojan://telegram-id-privatevpns@63.185.173.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877139
-trojan://telegram-id-privatevpns@63.185.188.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306964
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇭 Switzerland | TLS • chrome
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#🇺🇸 USA | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http%2F1.1&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#🏴 Dynamic | TLS • edge
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.16.174.148:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.hitgram.ir#🇺🇸 USA | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@104.16.79.73:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇺🇸 USA | TLS
-trojan://humanity@104.16.62.25:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://2t5hATPZBk@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#🏴 Dynamic | TLS • firefox
-trojan://humanity@216.24.57.7:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇺🇸 USA | TLS
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS
-trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h2%2Chttp%2F1.1&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#🏴 Dynamic | TLS • firefox
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 UAE | TLS • chrome
-trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇺🇸 USA | TLS
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇸🇬 Singapore | TLS
-trojan://humanity@104.18.32.47:443/?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?host=zaintest.vuclip.com.cyylr.eu.cc&path=%2Fmy-wbv&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws#🇩🇪 Germany | TLS
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#🇸🇨 Seychelles | TLS
-trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇺🇸 USA | TLS • chrome
-trojan://humanity@104.18.10.110:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
-trojan://Mitivpn@216.24.57.7:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=dash.hitgram.ir&type=ws&allowInsecure=0&sni=dash.hitgram.ir#🇺🇸 USA | TLS
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇺🇸 USA | TLS
-trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://mitivpn@199.232.78.158:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 USA | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn.ws-ws-ws.workers.dev&fp=edge&type=ws&allowInsecure=1&sni=mitivpn.ws-ws-ws.workers.dev#🏴 Dynamic | TLS • edge
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#🏴 Dynamic | TLS • chrome
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇸🇨 Seychelles | TLS • chrome
-trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
+trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682947
+trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474107
+trojan://humanity@104.18.152.204:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20617648
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20757982
+trojan://Config0plus@45.130.125.69:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20621484
+trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20658947
+trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20434517
+trojan://humanity@45.130.125.69:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20157041
+trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20619236
+trojan://Nova-Proxy@8.39.125.191:2083?path=/&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20675973
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20582105
+trojan://Config0plus@45.130.125.76:443?path=/sg-melbi&security=tls&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20605472
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20959282
+trojan://humanity@45.130.125.76:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20884172
+trojan://humanity@45.130.125.76:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20517820
+trojan://y5yef0udbqnu7sym@45.130.125.76:443?sni=dashboard.nscl.ir&type=ws&path=/dashboard&alpn=http/1.1&fp=firefox#%F0%9F%87%B8%F0%9F%87%A8%20ShatakVPN%20948837
+trojan://humanity@104.17.131.88:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20361797
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20187835
+trojan://humanity@172.64.155.209:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20424697
+trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20424342
+trojan://Config0plus@104.17.121.71:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20965864
+trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20199792
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20145787
+trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20110193
+trojan://humanity@104.16.174.37:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20956363
+trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593853
+trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20802975
+trojan://humanity@104.18.7.147:443?security=tls&encryption=none&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729608
+trojan://humanity@104.18.6.147:443?security=tls&encryption=none&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509119
+trojan://humanity@104.18.6.147:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925769
+trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&sni=empty.node&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20961204
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20249570
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20405032
+trojan://humanity@104.18.32.47:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20103771
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20418334
+trojan://humanity@104.18.32.47:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20603234
+trojan://humanity@104.18.10.110:443?path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214330
+trojan://humanity@104.18.10.110:443?security=tls&encryption=none&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20967244
+trojan://humanity@104.18.11.110:443?security=tls&encryption=none&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777384
+trojan://humanity@104.18.11.110:443?security=tls&encryption=none&type=ws&host=www.multiplydose.com&path=//assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363491
+trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314815
+trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748062
+trojan://humanity@104.18.152.144:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246054
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144303
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839319
+trojan://humanity@172.64.152.23:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912546
+trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20441890
+trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487635
+trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781215
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220511
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443/?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20158876
+trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367656
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=/ae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20615555
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747363
+trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180096
+trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210588
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664097
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20794418
+trojan://humanity@104.19.229.21:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100923
+trojan://humanity@104.19.229.21:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20154680
+trojan://humanity@104.19.229.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486578
+trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20156695
+trojan://humanity@165.215.250.14:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511996
+trojan://humanity@165.215.250.14:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422826
+trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657573
+trojan://humanity@165.215.250.14:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327255
+trojan://humanity@104.18.22.63:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487058
+trojan://humanity@104.18.23.63:443?allowInsecure=1&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20112043
+trojan://humanity@104.18.22.63:443?alpn=http/1.1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202001
+trojan://humanity@104.18.22.63:443?security=tls&encryption=none&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286847
+trojan://humanity@104.18.152.179:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20145078
+trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395252
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959340
+trojan://humanity@104.18.13.149:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20868889
+trojan://humanity@104.18.13.149:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20224766
+trojan://humanity@104.16.89.120:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807599
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628068
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=/id-tksi&security=tls&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20449512
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968023
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=/id-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20547391
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20579461
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20793485
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726768
+trojan://humanity@172.64.146.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465585
+trojan://humanity@104.18.8.83:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20732881
+trojan://humanity@104.18.9.83:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20973942
+trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303780
+trojan://humanity@162.159.193.202:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118962
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20766531
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20999912
+trojan://humanity@104.18.152.133:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20847404
+trojan://humanity@104.16.90.120:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234099
+trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542673
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872099
+trojan://humanity@141.193.213.21:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20903380
+trojan://humanity@172.64.146.198:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20364002
+trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789274
+trojan://humanity@104.17.148.22:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968799
+trojan://Config0plus@104.16.75.127:443/?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688193
+trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714367
+trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695257
+trojan://humanity@5.10.214.53:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20824829
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293909
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20761357
+trojan://humanity@104.20.42.250:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20138756
+trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121271
+trojan://humanity@141.193.213.11:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233597
+trojan://humanity@141.193.213.11:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532049
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118861
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20470591
+trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202897
+trojan://humanity@104.18.139.67:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20977825
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420478
+trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@104.20.26.96:443?host=blog.webex.com.cyylr.eu.cc&path=%2Fin-do&sni=blog.webex.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20774187
+trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@172.66.157.39:443?host=blog.webex.com.cyylr.eu.cc&path=/in-do&sni=blog.webex.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596030
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736742
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674101
+trojan://humanity@104.18.12.149:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478573
+trojan://humanity@104.18.12.149:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564540
+trojan://humanity@104.18.12.149:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20624385
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528696
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485320
+trojan://humanity@104.19.2.175:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166647
+trojan://humanity@104.18.152.233:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866515
+trojan://humanity@172.64.147.133:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20130170
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20827654
+trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20659952
+trojan://humanity@8.6.112.6:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466224
+trojan://humanity@8.6.112.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20984756
+trojan://humanity@45.130.125.72:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20527157
+trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20888576
+trojan://humanity@104.16.80.73:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20258349
+trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20137363
+trojan://humanity@66.81.247.155:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496300
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217387
+trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630836
+trojan://Config0plus@45.130.125.96:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844732
+trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354165
+trojan://humanity@45.130.125.96:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261448
+trojan://humanity@104.21.103.254:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http%2F1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20958434
+trojan://Mitivpn@5.10.214.56:443?security=tls&sni=www.hitgram.ir&alpn=http/1.1&allowInsecure=1&type=ws&host=www.hitgram.ir&path=/?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20149289
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488536
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232905
+trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952110
+trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20559380
+trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20694217
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20852795
+trojan://humanity@185.18.250.252:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684287
+trojan://humanity@185.18.250.252:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860011
+trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20425780
+trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619871
+trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20254484
+trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406538
+trojan://humanity@104.17.25.173:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20527263
+trojan://humanity@104.17.25.173:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20644166
+trojan://humanity@104.16.250.22:443?sni=www.multiplydose.com&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20517102
+trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920889
+trojan://Config0plus@45.130.125.160:443?host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637313
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684009
+trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878233
+trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20407316
+trojan://humanity@45.130.125.160:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564638
+trojan://humanity@45.130.125.160:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429841
+trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20782724
+trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20384045
+trojan://humanity@188.114.96.4:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20296989
+trojan://humanity@188.114.96.4:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299756
+trojan://humanity@162.159.195.173:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639280
+trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526255
+trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619693
+trojan://humanity@188.114.96.3:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20821890
+trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20139090
+trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20427087
+trojan://humanity@188.114.97.3:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522860
+trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20696872
+trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20431442
+trojan://humanity@188.114.97.6:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20800113
+trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=safari#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20462573
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220140
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181226
+trojan://humanity@104.21.40.34:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799536
+trojan://humanity@104.21.227.134:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20300097
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542367
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351776
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942669
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252953
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20791519
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540017
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20195507
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530965
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164895
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974578
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?sni=www.weavenet.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20391483
+trojan://telegram-id-directvpn@15.236.157.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218490
+trojan://telegram-id-privatevpns@15.236.157.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744088
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289292
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442299
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20932899
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20880678
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%25F0%259F%2594%2592&allowInsecure=1&type=tcp&alpn=http%2F1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703336
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%F0%9F%94%92&allowInsecure=1&type=tcp&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20445642
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=🔒&allowInsecure=1&type=tcp&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487958
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=🔒&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245563
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=78.159.131.12&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232886
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20107760
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975506
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316808
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498952
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20125918
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874441
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20980609
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20415426
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20710436
+trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20930555
+trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643871
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20685121
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734390
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20761821
+trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900980
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535505
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314853
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-cloud.click&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20162084
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351960
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20508543
+trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346411
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&alpn=http/1.1&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443874
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&fp=chrome&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20236692
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933700
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&fp=chrome&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504847
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20851073
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803316
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20112474
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20238929
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20905733
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?sni=172.235.63.252&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994950
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?sni=172.235.63.252&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727439
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?sni=172.235.63.252&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20556796
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20430540
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?sni=www.registry-monitor.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323751
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327479
+trojan://DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20796737
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?sni=www.cdn-structure.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20477575
+trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354310
+trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20585384
+trojan://tsuchiya@161.34.39.108:443?sni=aa.ccmusic.jp&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20911691
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20603760
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?sni=www.ws-converter.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429165
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329925
+trojan://Config0plus@45.130.125.0:443/?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20350503
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fin-do&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607444
+trojan://E_hUHrn0%2B6VeZO%3Dv9%3DfLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.19.11#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393241
+trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790616
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994051
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548758
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20231331
+trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643899
+trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110896
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20108515
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966816
+trojan://humanity@104.18.1.55:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972106
+trojan://humanity@104.18.12.149:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20645011
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20434365
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890002
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?sni=vpn.rnmcnm.com&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20850688
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492839
+trojan://@v2ray_6@v2ray_6@www.hcaptcha.com:2083?sni=udb.nyanners.ir&type=ws&path=/&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20300197
+trojan://BxceQaOe@18.183.163.141:50712?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20808841
+trojan://BxceQaOe@18.183.163.141:50712?sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299568
+trojan://BxceQaOe@95.40.4.37:2520?sni=95.40.4.37&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20775744
+trojan://BxceQaOe@95.40.4.37:2520?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20212625
+trojan://BxceQaOe@95.40.4.37:2520?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428571
+trojan://Config0plus@45.130.125.0:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232815
+trojan://E_hUHrn0%2B6VeZO%3Dv9%3DfLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.19.11#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20150983
+trojan://af4b064a9c39472fb34ad8b113acdc6b@162.19.10.218:443?sni=162.19.10.218&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553331
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?security=tls&sni=www.cdn-setting.click&fp=chrome&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703615
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370147
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20331794
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20599738
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20782558
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783707
+trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?sni=www.cdn-setting.click&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884733
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349498
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465382
+trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:1180?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20311099
+trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?sni=18.181.199.223&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20295840
+trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492480
+trojan://fde84658-f03b-430a-a86f-c32cb1a2cdad@108.181.4.83:443?sni=us6lh1fsyabizv5m.lovebaipiao.net&type=ws&path=/images&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540498
+trojan://humanity@104.16.63.25:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735729
+trojan://humanity@104.16.7.70:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946877
+trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566417
+trojan://humanity@104.17.121.9:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795974
+trojan://humanity@104.17.150.76:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652640
+trojan://humanity@104.17.223.49:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20398156
+trojan://humanity@104.18.10.110:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596913
+trojan://humanity@104.18.152.229:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20154977
+trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20238592
+trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325698
+trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20123615
+trojan://humanity@104.19.208.184:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379396
+trojan://humanity@104.19.64.105:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614451
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346217
+trojan://humanity@104.20.6.134:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20995034
+trojan://humanity@104.20.6.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553549
+trojan://humanity@104.20.6.134:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20746281
+trojan://humanity@104.20.6.134:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20272203
+trojan://humanity@104.20.6.134:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20479715
+trojan://humanity@104.21.224.5:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164566
+trojan://humanity@104.26.4.11:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861517
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20997650
+trojan://humanity@141.193.213.10:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204074
+trojan://humanity@172.64.146.161:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20250573
+trojan://humanity@172.64.146.211:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485218
+trojan://humanity@172.66.44.211:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20253673
+trojan://humanity@172.66.47.45:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20835863
+trojan://humanity@172.66.47.69:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332441
+trojan://humanity@172.66.47.69:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690204
+trojan://humanity@188.114.96.250:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20673723
+trojan://humanity@188.114.97.194:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735750
+trojan://humanity@188.114.97.57:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230441
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815341
+trojan://humanity@188.114.98.0:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=ios#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20447515
+trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164958
+trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20980905
+trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20138683
+trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20707937
+trojan://humanity@202.37.33.80:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103882
+trojan://humanity@208.103.161.101:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20477161
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202687
+trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991686
+trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998273
+trojan://humanity@216.24.57.7:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20659273
+trojan://humanity@216.24.57.7:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409039
+trojan://humanity@45.130.125.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890496
+trojan://humanity@45.130.125.0:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938484
+trojan://humanity@45.130.125.0:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20819942
+trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20955067
+trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564596
+trojan://humanity@81.255.155.10:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795887
+trojan://humanity@89.116.46.68:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801944
+trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20476395
+trojan://humanity@104.18.12.149:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946886
+trojan://humanity@104.18.1.55:443?allowInsecure=1&path=/assignment&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849250
+trojan://humanity@104.18.1.55:443?security=tls&encryption=none&sni=www.gossipglove.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20868332
+trojan://humanity@104.18.0.55:443?security=tls&encryption=none&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20832759
+trojan://humanity@104.18.0.55:443?security=tls&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991227
+trojan://humanity@104.18.1.55:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890509
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611819
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429740
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521191
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219833
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20828251
+trojan://l64tlWoGT6USQr=3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allowInsecure=1&sni=www.rolll.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374859
+trojan://telegram-id-directvpn@13.39.126.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317179
+trojan://telegram-id-directvpn@13.39.41.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20820479
+trojan://telegram-id-directvpn@15.224.86.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769545
+trojan://telegram-id-directvpn@15.236.220.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259738
+trojan://telegram-id-directvpn@15.237.235.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20201778
+trojan://telegram-id-directvpn@3.126.110.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184146
+trojan://telegram-id-directvpn@35.181.245.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240076
+trojan://telegram-id-directvpn@35.181.245.85:22223?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124788
+trojan://telegram-id-directvpn@35.181.89.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20649151
+trojan://telegram-id-directvpn@52.29.147.115:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20385191
+trojan://telegram-id-directvpn@52.57.204.185:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857247
+trojan://telegram-id-directvpn@63.176.37.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998224
+trojan://telegram-id-directvpn@63.185.188.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715361
+trojan://telegram-id-directvpn@63.185.199.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993438
+trojan://telegram-id-privatevpns@13.39.126.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925250
+trojan://telegram-id-privatevpns@13.39.41.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20401716
+trojan://telegram-id-privatevpns@15.224.86.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432915
+trojan://telegram-id-privatevpns@15.236.220.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20150084
+trojan://telegram-id-privatevpns@15.237.235.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20971994
+trojan://telegram-id-privatevpns@3.126.110.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974068
+trojan://telegram-id-privatevpns@35.181.245.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972352
+trojan://telegram-id-privatevpns@35.181.89.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698757
+trojan://telegram-id-privatevpns@52.29.147.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914920
+trojan://telegram-id-privatevpns@52.57.204.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605362
+trojan://telegram-id-privatevpns@63.176.37.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20313841
+trojan://telegram-id-privatevpns@63.185.188.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20264915
+trojan://telegram-id-privatevpns@63.185.199.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20835994
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | TLS
-trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#🇸🇨 Seychelles | TLS • chrome
-trojan://humanity@104.18.0.55:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calml#🇸🇨 Seychelles | TLS • chrome
-trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
-trojan://humanity@104.19.229.21:443?path=assignment&security=tls&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://ypa8jqVoqQ@188.114.97.6:443?security=tls&sni=ssss2.avaaal.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ssss2.avaaal.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://%6d%69%74%69%76%70%6e@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&allowinsecure=1&type=ws&sni=cdn.linkman1.ir#🏴 Dynamic | TLS • chrome
-trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.145.202:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#🏴 Dynamic | TLS • firefox
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://JPZp5yhQpQ@188.114.97.6:443?type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.16.174.185:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://0jvOqSPtoC@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&fp=chrome&type=ws&sni=da.aananas.ir#🇸🇨 Seychelles | TLS • chrome
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.67.155.199:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&type=ws&host=www.calmloud.com&path=%2Fassignment#🏴 Dynamic | TLS • ios
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | TLS
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
-trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://lXn0PfJrTS@188.114.97.6:443?path=%2F%3Fed&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dd.aananas.ir.#🏴 Dynamic | TLS • chrome
+trojan://auto@172.66.44.131:443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev&ws=1&wspath=%2F#🏴 Dynamic | TLS
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=%2Fin-pdr&host=investors.spotify.com.cyylr.eu.cc&sni=investors.spotify.com.cyylr.eu.cc&allowInsecure=0#🇸🇨 Seychelles | TLS
+trojan://Config0plus@104.16.75.127:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇨🇭 Switzerland | TLS • chrome
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi#🇺🇸 USA | TLS
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://gKDgEL0ZBK@104.17.121.71:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&host=pahlevan.pahlevancompani.com&sni=pahlevan.pahlevancompani.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.16.174.148:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h2%2Chttp%2F1.1&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#🏴 Dynamic | TLS • firefox
+trojan://humanity@104.16.174.143:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS
+trojan://ICVPNN@45.80.108.236:8443?path=%2Fapii&security=tls&insecure=0&host=ntlfy.letknow.shop&fp=random&type=ws&allowInsecure=0&sni=ntlfy.letknow.shop#🇪🇪 Estonia | TLS • random
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=%2Fmy-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇩🇪 Germany | TLS
-trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Seychelles | TLS • chrome
-trojan://shabrangvpn@188.114.97.6:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de1.shabrang.shop#🏴 Dynamic | TLS • chrome
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
-trojan://mitivpn@104.18.32.47:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 USA | TLS
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.67.155.199:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&type=ws&host=www.calmloud.com&path=%2Fassignment#🏴 Dynamic | TLS • ios
+trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#🇺🇸 USA | TLS • chrome
+trojan://humanity@104.16.174.44:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#🏴 Dynamic | TLS
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🏴 Dynamic | TLS
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇺🇸 USA | TLS
 trojan://J6aPcSiRDB@188.114.98.0:8443?path=%2F&security=tls&insecure=0&host=login.salar40040.ir&fp=random&type=ws&allowInsecure=0&sni=login.salar40040.ir#🏴 Dynamic | TLS • random
-trojan://humanity@104.19.229.21:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@43.169.18.179:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#🇸🇬 Singapore | TLS
-trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#🇺🇸 USA | TLS • chrome
+trojan://Config0plus@185.18.250.252:443?path=%2Fsg-melbi&security=tls&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#🇨🇭 Switzerland | TLS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 USA | TLS
+trojan://humanity@104.16.79.73:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS • ios
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#🇸🇨 Seychelles | TLS • chrome
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS • ios
+trojan://humanity@104.19.229.21:443?path=assignment&security=tls&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 USA | TLS
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#🏴 Dynamic | TLS • chrome
+trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed%3D2048&security=tls&insecure=1&host=cdn.hitgram.ir&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#🏴 Dynamic | TLS
+trojan://8r%3C%5B9%27l6hAO%238ZQi@166.62.115.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸 USA | TLS
 trojan://wLy%3A8%3E%23.3p1*@104.18.13.149:443?path=%2FeyJqdW5rIjoibWRRQ1NZQU1PWGciLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=bb-1w3.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=bb-1W3.pAgeS.dEv#🏴 Dynamic | TLS • chrome
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calml#🇸🇨 Seychelles | TLS • chrome
+trojan://Config0plus@45.130.125.160:443?host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#🇸🇨 Seychelles | TLS
+trojan://humanity@104.18.0.55:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://Mitivpn@216.24.57.7:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=dash.hitgram.ir&type=ws&allowInsecure=0&sni=dash.hitgram.ir#🇺🇸 USA | TLS
+trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@141.101.90.101:443?alpn=http%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.152.210:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?path=%2Fin-do&security=tls&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#🇺🇸 USA | TLS
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.196.29.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#🇸🇨 Seychelles | TLS
+trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#🇸🇨 Seychelles | TLS • chrome
 trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 USA | TLS
 trojan://rQZjCMGZEN@188.114.97.6:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&host=cloud.magicservice.top&fp=chrome&type=ws&sni=cloud.magicservice.top#🏴 Dynamic | TLS • chrome
-trojan://mitivpn@104.21.21.21:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.iranpoems.ir.&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#🏴 Dynamic | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=cdn.linkman1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&sni=cdn.linkman1.ir&type=ws#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
-trojan://JPZp5yhQpQ@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=ssss2.avaaal.ir&fp=chrome&type=ws&allowInsecure=1&sni=ssss2.avaaal.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS • chrome
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=1=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#🇺🇸 USA | TLS
-trojan://humanity@104.16.174.143:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://telegram-id-privatevpns@15.224.86.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🏴 Dynamic | TLS
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#🇩🇪 Germany | TLS • chrome
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Germany | TLS • chrome
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#🇩🇪 Germany | TLS
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#🇵🇱 Poland | TLS • chrome
-trojan://telegram-id-directvpn@63.176.37.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://telegram-id-privatevpns@63.176.37.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://telegram-id-v2rayvpnchannel@63.176.37.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#🇺🇸 USA | TLS • chrome
-trojan://humanity@141.101.90.101:443?alpn=http%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://Watashi_VPN@104.17.148.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%252fassignment#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🏴 Dynamic | TLS
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http%2F1.1&fp=edge&type=ws&sni=www.mitivpn.in.net#🏴 Dynamic | TLS • edge
-trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://Mitivpn@45.130.125.76:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#🇸🇨 Seychelles | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS • ios
-trojan://Mitivpn@216.24.57.6:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸 USA | TLS • chrome
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
-trojan://humanity@104.18.23.63:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://8r%3C%5B9%27l6hAO%238ZQi@166.62.115.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸 USA | TLS
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
-trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.196.29.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#🇸🇨 Seychelles | TLS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
-trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&alpn=http%2F1.1&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://Config0plus@104.19.229.21:443?path=%2Fin-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&type=ws&sni=investors.spotify.com.cyylr.eu.cc#🏴 Dynamic | TLS
-trojan://humanity@104.18.152.210:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
-trojan://%40v2ray_6%40v2ray_6%40v2ray_6@www.hcaptcha.com:2083?path=%2F&security=tls&insecure=0&host=udb.nyanners.ir&fp=chrome&type=ws&allowInsecure=0&sni=udb.nyanners.ir#🏴 Dynamic | TLS • chrome
-trojan://JPZp5yhQpQ@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=ssss2.avaaal.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssss2.avaaal.ir#🏴 Dynamic | TLS • chrome
-trojan://mitivpn@199.232.78.159:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=miti1234.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 USA | TLS • chrome
-trojan://Mitivpn@216.24.57.7:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸 USA | TLS • chrome
-trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http%2F1.1&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#🏴 Dynamic | TLS • edge
+trojan://Config0plus@45.130.125.160:443?path=%2Fin-pdr&security=tls&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#🇸🇨 Seychelles | TLS
 trojan://Config0plus@45.130.125.96:443?path=%2Fid-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨 Seychelles | TLS
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=404.mitii33.workers.dev&fp=edge&type=ws&allowInsecure=0&sni=404.mitii33.workers.dev#🏴 Dynamic | TLS • edge
-trojan://humanity@104.16.89.120:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.130.125.66:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🇸🇨 Seychelles | TLS
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🇸🇨 Seychelles | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.139.67:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇨🇭 Switzerland | TLS
-trojan://GdL9nNA8km@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=ssss2.avaaal.ir&fp=chrome&type=ws&sni=ssss2.avaaal.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.13.149:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🏴 Dynamic | TLS • chrome
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
+trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.145.202:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#🏴 Dynamic | TLS • firefox
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#🏴 Dynamic | TLS • chrome
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#🏴 Dynamic | TLS
+trojan://Watashi_VPN@104.17.148.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
 trojan://humanity@45.130.125.76:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇸🇨 Seychelles | TLS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#🏴 Dynamic | TLS • ios
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🏴 Dynamic | TLS
-trojan://humanity@104.18.10.110:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@104.18.139.67:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&type=tcp&sni=172.235.63.252#🇺🇸 USA | TLS
+trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#🇺🇸 USA | TLS • chrome
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇭 Switzerland | TLS
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.global.ssl.95r.ir#🏴 Dynamic | TLS • chrome
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇵🇱 Poland | TLS
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=cdn.de.linko1.ir#🏴 Dynamic | TLS • chrome
-trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#🇸🇨 Seychelles | TLS • chrome
-trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 USA | TLS • chrome
-trojan://humanity@104.18.152.233:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=404.mitii33.workers.dev&fp=edge&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#🏴 Dynamic | TLS • edge
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi#🇺🇸 USA | TLS
-trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
-trojan://8r%3C%5B9%27l6hAO%238ZQi@27.50.48.253:443?allowInsecure=1&fp=chrome&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇸🇬 Singapore | TLS • chrome
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://Config0plus@45.130.125.160:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨 Seychelles | TLS
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fin-do&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws#🇺🇸 USA | TLS
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | TLS
+trojan://2t5hATPZBk@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#🏴 Dynamic | TLS • firefox
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443/?type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&type=ws#🏴 Dynamic | TLS
+trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🏴 Dynamic | TLS
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS
 trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&alpn=http%2F1.1&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Japan | TLS
+trojan://qdcdnsaz5zsotaug@192.153.57.237:80?path=%2Fnini&security=none&host=192.153.57.237&type=ws#🇳🇱 Netherlands | TLS
+trojan://telegram-id-privatevpns@13.39.126.73:22222?allowInsecure=1#🇫🇷 France | TLS
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
+trojan://telegram-id-directvpn@13.39.126.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🇦🇱 Albania | TLS
+trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🏴 Dynamic | TLS • chrome
+trojan://shabrangvpn@188.114.97.6:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de1.shabrang.shop#🏴 Dynamic | TLS • chrome
+trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#🇩🇪 Germany | TLS • chrome
+trojan://SHAMOJ3rnxb5LyMDn6CRXA@vip-srv-for-you.parsiclouds.ir:443?mode=auto&path=%2Fdownload&security=tls&alpn=h2%2Chttp%2F1.1&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%2210-50%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=x1-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1-dpim9mztudx78ieloo1t.parsiclouds.ir#🇷🇴 Romania | TLS • chrome
+trojan://telegram-id-v2rayvpnchannel@63.185.124.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://telegram-id-directvpn@63.185.124.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://telegram-id-privatevpns@63.185.124.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | TLS
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=yazhou10.dynu.net#🇹🇼 Taiwan | TLS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇺🇸 USA | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇨🇭 Switzerland | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://0jvOqSPtoC@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&fp=chrome&type=ws&sni=da.aananas.ir#🇸🇨 Seychelles | TLS • chrome
+trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 USA | TLS
+trojan://mitivpn@104.18.32.47:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://JPZp5yhQpQ@188.114.97.6:443?type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&host=ssss2.avaaal.ir&sni=ssss2.avaaal.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@104.18.10.110:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#🏴 Dynamic | TLS
+trojan://mitivpn@104.21.21.21:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.iranpoems.ir.&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?type=ws&security=tls&path=%2Fae-bo&host=s.blibli.com.cyylr.eu.cc&sni=s.blibli.com.cyylr.eu.cc&allowInsecure=0#🏴 Dynamic | TLS
+trojan://humanity@104.19.229.21:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?encryption=none&security=tls&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=%2Fimages#🇨🇦 Canada | TLS
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 UAE | TLS • chrome
+trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#🇺🇸 USA | TLS • chrome
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇺🇸 USA | TLS
+trojan://humanity@104.18.23.63:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#🇸🇨 Seychelles | TLS
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🏴 Dynamic | TLS
+trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.hitgram.ir#🇺🇸 USA | TLS • chrome
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%252fassignment#🏴 Dynamic | TLS
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
+trojan://2t5hATPZBk@45.130.125.158:443?path=%2F%3Fed%3D2048&security=tls&fp=ios&type=ws&sni=dd.aananas.ir.#🇸🇨 Seychelles | TLS • ios
 trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇺🇸 USA | TLS
-trojan://humanity@www.multiplydose.com:443?encryption=none&security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed%3D2048&security=tls&insecure=1&host=cdn.hitgram.ir&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#🏴 Dynamic | TLS
-trojan://gKDgEL0ZBK@104.17.121.71:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&host=pahlevan.pahlevancompani.com&sni=pahlevan.pahlevancompani.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🏴 Dynamic | TLS • chrome
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
-trojan://telegram-id-privatevpns@15.236.220.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
-trojan://telegram-id-directvpn@15.236.220.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
-trojan://telegram-id-v2rayvpnchannel@15.236.220.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
-trojan://mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F&host=www.ir-sub.ir&sni=www.ir-sub.ir&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
-trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🏴 Dynamic | TLS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://Config0plus@104.19.229.21:443?path=%2Fin-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&type=ws&sni=investors.spotify.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇨🇭 Switzerland | TLS
 trojan://Config0plus@104.16.75.127:443?path=%2Fid-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏴 Dynamic | TLS
-trojan://humanity@172.66.44.211:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🏴 Dynamic | TLS
-trojan://v2ray%64i%61@104.16.75.207:2053?path=%2F%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2ray%64i%61--%40v2raydia&security=tls=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&insecure=0&host=wIn.CcNnx.IR&fp=chrome&type=ws&allowInsecure=0&sni=wIn.CcNnx.IR#🏴 Dynamic | TLS • chrome
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#🇷🇴 Romania | TLS
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#🏴 Dynamic | TLS
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS
-trojan://humanity@104.18.16.56:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴 Dynamic | TLS
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🏴 Dynamic | TLS
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=%2Fmy-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇩🇪 Germany | TLS
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇭 Switzerland | TLS • chrome
+trojan://humanity@216.24.57.7:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇺🇸 USA | TLS
+trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Seychelles | TLS • chrome
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.130.125.66:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🇸🇨 Seychelles | TLS
+trojan://humanity@104.18.10.110:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.20.6.134:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://8r%3C%5B9%27l6hAO%238ZQi@27.50.48.253:443?allowInsecure=1&fp=chrome&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇸🇬 Singapore | TLS • chrome
+trojan://GdL9nNA8km@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=ssss2.avaaal.ir&fp=chrome&type=ws&sni=ssss2.avaaal.ir#🏴 Dynamic | TLS • chrome
+trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨 Seychelles | TLS
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🇨🇭 Switzerland | TLS • chrome
+trojan://uR0TSWA%40N%5E%25u%2CBni@restless-base-fe24.alirezahabibi20009.workers.dev:443?security=tls&sni=rESTless-basE-fe24.aLiReZaHabibi20009.woRKErS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiM2VVWXFtczhRUVN5SHpGMyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#☁️ Cloudflare | TLS • chrome
+trojan://%6d%69%74%69%76%70%6e@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&allowinsecure=1&type=ws&sni=cdn.linkman1.ir#🏴 Dynamic | TLS • chrome
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🏴 Dynamic | TLS • chrome
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#🇺🇸 USA | TLS • chrome
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://uR0TSWA%40N%5E%25u%2CBni@restless-base-fe24.alirezahabibi20009.workers.dev:443?security=tls&sni=rESTless-basE-fe24.aLiReZaHabibi20009.woRKErS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=&path=%2FeyJqdW5rIjoiM2VVWXFtczhRUVN5SHpGMyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#☁️ Cloudflare | TLS • chrome
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.16.174.185:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&sni=edu.ruangguru.com.cyylr.eu.cc&type=ws#🇺🇸 USA | TLS
+trojan://humanity@104.18.13.149:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🏴 Dynamic | TLS • chrome
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇺🇸 USA | TLS
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🏴 Dynamic | TLS
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
+trojan://mitivpn@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=cdn.linkman1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&sni=cdn.linkman1.ir&type=ws#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴 Dynamic | TLS
+trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨 Seychelles | TLS
+trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#🏴 Dynamic | TLS
+trojan://mitivpn@199.232.78.159:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=miti1234.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 USA | TLS • chrome
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
+trojan://humanity@104.18.32.47:443/?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http%2F1.1&fp=edge&type=ws&sni=www.mitivpn.in.net#🏴 Dynamic | TLS • edge
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🏴 Dynamic | TLS • chrome
+trojan://humanity@104.19.229.21:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#🏴 Dynamic | TLS
+trojan://Mitivpn@216.24.57.6:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸 USA | TLS • chrome
+trojan://Mitivpn@45.130.125.76:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#🇸🇨 Seychelles | TLS • chrome
+trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#🇺🇸 USA | TLS • chrome
+trojan://telegram-id-privatevpns@13.39.126.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-directvpn@15.236.157.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://telegram-id-v2rayvpnchannel@15.236.157.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | TLS • chrome
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#🇩🇪 Germany | TLS • chrome
+trojan://telegram-id-privatevpns@15.236.157.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#🇩🇪 Germany | TLS
+trojan://telegram-id-v2rayvpnchannel@13.39.126.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | TLS
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=cdn.de.linko1.ir#🏴 Dynamic | TLS • chrome
+trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇸🇨 Seychelles | TLS • chrome
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&security=tls&host=s.blibli.com.cyylr.eu.cc&type=ws&sni=s.blibli.com.cyylr.eu.cc#🏴 Dynamic | TLS
+trojan://humanity@104.18.1.55:443?encryption=none&security=tls&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🏴 Dynamic | TLS • chrome
+trojan://mitivpn@199.232.78.158:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 USA | TLS • chrome
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 USA | TLS • chrome
+trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴 Dynamic | TLS
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇺🇸 USA | TLS • chrome
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%252fassignment#🏴 Dynamic | TLS • chrome
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=1=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🏴 Dynamic | TLS
+trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏴 Dynamic | TLS
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#🇵🇱 Poland | TLS • chrome
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇵🇱 Poland | TLS
