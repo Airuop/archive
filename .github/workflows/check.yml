@@ -4,12 +4,12 @@ on:
 jobs:
   main:
     name: Checker
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04.5
     steps:
       - uses: actions/checkout@v6.0.1
       - uses: actions/setup-python@v6.1.0
         with:
-          python-version: "3.11.14"
+          python-version: "3.11.x"
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Tehran'
       - name: Install Requirements
